@@ -140,12 +140,11 @@ Platform，即**平台模式**，可以说是当今最叼的商业模式了，�
 
 ![img](/img/in-post/post-alitrip-pd/post-alitrip-pd.026.jpg)
 
-想想看，每一笔交易都在你的地盘上发生，只要市场一直活跃，你就可以在其中**双边、多边盈利**。什么竞价排名、广告平台、VIP 特权，盈利模式太丰富了
+想想看，每一笔交易都在你的地盘上发生，只要市场一直活跃，你就可以在其中**双边、多边盈利**Essence What bidding ranking, advertising platform, VIP privilege, the profit model is too rich
 
-美梦做完了，回到淘宝旅行来。做平台是每个产品的梦想，肯定是对的。那么问题出在哪呢？
+The dream was done and returned to Taobao. Being a platform is the dream of each product, it must be right. So where is the question?
 
-**太不垂直了！** 旅游行业，极度要求信誉：去哪儿对接的都是 B 类商家（OTA，品牌连锁酒店，直销等），从根本上就保证了产品体验。淘宝旅行的产品则充斥着大量的小旅行社、个人之类的小卖家，严重影响购买体验。你能想象预定一间酒店发现下面十几二十页的卖家，选完卖家又要跟人在旺旺上扯半个小时么？价格便宜作为唯一的优势，是以严重牺牲产品购买体验为代价的，极为得不偿失。更何况，旅游产品的受众大部分还是消费能力较强的人群，更是看重商家/产品质量而不是价格了。
-
+**太不垂直了！** The tourism industry requires credibility: Wherever you go, it is Class B merchant (OTA, brand chain hotel, direct sales, etc.), which fundamentally guarantees the product experience. Taobao travel products are full of small sellers such as small travel agencies and individuals, which seriously affects the purchase experience. Can you imagine that a hotel finds the seller of the following dozen or twenty pages. After selecting the seller, you have to pull it with someone for half an hour on Wangwang? The cheap price, as the sole advantage, is at the cost of serious sacrifice product purchase experience, which is extremely worthwhile. What's more, most of the audiences of tourism products are still people with strong consumption power, and they value merchants/product quality rather than prices.
 
 ### 第三轮革命：Now
 
@@ -154,27 +153,28 @@ BAT 纷纷介入，行业进入了传说中的 BATX 格局：
 
 ![img](/img/in-post/post-alitrip-pd/post-alitrip-pd.028.jpg)
 
-阿里最近动作频频，力推去啊不说，更是收购线下酒店软件石基，配合蚂蚁金服期下芝麻信用开展“酒店信用住”等业务
-百度早早投资去哪儿，两个搜索引擎起家的公司风格一脉相承。同时，百度也悄悄发布了百度旅行这样的试水产品
-腾讯入股艺龙，同程网等，也在尝试 QQ 旅游等产品
+Ali has recently moved frequently, pushing it, not to mention it, it is also the purchase of offline hotel software stone bases. In conjunction with the Ant Financial service period, sesame credit has carried out "hotel credit residence"
+Where is Baidu invested early, the two search engines starting with each other. At the same time, Baidu also quietly released a water test product like Baidu Travel
+Tencent's investment in Yilong, Tongcheng.com, etc., also trying QQ tourism and other products
 
-Update：不过，就在 2015.5 左右，携程宣布收购艺龙，非常戏剧性的局面啊……
+Update: However, around 2015.5, Ctrip announced the acquisition of Yilong, a very dramatic situation ...
 
-为什么都要介入呢？
-一是互联网结合传统行业的大潮到来，大家都发现旅游行业是一个金矿，市场其实特别大……
-二是这个领域确实还有很多可以突破的商业模式存在，很多细分领域都开始有创业公司起来，整个行业的生态也越来越丰富：
+Why do you intervene?
+The first is that the Internet combines the tide of traditional industries. Everyone finds that the tourism industry is a gold mine. The market is actually very large ...
+Second, there are indeed many business models that can be broken in this area. Many segments have begun to start with startups. The ecology of the entire industry is becoming more and more abundant:
 
 ![img](/img/in-post/post-alitrip-pd/post-alitrip-pd.029.jpg)
 
-这种时候，BAT 这样的土豪公司就想进来收网了 —— 砸钱也得砸出个平台来！
-所以，这一轮游戏一定能看到一次大洗牌（艺龙第一个就阵亡了）
+At this time, local tyrant companies like BAT want to come in to collect the net -have to smash a platform!
+Therefore, this round of games will definitely see a large reshuffle (Yilong is killed in the first one)
 
 那么，这轮革命怎么演变呢？
 
-**一是模式融合**，以前做 OTA 的做 OTA，做渠道的做渠道，尝试做平台的做平台。现在，大家都知道平台模式可能是更好的形态，纷纷开始进化了。
+**一是模式融合**，以前做 OTA 的做 
+OTA, do channels to do channels, try to be platforms on platforms. Now, everyone knows that the platform model may be a better form, and one after another has begun to evolve.
 
-* 都做 OTA，拿下各种牛逼直营，最典型的就是航班
-* 都做平台，尤其是质量相对比较高的 B2C 平台。然后尝试可能的 C2C 产品形态 （去啊的客栈是一个很好的尝试）
+* Do all of OTA, win all kinds of Niubi direct business, the most typical is flight
+* Both are platforms, especially the relatively high -quality B2C platform. Then try the possible C2C product form (to go to the inn, a good attempt)
 
 ![img](/img/in-post/post-alitrip-pd/post-alitrip-pd.030.jpg)
 
@@ -184,12 +184,9 @@ Update：不过，就在 2015.5 左右，携程宣布收购艺龙，非常戏剧
 * 强调用户体验与用户留存，强调**一站式服务**、**个性化服务** 等更极致的产品形态
 
 ![img](/img/in-post/post-alitrip-pd/post-alitrip-pd.031.jpg)
+And these evolutions are exactly what the Ali travels and go. Starting from the large version of 5.0, Taobao Travel will have ** wash your mind ** to pursue a more extreme, more vertical, and experience better product form.
 
-
-而这些演变，正是 **阿里旅行 · 去啊** 致力去做到的。从大版本 5.0 开始，淘宝旅行将 **洗心革面**，去追求一个更极致，更垂直，体验更优秀的产品形态。
-
-让我们一起见证去啊的成长，与在线旅游行业的变革吧！
-
+Let's witness the growth of the way, and the change in the online tourism industry!
 
 ---
 

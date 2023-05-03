@@ -19,10 +19,9 @@ tags:
 
 > Here comes Module!
 
-随着网站逐渐变成「互联网应用程序」，嵌入网页的 JavaScript 代码越来越庞大，越来越复杂。网页越来越像桌面程序，需要一个团队分工协作、进度管理、单元测试……我们不得不使用软件工程的方法，来管理网页的业务逻辑。
+As the website gradually becomes "Internet applications", the JavaScript code embedded in the webpage is becoming larger and more complicated. The webpage is more and more like desktop programs. It requires a team division of labor cooperation, progress management, unit test ... We have to use the method of software engineering to manage the business logic of the webpage.
 
-于是，JavaScript 的模块化成为迫切需求。在 ES6 Module 来临之前，JavaScript 社区提供了强大支持，尝试在现有的运行环境下，实现模块的效果。
-
+As a result, JavaScript's modularization has become an urgent need. Prior to ES6 Module, the JavaScript community provided strong support to try to achieve the effect of the module under the existing operating environment.
 
 
 ## CommonJS & Node
@@ -52,14 +51,13 @@ exports.b = function(){ // 暴露 b 函数接口
 
 CommonJS 前身叫 ServerJS ，**后来希望能更加 COMMON，成为通吃各种环境的模块规范，改名为 CommonJS** 。CommonJS 最初只专注于 Server-side 而非浏览器环境，因此它采用了同步加载的机制，这对服务器环境（硬盘 I/O 速度）不是问题，而对浏览器环境（网速）来说并不合适。
 
+Therefore, the module framework and standards that are suitable for the browser environment are born one by one. Their common points are:
 
-因此，各种适用于浏览器环境的模块框架与标准逐个诞生，他们的共同点是：
-
-* 采用异步加载（预先加载所有依赖的模块后回调执行，符合浏览器的网络环境）
-* 虽然代码风格不同，但其实都可以看作 CommonJS Modules 语法的变体。
+* Use asynchronous loading (reload all dependent modules in advance to execute it, in line with the browser's network environment)
+* Although the code style is different, it can actually be regarded as a variant of the Commonjs Modules syntax.
 * 都在向着 **COMMON** 的方向进化：**兼容不同风格，兼容浏览器和服务器两种环境**
 
-本文接下来要讨论的典例是：
+The example to discuss this article is:
 
 * RequireJS & AMD（异步加载，预执行，依赖前置。默认推荐 AMD 写法）
 * SeaJS & CMD（异步加载，懒执行，依赖就近，默认推荐 CommonJS 写法）

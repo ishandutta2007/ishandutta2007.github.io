@@ -56,67 +56,68 @@ tags:
     Home 
 </pre>
 
-可是接下来阿布在照片应用内的表现就足以说明问题：阿布不但能够对“照片方块”进行归类学习，知道**“既然一张照片可以点开，那么每张都是可以的”**。阿布居然还学会了 **Back 按键**的使用！  
-要知道阿布是一定不认识 Back 箭头右边的文字的。我猜测阿布可能是通过空间位置记忆（屏幕左上角），也有可能是通过图形记忆的（要知道人对图形的认知能力要远高于文字）。总之无论如何，阿布学会了 Back ，并可以进行下图这样“如此复杂的操作”了：
+However, the performance of Abu in the photo application is enough to explain the problem: Abu not only can classify the "photo block", but also know**“既然一张照片可以点开，那么每张都是可以的”**。阿布居然还学会了 **Back 按键**的使用！  
+You know that Abu must not know the text on the right side of BACK arrow. I guess that Abu may be through space positioning (upper corner of the screen), or it may be through graphics (you must know that people's cognitive ability to graphics is much higher than text). In short, Abu learned BACK, and you can perform the "so complicated operation" in the figure below:
 
 <pre>
-  照片Icon     One   One
-主屏幕 ⇌ 相簿列表 ⇌ 相簿 ⇌ 单张照片
-    Home      Back  Back
+   Photo icon One ONE
+Main screen ⇌ album list ⇌ photo album ⇌ single photo
+     Home Back Back
 </pre>
 
-而且其实在“单张照片”这个环节是有个“坑”的：**如果点一下照片，所有导航会消失（切换到照片全屏观看模式），要再点一下照片导航才会回来。** 我不能清楚的知道阿布是否了解了这个规律，但是一旦阿布看到 Back 键回来时就会懂得依靠按它来返回。
+And in fact, there is a "pit" in the "single photo": **If you click the photo, all navigation will disappear (switch to the full screen view mode), and you need to click the photo navigation to return.** I ca n’t know whether Abu understands this law, but once Abu see the back key, I know how to return to it by pressing it.
 
+#### II. Perfect understanding metaphor
 
-#### II. 完美理解隐喻
+Children's thinking is straightforward. They don't try to cover up any thoughts, and they will do whatever they think.
 
-小孩子的思维是直白的。它们不会试图掩盖什么想法，它们想到什么就会去做什么。
-
-我们都知道如果一个东西在你的右边，那么你需要把这个“世界”向左拉，做一个相对运动，你才能重新看到这个东西。小孩子不用知道什么相对运动，但是自然而然的就能懂 —— **阿布知道在屏幕上左右划能让手机里的这个小世界跟着移动起来，阿布知道被划走的东西相反划就可以划回来。**
+We all know that if one thing is on your right, then you need to pull this "world" to the left and do a relative exercise to see this thing again. Children don’t need to know what relative exercise, but naturally you can understand — ** Abu knows that you can move this small world on the screen on the screen. Abu knows what you have taken away. Essence**
 
 这就是我们常说的**物理隐喻**，小孩子不知道物理也不知道什么隐喻，But it works.
+But that's not this that surprised me. If I have an iPhone when I am 2 years old, I should also be so blindly picked up ...
+What really made me feel that I had to write this article was: Once, I played my iPhone for Abu, and Abu often opened the album to start turning.**
 
-不过让我惊讶的不是这个，我 2 岁的时候要是有 iPhone ，我应该也是能那么瞎扒拉一两下的吧……  
-真正让我觉得非写此文不可的是：有一次，我给阿布玩我的 iPhone ，阿布照常打开了相册开始翻，**说时迟那时快，来了一条微信通知！**
-
-对对对，就是那个从上往下滑下来 ↓↓↓↓ 的 Push Notification.
+Yes, right, that is, the push notification of ↓↓↓↓ from top to the top.
 
 <pre>
-微信 
-Kant 给你发了一个红包 
+WeChat 
+Kant sent you a red envelope
 </pre>
 
-**接着高潮就来了，阿布非常淡定的伸出小手，把推送给我顶 ↑↑↑↑ 回去了！！**  
-卧槽你们一定不能体会我当时有多惊讶。
+**Then the climax came, Abu stretched out his little hand very calmly and pushed me to me ↑↑↑↑ Go back! Intersection**  
+You must not experience how surprised me at the time.
 
-**隐喻啊！从上面掉下来的东西，不 想 要 的 话 就可以划回去好吗。** 小孩子对数字世界交互隐喻的理解，真是完爆了不知道多少 Digital immigrant (下文会解释) 。
+**Metaphor! If you don't want it if you don't want it, can you go back if you don't want it?** Children's understanding of the metaphor of the digital world interaction is really finished. I don't know how much Digital Immigrant (will be explained below).
 
 
 ####  III. 世界观的树立
 
-这是为什么？为什么小孩子可以具备对数字世界如此的领悟能力？
+why is that? Why can children have the ability to understand the digital world?
 
-我的答案不难理解：**数字世界已经完美地融入了阿布的世界体系里。阿布从小就在感受数字世界的“定律”，这种学习，对于阿布来说，与她对现实世界的学习完全无异。**
+我的答案不难理解：**The digital world has perfectly incorporated in Abu's world system. Abu has experienced the "law" of the digital world since he was a child. For Abu, this kind of learning is completely different from her learning of the real world.**
 
-**这种感觉就好像我们从小其实就在感受这个世界的物理规律**：我们不知道万有引力，但是我们知道东西从手中放开就会掉下去；我们不知道热交换，但是我们知道冷水和热水可以对成温水；我们不知道杠杆原理，但是我们知道在门把手附近推门会更省力……
+**这种感觉就好像我们从小其实就在感受这个世界的物理规律**：We do n’t know that there is a gravity, but we know that things will fall from the hand; we do n’t know hot exchange, but we know that cold water and hot water can be paired with warm water; we do n’t know The door will save effort ...
 
-有个很好玩的案例可以证明阿布脑中体系的建立过程：我的相册中有不少 UI 截屏，**截屏对于阿布来说是个更有难度的认知（就好像大多数动物都无法认知镜子一样）** 。当 Back 按钮成为阿布脑海中对虚拟世界“返回”的定义，就算是截屏中的 Back ，阿布也会毫不犹豫的点上去，可是居然没有效果 —— **这违背了阿布的认知，于是她会感到疑惑和不安**，直到下一次 Back 奏效……
+There is a very fun case that proves the establishment of the system in Abu's brain: there are many UI screenshots in my album,**
+Screenshot is a more difficult cognition for Abu (as if most animals cannot recognize the mirror)**Essence When the Back button becomes the definition of "returning" the virtual world in Abu's mind, even if it is BACK in the screenshot, Abu will not hesitate to go up, but there is no effect —— **This violates Abu’s cognition, so she will feel doubtful and uneasy**，直到下一次 Back 奏效……
 
-世界观是一个需要长时间建立起来的东西，**当我们跟小孩子一样对世界最为无知时，我们也对世界最为好奇，于是眼前的一切都一股进脑。然后大脑进行着快速的记忆和学习，逐渐形成了你对这个世界的认知。**
-所以世界观也是一个很顽固的东西，已经建立起来的部分很难摧毁，新的东西也就没有太多立足之处 —— 这也算是解释了为什么小孩子学习数字设备如此之快，而越是大龄就相对越难接受（当然这其实与不同年龄大脑的生命活动有关系，这里只是比喻的说法）
+The worldview is a thing that needs to be established for a long time. ** When we are the most ignorant of the world like children, we are also most curious about the world, so everything in front of us is in the brain. Then the brain has a fast memory and learning, and gradually forms your perception of this world. **
+Therefore, the worldview is also a very stubborn thing. It is difficult to destroy the part that has been established, and there is not much to stand for the new things -this can also be regarded as explaining why children learn digital devices so fast, and the older the age, the older the age, the older the age. It is relatively more difficult to accept (of course this is actually related to the life activities of different ages, here is just a metaphor)
 
-说到这里，我们终于可以回归最初的问题：  
-什么是 Digital native ？还有与之对应的 Digital immigrant ?
+Speaking of which, we can finally return to the initial question:
+What is Digital Native? And the corresponding Digital Immigrant?
 
-> **Digital native，数字原住民**： 指代从出生开始就习惯有互联网、无线技术的一代人 （logically there's a whole generation of individuals for whom concepts such as the Internet and wireless technology are just humdrum, because they've never lived in a world where they didn't exist. These are the so-called digital natives）
->    
->  **Digital immigrant，数字移民**：指代更早的一代人，已经情愿或者不情愿地适应了这个数字世界，并且将各类数字工具运用到生活当中。（Digital immigrants are their antithesis, being the folks born earlier who, either reluctantly or enthusiastically, have adapted to the digital world and incorporated its tools into their lives.）
+> **Digital native，数字原住民**： Refers to a generation who has been accustomed to the Internet and wireless technology since birth (LogicalLly there is a whole generation of Individuals for WHOM Concepts Such as the International and Wireless Technologian Humdrum, BeCAUSE They'VE NEVER LIVED in a World where they did ' t exce.
+"
+>  **Digital immigrant，数字移民**：
+Refers to the earlier generation of people, who has been willing or reluctant to adapt to this digital world, and apply various digital tools to life.（Digital immigrants are their antithesis, being the folks born earlier who, either reluctantly or enthusiastically, have adapted to the digital world and incorporated its tools into their lives.）
 
-定义如此，但其实边界模糊。而真正重要的是：**或许在这个飞速发展的世界里，只有保持小孩般的好奇与初心，才能不被时代轻易的抛弃。**
+This is the case, but the boundary is actually blurred. What is really important is: ** Perhaps in this fast -growing world, only by maintaining children's curiosity and original intentions can we be easily abandoned by the times.**
 
 ## 结语
 
-我一度欣喜阿布是不是将来要成为计算机或者交互领域的大师，可是转念一想**我更愿意相信这一代小孩子都将具备如此神力**。就好像世界如果重新建立了秩序，那么最先适应秩序的一定是在新秩序下诞生的孩子们。因为他们对世界的认知里没有任何过去，也就没有任何 boundary 。
+I was pleased to be a master in the field of computer or interaction in the future, but I thought about it.
+**我更愿意相信这一代小孩子都将具备如此神力**Essence Just as if the world has re -established order, then the first to adapt to the order must be the children born under the new order. Because they do not have any past in the world, there is no Boundary.
 
 我经常想象假如我出世在一个以魔法为秩序的纪元里，那个世界里的小孩子一定生来就具备对魔法的领悟与操纵能力。**我想那种能力或许不是血脉或者种族里自带的天赋吧，而是从你呱呱坠地，开始认知、学习这个世界的那一天起，魔法就习以为常地印在了你的世界观里。**你从小就知道母亲空手就可以变个小太阳温暖你，而父亲则可以挥挥手放出一片星空来逗你开心。
 

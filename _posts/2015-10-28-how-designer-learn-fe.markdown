@@ -1,41 +1,41 @@
 ---
-layout:     post
-title:      "设计师如何学习前端？"
-subtitle:   "How designers learn front-end development?"
-date:       2015-10-28 12:00:00
-author:     "Ishan"
-header-img: "img/home-bg-o.jpg"
+layout: post
+Title: "How does the designer learn the front end?"
+subtitle: "How Designers Learn Front-end Development?"
+date: 2015-10-28 12:00:00
+Author: "Ishan"
+Header-IMG: "IMG/Home-BG-O.jpg"
 tags:
-    - 知乎
-    - Web
-    - UX/UI
+     - Know almost
+     -WEB
+     -UX/UI
 ---
 
-> 这篇文章转载自[我在知乎上的回答](https://www.zhihu.com/question/21921588/answer/69680480)，也被刊登于[优秀网页设计](http://www.uisdc.com/head-first-front-end)等多个网站上 ;)
+> This article is reproduced from [My Answer on Zhihu] (https://www.zhihu.com/question/21921588/answer/69680480), and it is also published in [Excellent Web Design] (http://wwwww Many websites such as .uisdc.com/head-furn-front-end);)
 
 
-笔者的经历在知乎就可以看到，大学专业是数字媒体艺术，大一实习过动效设计师，大二拿到了人生第一个大公司 offer 是阿里的交互设计，后来转岗到淘宝旅行的前端团队，现在在微信电影票做前端研发。
-<br>
-<br>也是走过了不少野路子，不过还好有小右哥 <a data-hash="cfdec6226ece879d2571fbc274372e9f" href="//www.zhihu.com/people/cfdec6226ece879d2571fbc274372e9f" class="member_mention" data-editable="true" data-title="@尤雨溪" data-tip="p$b$cfdec6226ece879d2571fbc274372e9f">@尤雨溪</a> 这样艺术/设计转前端的大神在前面做典范，也证明这条路是玩的通的 ;)
-<br>
-<br>接下来就说说自己的学习建议吧，一个小教程，也是自己走过的流程，仅供参考哈
-<br>
-<br>------------
-<br>
-<br><b>背景篇</b>
-<br>
-<br>在这个时代学习新东西，一定要善于使用 Bing/Google 等搜索引擎…网络上的资源非常丰富，自学能力也尤为重要，尤其是对于学习技术！
-<br>
-<br>
-<br>
-<br><b>入门篇（HTML/CSS）</b>
-<br>
-<br>说起设计师希望学前端的初衷，大概还是因为各种华丽的网页特效/交互太过吸引人，这种感觉大概就是：“Hey，我的设计可以做成网页访问了呢！”
-<br>好在，“展示”对于前端技术来说反而是最简单的部分。所以，放下你对“编程”两个字的恐惧，<b>从“称不上是编程语言”的 HTML/CSS 开始，先做点有成就感的东西出来吧！</b>
-<br>
-<br>对于设计师来说，最有成就感的一定是“可以看到的东西”，而 HTML/CSS 正是用来干这个的，HTML 就是一堆非常简单的标签，而 CSS 无非就是把你画画的流程用<b>英语</b>按一定的格式写出来而已：
-<br>
+I can see that the author's experience can be seen that the university majors are digital media art. After a freshman internship designer, the sophomore year got the first big company in life. The front -end team is now developing in the front -end of WeChat movie tickets.
 
+<br>
+<br> I also walked through a lot of wild roads, but fortunately, there is a little right brother <a data-hash = "cfDEC6226ece879d2571FBC274372e9f" href = "// www.zhihu.com/people/cfdec62571FBC2743 72e9f "class =" Member_mention "data- Editable = "TRUE" Data-Title = "@e e" data-tip = "P $ B $ CFDEC6226ECE879D2571FBC274372E9F">@e </a> The god of art/design turns the front end to be a model and proves that This road is played;)
+<br>
+<br> Let's talk about your learning suggestions. A small tutorial is also the process that you have taken by yourself. For reference only
+<br>
+<br> --------------
+<br>
+<br> <b> Background </b>
+<br>
+<br> To learn new things in this era, we must be good at using search engines such as Bing/Google ... The resources on the Internet are very rich, and self -learning ability is particularly important, especially for learning technology!
+<br>
+<br>
+<br>
+<br> <b> Getting Stay (HTML/CSS) </b>
+<br>
+<br> Speaking of the original intention of the designer's hopes to learn the front end, it is probably because various gorgeous webpage special effects/interaction are too attractive. This feeling is probably: "Hey, my design can be made into a webpage to visit!"
+<br> Fortunately, "display" is the simplest part for front -end technology. Therefore, let go of your fear of the word "programming", <b> starting from the HTML/CSS of "not called programming language", first do something with a sense of accomplishment! </b>
+<br>
+<br> For designers, the most fulfilling sense must be "what can be seen", and HTML/CSS is used to do this. HTML is a pile of very simple labels, and CSS is nothing more than to put it. The process of your painting is written in <b> English </b> in a certain format:
+<br>
 
 ```html
 <p> p is paragraph! </p>
@@ -44,34 +44,32 @@ tags:
 p { color: red;}
 </style>
 ```
-
-
-是不是非常容易，就跟读英语一样！
-<br>接下来，你就需要开始自学啦，比如常用 HTML 标签的意思，各种 CSS 的属性，还有 CSS 的盒模型、优先级、选择器……放心，它们都很容易；能玩得转 PS/AI/Flash/Axure/AE/Sketch 的设计师们，学这个洒洒水啦
+Is it very easy, just like reading English!
+<br> Next, you need to start yourself, such as the meaning of commonly used HTML labels, the attributes of various CSS, and the box model, priority, selector ... rest assured, they are easy to play; they can play what they can play; Designers who turn PS/AI/Flash/Axure/AE/Sketch, learn this sprinkler
 <br>
-<br>推荐几个资源：
+<br> Recommend a few resources:
 <br>
 <ul>
-    <li><a href="//link.zhihu.com/?target=http%3A//www.w3school.com.cn/" class=" wrap external" target="_blank" rel="nofollow noreferrer">w3school 在线教程<i class="icon-external"></i></a> (中文，一个很 Low 但是又很好的入门学习网站）
-        <br>
-    </li>
-    <li><a href="//link.zhihu.com/?target=http%3A//www.codecademy.com/" class=" wrap external" target="_blank" rel="nofollow noreferrer">Learn to code<i class="icon-external"></i></a> (Codecademy，如果你英文 OK，<b>强烈建议</b>你使用它进行交互式的学习！里面从 HTML/CSS 到搭建网站的课程都有，免费，生动直观）
-        <br>
-    </li>
+     <li> <a href = "// link.zhihu.com/?target=http%3a//www.w3school.com.cn/" class = "wrap external" target = "_ blank" rel = "nofollow noreferferrer" " > W3School Online Tutorial <i class = "Icon-EXternal"> </i> </a> (Chinese, a very low but good entry learning website)
+         <br>
+     </li>
+     <li> <a href="//link.zhihu.com/?target=http%3a//www.codecademy.com/" class=" wrap exparky" rel="nofollow noarn to code <i class = "icon-eXternal"> </i> </a> (CodeCademy, if you are OK in English, <b> strong suggestion </b> You use it for interactive learning! There are courses from CSS to the construction website, free, vivid and intuitive)
+         <br>
+     </li>
 </ul>
-<br><b>这个阶段的练习主要是“临摹”：用代码画出你想画的网站，越多越好。</b>
+<br> <b> The practice at this stage is mainly "copying": the more the website you want to draw with the code, the better. </b>
 <br>
-<br>对于书，我<b>非常不推荐</b>上来就去看各种厚厚的入门/指南书，没必要！这一个阶段应该快速上手，培养兴趣，培养成就感。先做出可以看的东西再说，掌握常用的 HTML/CSS 就够用了
+<br> For the book, I <b> I don't recommend it very much </b> I go to read all kinds of thick entry/guide books, it is not necessary! At this stage, you should get started quickly, cultivate interest, and cultivate a sense of accomplishment. Let's make things that can be seen first, and let's talk about the commonly used HTML/CSS is enough
 <br>
-<br>如果完成的好，这个阶段过后你大概就可以写出一些简单又好看的“静态网页”了，比如这个作品集/简历：<a href="//link.zhihu.com/?target=http%3A//huangxuan.me/portfolio/" class=" wrap external" target="_blank" rel="nofollow noreferrer">Portfolio - 黄玄的博客<i class="icon-external"></i></a> （好久没更新了…丢人现眼）
+<br> If it is done well, after this stage, you can probably write some simple and beautiful "static webpages", such as this work set/resume: <a href = "// link.zhihu.com/?target = http%3a // huangxuan.me/portfolio/"class =" wrap external "target =" _ blank "rel =" nofollow noreferrer "> Portfolio l "> </i > </a> (I haven't updated it for a long time ... shameful eyes)
 <br>
 <br>
 <br>
-<br><b>入门篇（JavaScript/jQuery）</b>
+<br> <b> Getting Stay (JavaScript/jquery) </b>
 <br>
-<br>想要在网页上实现一些交互效果，比如轮播图、点击按钮后播放动画？那你就必须要开始学习 JavaScript 了！JavaScript 是一门完整、强大并且非常热门的编程语言，你在浏览器里看到的所有交互或者高级功能都是由它在背后支撑的！
+<br> Want to achieve some interactive effects on the webpage, such as rotating pictures, clicking the button to play animation? Then you have to start learning JavaScript! JavaScript is a complete, powerful and popular programming language. All interaction or advanced functions you see in the browser are supported by it behind it!
 <br>
-<br>举个小栗子：
+<br> Take a little chestnut:
 <br>
 
 ```js

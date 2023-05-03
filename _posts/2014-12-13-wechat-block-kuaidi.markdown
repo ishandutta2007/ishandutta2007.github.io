@@ -1,70 +1,70 @@
 ---
-layout:     post
-title:      "如何看待微信屏蔽快的打车事件？"
-subtitle:   "恰有小感。"
-date:       2014-12-13
-author:     "Ishan"
-header-img: "img/post-bg-kuaidi.jpg"
+layout: post
+Title: "How to view WeChat shielding fast taxi?"
+subtitle: "There is just a small feeling."
+Date: 2014-12-13
+Author: "Ishan"
+header-img: "IMG/Post-BG-kuaidi.jpg"
 tags:
-    - 知乎
-    - 产品
+     - Know almost
+     - product
 ---
 
-> 这篇文章转载自[我在知乎上的回答](http://www.zhihu.com/question/26774049/answer/35041458)
+> This article is reproduced from [My Answer on Zhihu] (http://www.zhihu.com/question/26774049/answer/35041458)
 
 
 <div>
-    唉。今天恰巧有感，过来小聊几句。
-    <br>还是要先声明下：<b>所有言论出自个人，与阿里和我所在的团队无关。</b>
-    <br>
-    <br>
-    <br>正文。
-    <br>
-    <br>应该很多互联网公司都有这项 “福利” ——<b> 加班到X点以后，报销打车费</b>。
-    <br>阿里大约是晚上9点。
-    <br>
-    <br>初进阿里时还不习惯，想着6点下班后，吃个免费晚饭，赶快坐地铁回家。
-    <br>后来一是发现高峰期的地铁简直要命，二是确实有太多需求做不完， 平常经常会说： “这个我们晚上再谈…”
-    <br>
-    <br>所以晚上加班就成了公司里很多人的常态 ，就算今天 8 点多就已经工作得差不多了，也会习惯性得等到 9 点左右，<b>叫个车回家</b>。
-    <br>
-    <br>于是，每天 9 ～ 12 点间，公司里的叫车声、电话约车声、络绎不绝。我们团队私下里也有个微信群，用以和工作的旺旺群区分。<b>在打车软件玩起红包返现后，大家就都会在群里分享叫车红包，52个人的群，有时一分钟内不抢，红包就没了。</b>
-    <br>
-    <br>
-    <br>众所周知的，阿里和快的打车的关系。
-    <br>
-    <br>所以群里好像约定俗成般的，从来就没有出现过滴滴的红包。<b>而由于红包返现利滚利带来的超强用户粘性，大家连叫车也都开始只用快的了。</b>
-    <br>
-    <img class="shadow" src="/img/in-post/post-kuaidi-1.jpg" width="260">
-    结果好景不长，微信突然就玩了这么一手，直接把快的打车屏蔽了。
-    <br>当天大家就发现了，还讨论了下对策……<b>比如什么「先分享到微博，然后把链接复制出来，再发到旺旺群」……</b>
-    <br>
-    <br>嗯。我 TM 也觉得挺拼的。。
-    <br>于是大约微信群就沉寂了一天…
-    <br>
-    <br><b>然后才第二天……第一个滴滴红包就在群里出现了！</b>那时的文案还是什么：“<i>4个小伙伴，3个用滴滴！红包召唤新伙伴归队啦！</i>”
-    <br><b>我我我我当时就不由自主的纠结了一会儿 “价值观” ，放下手机 debug 去了……</b>
-    <br><b>等我再想起来，点开链接一看：特么的……「红包已抢完」。</b>
-    <br>
-    <br>。。。
-    <br><b>再后来。</b><b>就根本收不住了，滴滴红包那个飘。</b>
-    <br>
-    <br>
-    <br>唉其实我就是想说：<b>这也就一天……用户习惯就被彻底干翻过来了。 就算是盟友…也没救。</b>
-    <br>
-    <img class="shadow" src="/img/in-post/post-kuaidi-2.jpg" width="260">
-    所以我今天还是打着滴滴回来的……分享红包的一瞬间，心里突然一阵小惆怅。就回来写下了这段答案。
-    <br>
-    <br>说了半天，好像也没说到什么干货…权当故事听吧。
-    <br>其实你要问我这有没有违反互联网平等开放法则什么的。我觉得上面 <a data-hash="8f7d284bb1a97deaa4533a6190206ecb" href="http://www.zhihu.com/people/8f7d284bb1a97deaa4533a6190206ecb" class="member_mention" data-editable="true" data-title="@覃浩tommy" data-tip="p$b$8f7d284bb1a97deaa4533a6190206ecb">@覃浩tommy</a><a data-hash="43d639a3d763d3dad948e0bc4c645eec" href="http://www.zhihu.com/people/43d639a3d763d3dad948e0bc4c645eec" class="member_mention" data-editable="true" data-title="@赛门" data-tip="p$b$43d639a3d763d3dad948e0bc4c645eec">@赛门</a> 都说得挺好的，两种思路而已，大家可以自行选择。
-    <br>
-    <br>但是关于怎么看待，其实这次我以普通用户的身份来说……真心觉得：<b>「小良心小正义感在强需求面前真特么太弱了」</b><b>。</b><b>更何况这个强需求被干掉的同时还双手奉上了替代品。</b>
-    <br>
-    <br><b><u>所以大厂们你们就使劲撕逼吧，需要打到用户脸时，多给糖多给枣就好了。</u></b>
-    <br>
-    <br>
-    <br>哦对了，今天微信宣布朋友圈内限制分享未备案网页了。
-    <br><b>枣呢 ！？！？</b>
-    <br>
-    <br>
+     well. It happened today, and I came to talk a few words.
+     <br> Still declare first: <b> All remarks are from individuals, which has nothing to do with Ali and my team. </b>
+     <br>
+     <br>
+     <br> The text.
+     <br>
+     <br> Many Internet companies should have this "benefits" -<b> After working overtime, reimburse the taxi fee </b>.
+     <br> Ali is about 9 pm.
+     <br>
+     <br> I was not used to when I first entered Ali. I thought about going to get off work at 6 o'clock, ate a free dinner, and quickly took the subway home.
+     <br> Later, one was that the subway at the peak period was terrible. The second was that there were indeed too many needs to be done. They often said, "Let's talk about this at night ..."
+     <br>
+     <br> So work overtime at night has become the normal state of many people in the company. Even if it is almost at 8 o'clock today, it will be habitually waiting for about 9 o'clock. <b> Call a car home </b> Essence
+     <br>
+     <br> So, from 9 to 12 o'clock a day, the sound of car, telephone appointment, and a stream of streams in the company. There is also a WeChat group in our team in private, which is distinguished from the Wangwang group used to work. <b> After playing red envelopes in the taxi software, everyone will share the red envelope in the group. 52 people's groups, sometimes they do not grab in a minute, and the red envelope is gone. </b>
+     <br>
+     <br>
+     <br> It is well known, the relationship between Ali and fast taxis.
+     <br>
+     <br> Therefore, there seems to be a vulgar in the group, and there have never been Didi red envelopes. <b> Due to the super user stickiness brought by the red envelope back, everyone even started to use the car. </b>
+     <br>
+     <img class = "shadow" src = "/img/in-post/post-kuaidi -jpg" width = "260">>
+     As a result, the good times didn't last long, and WeChat suddenly played such a hand and blocked the fast taxi.
+     <br> Everyone discovered that day, and also discussed the countermeasures ... <b> For example, "Share on Weibo first, then copy the link, and send it to Wangwangqun" ... </b>
+     <br>
+     <br> Hmm. My TM also feels very hard. Essence
+     <br> So about the WeChat group was silent for a day ...
+     <br>
+     <br> <b> Then the next day ... The first Didi red envelope appeared in the group! </b> What was the copywriting at that time: "<i> 4 small partners, 3 uses Didi! The red envelope summon new partners to return to the team! </i>" "
+     <br> <b> I, I, I, I couldn't help but entangle the "values" for a while, put down the mobile phone debug and go ... </b>
+     <br> <b> Wait for me to think about it again, click on the link: What ... "The red envelope has been grabbed." </b>
+     <br>
+     <br>. Essence Essence
+     <br> <b> Later. </b> <b> I can't help it at all, the drip red envelope is floating. </b>
+     <br>
+     <br>
+     <br> Alas I just want to say: <b> This is just one day ... the user's habit is completely turned over. Even the allies ... did not save. </b>
+     <br>
+     <img class = "shadow" src = "/img/in-post/post-kuaidi-2.jpg" width = "260">>
+     So I still came back by Didi today ... The moment I shared the red envelope, I suddenly felt a little bit of my heart. I came back and wrote this answer.
+     <br>
+     <br> After talking for a long time, it seems that I didn't say any dry goods ...
+     <br> Actually, you have to ask me if this is violating the law of equality and opening up of the Internet. I think the above <a data-hash = "8F7D284bb1a97DEAA4533A6190206ECB" href = "http://www.zhihu.com/people/8F7D284bb1a97DEAA4533ECB" class = " Member_Mention "data-editable =" true "data-title ="@覃 Tommy "Data-TIP =" P $ B $ 8F7D284BB1A97DEAA4533A6190206ECB ">@覃 覃 </a> <A data-hash =" 43d639a3d763d3d3DAD945EC "href =" http: // www.zhihu.com/people/43d639A3D763DAD948E0BC4C645EEC "class =" You can choose by yourself.
+     <br>
+     <br> But about how to look at it, in fact, this time I am as an ordinary user ... I really feel: <b> "The sense of conscience and small justice is really weak in the face of strong needs" </b> <b " </b> <b> Not to mention that this strong demand is killed, and at the same time, he also provides alternatives with both hands. </b>
+     <br>
+     <br> <b> <u> So the big manufacturers, you can tear it up, you need to hit the user's face, just give more sugar and give jujube. </u> </b>
+     <br>
+     <br>
+     <br> Oh yes, today WeChat announced that the circle of friends restricted sharing unpacking web pages.
+     <br> <b> jujube! Intersection Intersection Intersection </b>
+     <br>
+     <br>
 </div>
