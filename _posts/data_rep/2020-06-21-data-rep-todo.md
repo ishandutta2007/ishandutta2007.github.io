@@ -2,7 +2,7 @@
 title: "Data Representation - TODO"
 subtitle: "「数据表示」待写"
 layout: post
-author: "Hux"
+author: "Ishan"
 header-style: text
 published: false
 tags:

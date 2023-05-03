@@ -3,7 +3,7 @@ layout:     post
 title:      "See you, Alibaba "
 subtitle:   "再见，阿里。"
 date:       2015-05-11
-author:     "Hux"
+author:     "Ishan"
 header-img: "img/post-bg-see-u-ali.jpg"
 tags:
   - Meta
@@ -94,7 +94,7 @@ Hi all
 
 世界这么大，更要 Keep Contact. 
 
-* 微博：@Hux黄玄
+* 微博：@Ishan黄玄
 * 知乎：@黄玄
 * 博客：<http://huangxuan.me>
 

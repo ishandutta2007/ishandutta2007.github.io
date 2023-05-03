@@ -2,7 +2,7 @@
 title: "「SF-PLF」16 LibTactics"
 subtitle: "Programming Language Foundations - A Collection of Handy General-Purpose Tactics"
 layout: post
-author: "Hux"
+author: "Ishan"
 header-style: text
 hidden: true
 tags:

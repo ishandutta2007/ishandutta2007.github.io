@@ -5,13 +5,13 @@
  */
 
  /*!
- * Hux Blog v1.6.0 (http://startbootstrap.com)
+ * Ishan Blog v1.6.0 (http://startbootstrap.com)
  * Copyright 2016 @huxpro
  * Licensed under Apache 2.0 
  */
 
 // Tooltip Init
-// Unuse by Hux since V1.6: Titles now display by default so there is no need for tooltip
+// Unuse by Ishan since V1.6: Titles now display by default so there is no need for tooltip
 // $(function() {
 //     $("[data-toggle='tooltip']").tooltip();
 // });
@@ -19,7 +19,7 @@
 
 // make all images responsive
 /* 
- * Unuse by Hux
+ * Unuse by Ishan
  * actually only Portfolio-Pages can't use it and only post-img need it.
  * so I modify the _layout/post and CSS to make post-img responsive!
  */

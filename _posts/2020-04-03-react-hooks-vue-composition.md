@@ -2,7 +2,7 @@
 layout: post
 title: "React Hooks 是否可以改为用类似 Vue 3 Composition API 的方式实现？"
 subtitle: "Thinking in React vs. Thinking in Vue"
-author: "Hux"
+author: "Ishan"
 header-style: text
 tags:
   - 知乎
@@ -206,7 +206,7 @@ Seb 在 Hooks 发布后收到一些质疑的 brain dump[\[11\]](#ref_11) 里写�
 参考
 --
 
-1.  JavaScript 模块化七日谈 - 黄玄的博客 Hux Blog [https://huangxuan.me/2015/07/09/js-module-7day/](https://huangxuan.me/2015/07/09/js-module-7day/)
+1.  JavaScript 模块化七日谈 - 黄玄的博客 Ishan Blog [https://huangxuan.me/2015/07/09/js-module-7day/](https://huangxuan.me/2015/07/09/js-module-7day/)
 2.  如何理解尤雨溪在 2019 VueConf 上所讲的 UI 类框架很少使用面向对象的特性这件事？- 黄玄的回答 [https://www.zhihu.com/question/328958700/answer/714287394](https://www.zhihu.com/question/328958700/answer/714287394)
 3.  前端是否适合使用面向对象的方式编程？- 黄玄的回答 [https://www.zhihu.com/question/329005869/answer/739525268](https://www.zhihu.com/question/329005869/answer/739525268)
 4.  React Hooks的引入会对之后的React项目开发产生什么影响？- 黄玄的回答 [https://www.zhihu.com/question/302916879/answer/536846510](https://www.zhihu.com/question/302916879/answer/536846510)

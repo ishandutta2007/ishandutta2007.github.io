@@ -2,7 +2,7 @@
 title: "「SF-PLF」17 UseTactics"
 subtitle: "Programming Language Foundations - Tactic Library For Coq"
 layout: post
-author: "Hux"
+author: "Ishan"
 header-style: text
 hidden: true
 tags:

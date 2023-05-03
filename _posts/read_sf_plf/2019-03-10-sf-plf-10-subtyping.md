@@ -2,7 +2,7 @@
 title: "「SF-PLF」10 Sub"
 subtitle: "Programming Language Foundations - Subtyping (子类型化)"
 layout: post
-author: "Hux"
+author: "Ishan"
 header-style: text
 hidden: true
 tags:

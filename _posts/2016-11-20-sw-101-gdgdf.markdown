@@ -5,7 +5,7 @@ subtitle:   "🎞  Slides:Service Worker 101, Working Offline and Instant Loadin
 iframe:     "//huangxuan.me/sw-101-gdgdf/"
 navcolor:   "invert"
 date:       2016-11-20
-author:     "Hux"
+author:     "Ishan"
 tags:
     - Slides
     - Web
@@ -27,7 +27,7 @@ TLDR; It covers lots of cool stuff about Service Worker!
 
 
 
-### [Demo Code → ](https://github.com/Huxpro/sw-101-gdgdf)
+### [Demo Code → ](https://github.com/Ishanpro/sw-101-gdgdf)
 
 - Hello World of Service Worker
 - Make your own Offline Dinosaurs

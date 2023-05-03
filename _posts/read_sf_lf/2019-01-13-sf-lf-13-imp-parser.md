@@ -2,7 +2,7 @@
 title: "「SF-LC」13 ImpParser"
 subtitle: "Logical Foundations - Lexing And Parsing In Coq"
 layout: post
-author: "Hux"
+author: "Ishan"
 header-style: text
 hidden: true
 tags:

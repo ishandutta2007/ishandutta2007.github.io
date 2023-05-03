@@ -2,7 +2,7 @@
 title: "「SF-LC」14 ImpCEvalFun"
 subtitle: "Logical Foundations - An Evaluation Function For Imp"
 layout: post
-author: "Hux"
+author: "Ishan"
 header-style: text
 hidden: true
 tags:

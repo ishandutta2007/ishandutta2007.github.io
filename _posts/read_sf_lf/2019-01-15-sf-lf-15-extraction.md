@@ -2,7 +2,7 @@
 title: "「SF-LC」15 Extraction"
 subtitle: "Logical Foundations - Extracting ML From Coq"
 layout: post
-author: "Hux"
+author: "Ishan"
 header-style: text
 hidden: true
 tags:

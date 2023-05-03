@@ -2,7 +2,7 @@
 title: "「SF-PLF」11. TypeChecking"
 subtitle: "Programming Language Foundations - A Typechecker for STLC"
 layout: post
-author: "Hux"
+author: "Ishan"
 header-style: text
 hidden: true
 tags:

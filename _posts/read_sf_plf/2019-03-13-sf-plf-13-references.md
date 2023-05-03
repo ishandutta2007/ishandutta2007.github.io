@@ -2,7 +2,7 @@
 title: "「SF-PLF」13 References"
 subtitle: "Programming Language Foundations - Typing Mutable References"
 layout: post
-author: "Hux"
+author: "Ishan"
 header-style: text
 hidden: true
 tags:
@@ -12,7 +12,7 @@ tags:
   - 笔记
 ---
 
-> Hux: this chapter is very similar to TAPL - ch13 References
+> Ishan: this chapter is very similar to TAPL - ch13 References
 > But under a "formal verification" concept, it's more interesting and practical and push you to think about it!
 
 

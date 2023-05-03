@@ -3,7 +3,7 @@ layout:     post
 title:      "设计师如何学习前端？"
 subtitle:   "How designers learn front-end development?"
 date:       2015-10-28 12:00:00
-author:     "Hux"
+author:     "Ishan"
 header-img: "img/home-bg-o.jpg"
 tags:
     - 知乎
@@ -97,7 +97,7 @@ $('.className').click(function(){
 <br>
 <br>如果学习得顺利，你还可以尝试使用各种丰富的 jQuery 插件，你会发现写出支持用户交互的网站也没有那么困难～很多看上去很复杂的功能（比如轮播图、灯箱、下拉菜单），搜一搜然后看看文档（教程）、改改示例代码就好了。
 <br>
-<br>比如说，配合 <a href="//link.zhihu.com/?target=https%3A//github.com/Huxpro/jquery.HSlider" class=" wrap external" target="_blank" rel="nofollow noreferrer">Huxpro/jquery.HSlider · GitHub<i class="icon-external"></i></a> 这样的轮播图插件，你可以很轻松的写出 <a href="//link.zhihu.com/?target=http%3A//huangxuan.me/jquery.HSlider/" class=" wrap external" target="_blank" rel="nofollow noreferrer">HSlider | Demo<i class="icon-external"></i></a> 这样的网页相册或者 <a href="//link.zhihu.com/?target=http%3A//huangxuan.me/jquery.HSlider/demo-weather-app/" class=" wrap external" target="_blank" rel="nofollow noreferrer">HSlider | Weather<i class="icon-external"></i></a> 这样的手机端 App 原型～
+<br>比如说，配合 <a href="//link.zhihu.com/?target=https%3A//github.com/Ishanpro/jquery.HSlider" class=" wrap external" target="_blank" rel="nofollow noreferrer">Ishanpro/jquery.HSlider · GitHub<i class="icon-external"></i></a> 这样的轮播图插件，你可以很轻松的写出 <a href="//link.zhihu.com/?target=http%3A//huangxuan.me/jquery.HSlider/" class=" wrap external" target="_blank" rel="nofollow noreferrer">HSlider | Demo<i class="icon-external"></i></a> 这样的网页相册或者 <a href="//link.zhihu.com/?target=http%3A//huangxuan.me/jquery.HSlider/demo-weather-app/" class=" wrap external" target="_blank" rel="nofollow noreferrer">HSlider | Weather<i class="icon-external"></i></a> 这样的手机端 App 原型～
 <br>
 <br>最后，我想推荐下 <a href="//link.zhihu.com/?target=http%3A//getbootstrap.com/" class=" wrap external" target="_blank" rel="nofollow noreferrer">Bootstrap · The world's most popular mobile-first and respons<i class="icon-external"></i></a> ，这是世界上最知名的前端 UI 框架之一，提供了大量 CSS 样式与 jQuery 插件。它非常容易学习并且中英文教程都非常健全，你并不需要理解它背后的工作原理就能很好的使用它，让你快速达到“可以建站的水平”。有余力的话，你不但可以学习如何使用它，还可以学习它背后的设计思想。
 <br>
@@ -117,7 +117,7 @@ $('.className').click(function(){
 <br>
 <br>如果你还掌握了 <b>入门篇（JavaScript/jQuery）</b>的知识，那么<b>恭喜你！你已经可以做出很多有趣的网页了！</b>很多 minisite 或者微信上的“H5” 小广告，这个程度的你已经可以轻松完成了！
 <br>
-<br>配合上你的设计功力，你可以开始尝试创作一些好玩的东西，比如这种富含交互和动画的网站 <a href="//link.zhihu.com/?target=http%3A//huangxuan.me/senova/" class=" wrap external" target="_blank" rel="nofollow noreferrer">绅宝 SENOVA<i class="icon-external"></i></a> ，它仍然是基于 <a href="//link.zhihu.com/?target=https%3A//github.com/Huxpro/jquery.HSlider" class=" wrap external" target="_blank" rel="nofollow noreferrer">Huxpro/jquery.HSlider · GitHub<i class="icon-external"></i></a> 实现的！或者给自己做个小小的个人网站试试
+<br>配合上你的设计功力，你可以开始尝试创作一些好玩的东西，比如这种富含交互和动画的网站 <a href="//link.zhihu.com/?target=http%3A//huangxuan.me/senova/" class=" wrap external" target="_blank" rel="nofollow noreferrer">绅宝 SENOVA<i class="icon-external"></i></a> ，它仍然是基于 <a href="//link.zhihu.com/?target=https%3A//github.com/Ishanpro/jquery.HSlider" class=" wrap external" target="_blank" rel="nofollow noreferrer">Ishanpro/jquery.HSlider · GitHub<i class="icon-external"></i></a> 实现的！或者给自己做个小小的个人网站试试
 <br>
 <br>
 <br>
@@ -139,7 +139,7 @@ $('.className').click(function(){
 </ul>
 <br>如果你能顺利得渡过了这个阶段，我想你已经能做出很多令你自豪的网站了！试着向身边的工程师朋友询问如何购买域名、配置简单的静态服务器，或者搜搜“Github Pages”，然后把你的作品挂在网络上让大家欣赏吧！
 <br>
-<br>你还可以试着用 JavaScript 写写小游戏，这不但能锻炼你的编程水平还非常有趣～比如这是我刚学 JS 不久后 hack 一晚的产物 —— 用 DOM 实现的打飞机：<a href="//link.zhihu.com/?target=http%3A//huangxuan.me/aircraft" class=" wrap external" target="_blank" rel="nofollow noreferrer">Hux - Aircraft<i class="icon-external"></i></a> （不支持手机）
+<br>你还可以试着用 JavaScript 写写小游戏，这不但能锻炼你的编程水平还非常有趣～比如这是我刚学 JS 不久后 hack 一晚的产物 —— 用 DOM 实现的打飞机：<a href="//link.zhihu.com/?target=http%3A//huangxuan.me/aircraft" class=" wrap external" target="_blank" rel="nofollow noreferrer">Ishan - Aircraft<i class="icon-external"></i></a> （不支持手机）
 <br>
 <br>
 <br>

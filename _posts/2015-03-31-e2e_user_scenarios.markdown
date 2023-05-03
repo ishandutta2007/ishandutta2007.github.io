@@ -2,7 +2,7 @@
 layout:     post
 title:      "Definition of End to End User Scenarios"
 date:       2015-03-31
-author:     "Hux"
+author:     "Ishan"
 header-img: "img/post-bg-e2e-ux.jpg"
 published: false
 lang: en

@@ -1,135 +1,135 @@
 ---
-layout:     post
-title:      "对中国用户而言，Pure Android 是否比 MIUI 或 Flyme 体验更好？"
-subtitle:   ""
-date:       2014-09-04 12:00:00
-author:     "Hux"
-header-img: "img/post-bg-android.jpg"
+layout: post
+Title: "For Chinese users, is Pure Android better than MIUI or Flyme?"
+subtitle: "" ""
+date: 2014-09-04 12:00:00
+Author: "Ishan"
+header-img: "IMG/Post-BG-ndroid.jpg"
 tags:
-    - 知乎
-    - 产品
-    - UX/UI
+     - Know almost
+     - product
+     -UX/UI
 ---
 
-> 这篇文章转载自[我在知乎上的回答](http://www.zhihu.com/question/25104721/answer/30108886)
+> This article is reproduced from [My Answer on Zhihu] (http://www.zhihu.com/question/25104721/answer/30108886)
 
 
-<p>哎呀～不要站队嘛。其实这是一个很有意思的题目，让我们一点点来看
-    <br>
-    <br>哦对，谢妖～。本人是Nexus 5用户，系统当然是Pure Android KitKat啦（臭谷粉！点Down！喂喂喂我还没给结论呢）
-    <br><b>毕竟是回答问题嘛，先给一个明确的答案</b>：
-    <br>
-    <br><b>否。（</b><b>对中国用户而言，Pure Android 并不比 MIUI 或 Flyme 体验更好。</b><b>）</b>
+<p> Oops ~ Don't stand in line. In fact, this is a very interesting topic. Let us look at it a little bit
+     <br>
+     <br> Oh yes, thank you demon ~. I am a NEXUS 5 user. Of course, the system is Pure Android Kitkat (Stinky Valley Fan! Click DOWN! Hey, I haven't given a conclusion yet)
+     <br> <b> After all, answer questions, give a clear answer first </b>:
+     <br>
+     <br> <b> No. (</B> <b> For Chinese users, Pure Android is not better than MIUI or Flyme experience. </B> <b>) </b>
 
-    <p>从下面「 居然比关注数还多」的回答中，就可以看出大家都是急于站队的样子：</p>
+     <p> From the answer that "actually more than follow", we can see that everyone is anxious to stand in the team: </p>
 
-    <ul>
-        <li>Google Service！翻墙很轻松好吗！Geek站过来，有品味绝逼原生阿。</li>
-        <li>没用过Pure，国内Google能用！？本地化多重要，易用果断MIUI/Flyme 啊！（咦 米粉和魅粉居然在一致对外上达成了共识）</li>
-    </ul>
-    <br>从答案我们也可以看出，中国用户的确是一个过于复杂的群体，那这个问题怎么办？
-    <br>
-    <br><b>数学老师教过哒，分类讨论啊！</b>
-    <br>（来，开始认真了。注意，我只分两类，数量非常小的Geek用户，和其余都算在内的非Geek用户）
-    <br>
-    <br>
+     <ul>
+         <li> Google Service! Is it easy to turn over the wall! Geek stood over and had a taste forced to be native. </li>
+         <li> I have never used Pure, domestic Google can be used! Intersection Localization is more important. It is easy to use decisive MIUI/Flyme! (（（And charm powder actually reached a consensus on the outside) </li>
+     </ul>
+     <br> From the answer, we can also see that Chinese users are indeed an overly complicated group. What about this problem?
+     <br>
+     <br> <b> Mathematics teacher has taught, classified discussion! </b>
+     <br> (Come, start to be serious. Note that I only divide in two categories.
+     <br>
+     <br>
 
-    <p>先说好理解的：</p>
+     <p> Let's talk about it first: </p>
 
-    <ul>
-        <li><b>为什么 Geek 用户 都爱使用Pure Android？：</b>
-        </li>
-    </ul>在国内，使用Pure Android其实是有很多障碍的：众所周知Google基本被墙死，去年还能上上的G+，Gmail 最近基本报废，回国后Google Now不开VPN永远都是Sign error或者No internet connection……那干嘛还用？
-    <br>
-    <br><b>因为这群人是Geek呀！</b>这群谷粉、安卓粉、IT科技粉、设计师、工程师们，这群充满技术情节的人儿们，为了我们的品味（逼格），挂着VPN，连着美版的Play Store，用着Android/Material Design 的 GMS，Chrome Beta，FB，Twitter，WhatsApp……就这么一路高歌的走下去了。
-    <br>
-    <br>你看！Action Bar ＋ Navigation Drawer 多好用！
-    <br>你看！Fixed Tabs 可以滑的好吗！
-    <br>你看！流畅不！ART开起来妥妥的流畅度爆iOS！
-    <br>你看！原生Android 哪里会越用用卡！？你升4.4.4了吗 ？
-    <br>
-    <br><b>哪里要担心这群人啊。</b>国内买不到的Nexus，用不了GMS，这都不叫事。
-    <br>
-    <br>
+     <ul>
+         <li> <b> Why do Geek users like to use Pure Android? : </B>
+         </li>
+     </ul> In China, there are many obstacles to using Pure Android: It is well known that Google has been killed by the wall. The G+that can be on the GMAIL last year is basically scrapped. After returning to China, Google Now does not open VPN. No Internet connection ... So why do you use it?
+     <br>
+     <br> <b> Because these people are Geek! </b> This group of valley powder, Android powder, IT technology powder, designers, engineers, this group of people full of technical plots, for our taste (forced), hanging VPN, connected with the American version of Play Store, with the GMS of Android/Material Design, Chrome Beta, FB, Twitter, WhatsApp ... I went all the way.
+     <br>
+     <br> Look! How easy is the Action Bar + Navigation DRAWER!
+     <br> Look! Can FIXED TABS slip!
+     <br> Look! Not! ART opens properly smooth explosion iOS!
+     <br> Look! Where will the native Android use the card? Intersection Are you up 4.4.4?
+     <br>
+     <br> <b> Where can I worry about these people. </b> NEXUS that cannot be bought in China, no GMS is used, this is not called.
+     <br>
+     <br>
 
-    <p>那么，</p>
+     <p> So, </p>
 
-    <ul>
-        <li><b>为什么 非Geek 用户 不适合使用Pure Android？：</b>
-        </li>
-    </ul>GMS的问题就不多说了，妥妥是用不了，在VPN之间切换也是麻烦。
-    <br>也不说Pure Android不那么好刷到的问题（当然你可以刷CM），
-    <br>我们就直接来看最核心的问题：
-    <br>
-    <br><b>「 Pure Android 的交互设计真的比 MIUI / Flyme 好吗？」<br></b>
-    <br><b>不见得。</b>
-    <br><b>所谓设计，第一个要考虑的就是目标用户。</b>
-    <br>
-    <br>为什么Pure Android的交互设计让Geek觉得用户体验好？
-    <br>
-    <ul>
-        <li>国外规范的 Android Design 生态环境打造统一的 Pure Android 体验</li>
-        <li>更高级的手势/App运用带来了很多便利（典型的例子SwipePad）</li>
-        <li>有着工程师思想的他们可以轻易理解Android的复杂逻辑</li>
-        <li>有着工程师思想的他们总能自己轻松躲开一些设计问题</li>
-    </ul>
-    <br>而 Pure Android 之于 普通用户 呢？
-    <br><b>「 这些优势基本荡然无存」</b>，反而，混乱的国内生态环境带来大部分中国用户对Android Design的陌生，相比iOS复杂许多的Android逻辑带来较高的学习成本……
-    <br>
-    <br>而MIUI/Flyme在设计方面上的本地化，主要就是出来解决这个问题的。
-    <br>我们可以看到，其实MIUI/Flyme做得大部分工作，除了视觉外，就是<b>简化信息层级，降低交互学习成本，遮住Android系统过于复杂的部分，在易用性上向iOS靠拢</b>。
-    <br>
-    <br>如果说在这里MIUI/Flyme还只能和Pure Android 打个平手的话……
-    <br>
-    <br><b>MIUI 和 Flyme 的本地化还远没有完：</b>
-    <br>
-    <br>你在国内总要用国内的互联网服务吧？
-    <br><b>集成，</b>我全给你全整合进来，打造一条龙服务
-    <br>
-    <ul>
-        <li>应用商店
-            <br>
-        </li>
-        <li>云存储/云服务（自己提供或合作）
-            <br>
-        </li>
-        <li>数字娱乐消费（音乐/游戏/阅读/视频/主题/壁纸/铃声……）
-            <br>
-        </li>
-        <li>安全（小白最爱用的系统清理，陌生号码拦截……）
-            <br>
-        </li>
-        <li>生活服务（支付，地图，快递，订餐，打车，旅游……）
-            <br>
-        </li>
-        <li>社交（美图，快速分享……）
-            <br>
-        </li>
-        <li>太多了。总之就是你想要什么有什么，自己没有就跟大家合作呗。
-            <br>
-        </li>
-    </ul><b>不够酷？</b>对大部分用户来说够酷了
-    <br>
-    <ul>
-        <li>小米，平板，盒子，电视，路由……MIUI的多屏体验</li>
-        <li>魅族，联合智能硬件，手表飞机插座……Connect to Meizu</li>
-    </ul><b>渠道成本低（不是指价格）</b>。这个其实也相当重要
-    <br>
-    <ul>
-        <li>容易刷到，适配机子广，稳定。</li>
-        <li>国内买得到，线下甚至有体验店，可以教你用呀什么的。</li>
-    </ul>
-    <br>更何况，对于大部分非Geek用户，手机虽不再只是当年的通讯工具那么简单，但充其量也就是一个智能电子设备而已。<b>能方便快速的享受到国内主流的互联网应用与服务，完成日常的需求就足以</b>。
-    <br>
-    <br><b>MIUI/Flyme 在这方面上的成绩，是Pure Android远不能比的。</b>
-    <br>
-    <br>所以我的结论是：
-    <br>
-    <br><b>对中国用户而言，Pure Android 并不比 MIUI 或 Flyme 体验更好。</b>
-    <br><b>对大部分中国用户而言，MIUI 或 Flyme 比 </b><b>Pure Android 的</b><b>体验更好。</b>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>没啥利益相关，我又不是云OS的
+     <ul>
+         <li> <b> Why aren't non -Geek users suitable for using Pure Android? : </B>
+         </li>
+     </ul> GMS's problem is not much to say, it is not necessary to use it properly. Switching between VPN is also troublesome.
+     <br> Not to mention the problem that Pure Android is not so good (of course you can brush CM),
+     <br> Let's look at the core question directly:
+     <br>
+     <br> <b> "Pure Android's interactive design is really better than MIUI / Flyme?" <br> < / b>
+     <br> <b> No. </b>
+     <br> <b> The so -called design, the first thing to consider is the target user. </b>
+     <br>
+     <br> Why does Pure Android interactive design make Geek feel that the user experience is good?
+     <br>
+     <ul>
+         <li> Foreign standard Android Design ecological environment to create a unified Pure Android experience </li>
+         <li> more advanced gesture/app use brings a lot of convenience (typical examples of Swipepad) </li>
+         <li> They can easily understand the complex logic of Android </li>
+         <li> With the thought of engineers, they can always avoid some design problems by themselves </li>
+     </ul>
+     <br> What about Pure Android to ordinary users?
+     <br> <b> "These advantages are basically gone" </b>, instead, the chaotic domestic ecological environment brings most Chinese users' strange strangeness of Android Design, which brings higher Android logic than iOS. The cost of learning ...
+     <br>
+     <br> The localization of MIUI/Flyme in design is mainly to solve this problem.
+     <br> We can see that in fact, MIUI/Flyme does most of the work. In addition to vision, <b> simplify information level, reduce interactive learning costs, cover the too complicated part of the Android system, in terms of ease of use, iOS closer </b>.
+     <br>
+     <br> If MIUI/Flyme can only be tied with Pure Android ...
+     <br>
+     <br> <b> MIUI and Flyme's localization is far from finishing: </b>
+     <br>
+     <br> Do you always use the domestic Internet to serve in China?
+     <br> <b> Integrated, </b> I will integrate all of you to create a one -stop service
+     <br>
+     <ul>
+         <li> Application Store
+             <br>
+         </li>
+         <li> Cloud Storage/Cloud Services (provided or cooperated by yourself)
+             <br>
+         </li>
+         <li> Digital Entertainment Consumption (Music/Game/Reading/Video/theme/Wallpaper/ringtone ...)
+             <br>
+         </li>
+         <li> Safe (Xiaobai's favorite system cleanup, strange number interception ...)
+             <br>
+         </li>
+         <li> Life Service (Payment, map, courier, ordering, taxi, travel ...)
+             <br>
+         </li>
+         <li> Social (Meitu, quickly share ...)
+             <br>
+         </li>
+         <li> Too much. In short, what you want, you do n’t have to work with you if you do n’t have it.
+             <br>
+         </li>
+     </ul> <b> Not cool enough? </b>
+     <br>
+     <ul>
+         <li> Xiaomi, tablet, box, TV, route ... MIUI's multi -screen experience </li>
+         <li> Meizu, united smart hardware, watch aircraft socket ... Connect to meizu </li>
+     </ul> <b> Low channel cost (not price) </b>. This is actually very important
+     <br>
+     <ul>
+         <li> It is easy to brush, the adapter is wide and stable. </li>
+         <li> You can buy it in China, there are even experience stores offline, you can teach you to use it. </li>
+     </ul>
+     <br> Not to mention that for most of the Geek users, although the mobile phone is no longer just as simple as the communication tools of the year, at best, it is just a smart electronic device. <b> It can easily and quickly enjoy the mainstream Internet applications and services in China, and it is enough to complete daily needs </b>.
+     <br>
+     <br> <b> MIUI/Flyme's achievements in this area are far more comparable to Pure Android. </b>
+     <br>
+     <br> So my conclusion is:
+     <br>
+     <br> <b> For Chinese users, Pure Android is not better than MIUI or Flyme. </b>
+     <br> <b> For most Chinese users, MIUI or Flyme is better than </b> <b> Pure Android </b> <b> experience. </b>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br> No interest is related, I am not cloud OS
 </p>

@@ -1,4 +1,4 @@
-Hux Blog User Manual
+Ishan Blog User Manual
 ====================
 
 * Basics
@@ -53,8 +53,8 @@ You can easily customize the blog by modifying `_config.yml`:
 
 ```yml
 # Site settings
-title: Hux Blog             # title of your website
-SEOTitle: Hux Blog          # check out docs for more detail
+title: Ishan Blog             # title of your website
+SEOTitle: Ishan Blog          # check out docs for more detail
 description: "Cool Blog"    # ...
 
 # SNS settings      
@@ -82,7 +82,7 @@ layout:     post
 title:      "Hello 2015"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2015-01-29 12:00:00
-author:     "Hux"
+author:     "Ishan"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
@@ -242,7 +242,7 @@ Just checkout the code offered by Google/Baidu, and copy paste here, all the res
 ### SEO Title
 
 Before V1.4, site setting `title` is not only used for displayed in Home Page and Navbar, but also used to generate the `<title>` in HTML.
-It's possible that you want the two things different. For me, my site-title is **“Hux Blog”** but I want the title shows in search engine is **“黄玄的博客 | Hux Blog”** which is multi-language.
+It's possible that you want the two things different. For me, my site-title is **“Ishan Blog”** but I want the title shows in search engine is **“黄玄的博客 | Ishan Blog”** which is multi-language.
 
 So, the SEO Title is introduced to solve this problem, you can set `SEOTitle` different from `title`, and it would be only used to generate HTML `<title>` and setting DuoShuo Sharing.
 
@@ -294,7 +294,7 @@ Shout out to [@kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-
 
 - Feeling annoyed to delete my blog post after clone or pull? Try **Boilerplate (Beta)** to help you get started quickly and easily merge update.
 - `-apple-system` is added in font rule, which display beautiful new font **San Francisco** in iOS 9 by default.
-- Fixed [issue#15](https://github.com/Huxpro/huxpro.github.io/issues/15) about code wrap.
+- Fixed [issue#15](https://github.com/Ishanpro/huxpro.github.io/issues/15) about code wrap.
 
 #### V1.5.1
 

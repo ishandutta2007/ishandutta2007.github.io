@@ -652,7 +652,7 @@ pre.highlight {
   font-size: 16px;
 }
 body {
-  /* Hux learn from
+  /* Ishan learn from
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
@@ -679,7 +679,7 @@ h3,
 h4,
 h5,
 h6 {
-  /* Hux learn from
+  /* Ishan learn from
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
@@ -917,7 +917,7 @@ samp {
   }
   /**
    * Animation
-   * HuxBlog-Navbar using genuine Material Design Animation
+   * IshanBlog-Navbar using genuine Material Design Animation
    */
   #huxblog_navbar {
     /**
@@ -979,7 +979,7 @@ samp {
   left: 0;
   width: 100%;
   z-index: 3;
-  /* Hux learn from
+  /* Ishan learn from
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
@@ -1110,7 +1110,7 @@ samp {
   background-size: cover;
   -o-background-size: cover;
   margin-bottom: 0px;
-  /* 0 on mobile, modify by Hux */
+  /* 0 on mobile, modify by Ishan */
 }
 .intro-header.style-text {
   background: none;
@@ -1175,7 +1175,7 @@ samp {
 }
 .intro-header .site-heading .subheading,
 .intro-header .page-heading .subheading {
-  /* Hux learn from
+  /* Ishan learn from
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
@@ -1203,7 +1203,7 @@ samp {
   display: block;
 }
 .intro-header .post-heading .subheading {
-  /* Hux learn from
+  /* Ishan learn from
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
@@ -1353,7 +1353,7 @@ footer .copyright a:focus {
   color: #0085a1;
 }
 .btn {
-  /* Hux learn from
+  /* Ishan learn from
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
@@ -1382,7 +1382,7 @@ footer .copyright a:focus {
 }
 .pager li > a,
 .pager li > span {
-  /* Hux learn from
+  /* Ishan learn from
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
@@ -1442,7 +1442,7 @@ img::-moz-selection {
   color: white;
   background: transparent;
 }
-/* Hux add tags support */
+/* Ishan add tags support */
 .d-none {
   display: none !important;
 }
@@ -1569,7 +1569,7 @@ img::-moz-selection {
 }
 .mini-post-list .tag-text {
   font-weight: 200;
-  /* Hux learn from
+  /* Ishan learn from
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
@@ -1611,14 +1611,14 @@ img::-moz-selection {
   }
 }
 /* Tags support End*/
-/* Hux make all img responsible in post-container */
+/* Ishan make all img responsible in post-container */
 .post-container img {
   display: block;
   max-width: 100%;
   height: auto;
   margin: 1.5em auto 1.6em auto;
 }
-/* Hux Optimize UserExperience */
+/* Ishan Optimize UserExperience */
 .navbar-default .navbar-toggle:focus,
 .navbar-default .navbar-toggle:hover {
   background-color: inherit;
@@ -1626,7 +1626,7 @@ img::-moz-selection {
 .navbar-default .navbar-toggle:active {
   background-color: rgba(255, 255, 255, 0.25);
 }
-/* Hux customize Style for navBar button */
+/* Ishan customize Style for navBar button */
 .navbar-default .navbar-toggle {
   border-color: transparent;
   padding: 19px 16px;
