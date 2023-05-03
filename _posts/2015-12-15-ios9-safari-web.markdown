@@ -11,25 +11,22 @@ tags:
     - 译
 ---
 
-2015 年 9 月，Apple 重磅发布了全新的 iPhone 6s/6s Plus、iPad Pro 与全新的操作系统 watchOS 2 与 tvOS 9（是的，这货居然是第 9 版），加上已经发布的 iOS 9，它们都为前端世界带来了哪些变化呢？作为一个 web 开发者，是时候站在我们的角度来说一说了！
+In September 2015, Apple released the new iPhone 6S/6S Plus, iPad Pro and the new operating system WatchOS 2 and TVOS 9 (yes, this is actually the 9th edition), plus the iOS 9 that has been released What changes have they brought to the front -end world? As a web developer, it is time to say from our perspective!
 
 
-> **注！** 该译文存在大量英文术语，笔者将默认读者知晓 ES6、viewport、native app、webview 等常用前端术语，并不对这些已知术语进行汉语翻译
-> 对于新发布或较新的产品名称与技术术语，诸如 Apple Pen、Split View 等专有名词，笔者将在文中使用其英文名，但会尝试对部分名词进行汉语标注
-> 另外，出于对 wiki 式阅读的偏爱，笔者为您添加了很多额外的链接，方便您查阅文档或出处
+> ** Note! ** There are a large number of English terms in this translation. I will know the default readers that readers know ES6, ViewPort, Native App, WebView and other commonly used front -end terms.
+> For newly released or newer product names and technical terms, such as Apple Pen and Split View, I will use their English names in the text, but they will try to mark some nouns in Chinese.
+> In addition, out of the preference for WIKI -style reading, I have added a lot of additional links to you, so that you can check the document or source
 
+## in short
 
-## 简而言之
-
-如果你不想阅读整篇文章，这里为你准备了一个总结：
-
+If you don't want to read the whole article, you have prepared a summary here:
 
 #### 新的设备特性
 
 * iPhone 6s 与 6s Plus 拥有 **“[3D Touch](http://www.apple.com/iphone-6s/3d-touch/)”**，这是一个全新的硬件特性，它可以侦测压力，是一个可以让你拿到手指压力数据的 API
-* iPad Pro 的 viewport 为 1024px，与以往的 iPad 全都不同
-* 想在 iPad Pro 上支持新的 Apple Pen？不好意思，目前似乎并没有适用于网站的 API 
-
+* iPad Pro's viewport is 1024px, which is different from the previous iPad
+* Want to support the new Apple Pen on iPad Pro? Sorry, it seems that there is no applicable to the API of the website
 #### 新的操作系统特性（与 web 相关的）
 
 * iPad 上的 Safari 现在可以通过 [Split View](https://developer.apple.com/library/prerelease/ios/documentation/WindowsViews/Conceptual/AdoptingMultitaskingOniPad/QuickStartForSlideOverAndSplitView.html#//apple_ref/doc/uid/TP40015145-CH13-SW1)（分屏视图）与其他应用一起使用，这意味着新的 viewport 尺寸将会越来越常见
@@ -78,12 +75,11 @@ Force Touch API 为我们添加了两个新东西：
 ![Force Events](http://www.mobilexweb.com/wp-content/uploads/2015/09/foceevents.png)
 
 
-相信你已经从它们的名字中意识到了，这些事件都是基于鼠标而非触摸的，毕竟它们是为 MacBook 设计的。并且，TouchEvent 也并没有包含 `webkitForce` 这个属性，它仅仅存在于 MouseEvent 里。在 iOS Safari 里，你确实可以找到 `onwebkitmouseforce` 这一系列事件处理器，但是很可惜它们并不会被触发，click 返回的 MouseEvent 也永远只能得到一个 `webkitForce: 0`
+I believe you have realized from their names that these events are based on mouses rather than touch, after all, they are designed for MacBook. In addition, Touchevent does not include the attribute of `Webkitforce`, which only exists in MouseEvent. In iOS Safari, you can indeed find the series of event processors, but it is a pity that they will not be triggered.
 
+What a gratifying thing is that the story has not ended. [Touch Events V2 DRAFT SPEC (HTTPS://w3c.github.io/touch-Events/) officially adds the `Force` attribute. 3D Touch can also be accessed through TOUCHEVENT in iPhone 6s and 6s+. However, the author also wants to remind everyone here that because there is no `WebkitmouseforceChange` such a powerful event, on the mobile phone, we can only continue to detect the changes in the pressure value through ** inquiring the Touchevent ...
 
-可喜可贺的是，故事还没有结束。[Touch Events v2 draft spec（触摸事件第二版草案）](https://w3c.github.io/touch-events/) 中正式添加了 `force` 属性。3D Touch 也得以在 iPhone 6s 与 6s+ 中通过 TouchEvent 访问到。不过，笔者也要在这里提醒大家，由于没有 `webkitmouseforcechange` 这样给力的事件，在手机上我们只能通过 **轮询 TouchEvent 的做法** 来不断检测压力值的改变……非常坑爹
-
-[@Marcel Freinbichler](https://twitter.com/fr3ino) 第一个在 Twitter 上晒出了自己的 [Demo](http://freinbichler.me/apps/3dtouch)。在 6s 或 new Macbook 的 Safari（目前仅 Safari 支持）上访问就可以看到圆圈会随着压力放大。墙内的小伙伴可以直接试试下面这个圆圈，体验下 3D/Force Touch 带来的的奇妙体验。
+[@Marcel Freinbichler] (https://twitter.com/fr3ino) first exposed its [demo] (http://freinbichler.me/apps/3dtouch) on Twitter. You can see that the circle can be seen on the 6s or New MacBook's Safari (currently Safari support) access to the circle. The friends in the wall can directly try the circle below to experience the wonderful experience brought by 3D/Force Touch.
 
 <iframe src="//huangxuan.me/forcify/" style="
     width:100%;
@@ -91,20 +87,18 @@ Force Touch API 为我们添加了两个新东西：
     border: 0;
 "></iframe>
 
-如果你不巧在用不支持 3D/Force Touch 的设备，发现尼玛用力按下去之后居然圆圈也有反映！？
+If you do n’t want to use devices that do not support 3D/Force Touch, you find that Nima is also reflected after pressing it out! Intersection
 
-放心，这真的不是你的设备突然习得了“感应压力”这项技能，而是因为 [Forcify](http://huangxuan.me/forcify) 是一个用于在所有设备上 polyfill 3D/Force Touch API 的 JS 库……它不但封装了 OSX/iOS 两个平台之间 API 的差异，还使用"长按"来模拟了 `force` 值的变化……
-
+Don't worry, this is really not your device suddenly learned the skill of "induction pressure", but because [forcify] (http://huangxuan.me/forcify) is a PolyFill 3D/Force Touch on all devices. API's JS library ... It not only encapsulates the difference between API between the two platforms of OSX/iOS, but also uses "Long Press" to simulate the change of the `Force` value ...
 
 
 ### iPad Pro
 
-全新的 iPad Pro（12.9 寸）打破了以往 iPad 渲染网站的方式。在此之前，市面上所有的 iPad（从初代 iPad，到 iPad Air 4，到 iPad Mini）都是以 768px 的宽度提供 viewport。
+The new iPad Pro (12.9 inches) breaks the way of previous iPad rendering websites. Prior to this, all iPads on the market (from the original iPad, to iPad Air 4, to iPad mini) provided ViewPort with a width of 768px.
 
-而屏幕更大的 iPad Pro 选择了宽 1024px 的 viewport，这使得它天生就能容纳更多的内容。不少人说iPad Pro 就是抄 Microsft Surface Pro 的嘛……嗯哼，IE/Edge 在 Surface Pro 上就是以 1024px 作为视口宽度的……
+The larger iPad Pro chose a ViewPort with a width of 1024px, which makes it natural to accommodate more content. Many people say that iPad Pro is to copy Microsft Surface Pro ... Hmm, IE/Edge uses 1024px as the width of the viewport on Surface Pro ...
 
-从交互的角度上来说，iPad Pro 虽然不支持 3D Touch，但是可以搭配 Smart Keyboard 与/或 Apple Pen（带有压力侦测）使用。对于键盘其实并没有什么好说的，如果一个网站在搭配键盘的桌面电脑上好用，它在 iPad Pro 上应该也不赖。而对于 Apple Pen，很可惜，目前似乎并没有 API 能让你在网站上获得这根笔的压力与角度。
-
+From an interactive perspective, although iPad Pro does not support 3D Touch, it can be used with Smart Keyboard and/or Apple Pen (with pressure detection). There is nothing to say about the keyboard. If a website is easy to use on the desktop computer with the keyboard, it should be not bad on the iPad Pro. For Apple Pen, it is a pity that there seems to be no API that allows you to get the pressure and angle of this pen on the website.
 
 ## 新的 iOS 操作系统特性
 
@@ -114,10 +108,9 @@ Force Touch API 为我们添加了两个新东西：
 
 #### Slide Over（滑过来！）
 
-Slide Over 支持的 App 并不多，不过 Safari 名列其中，这意味着我们的网站将可能在这个模式下被渲染。当网站处于 Slide Over 模式下时，它将在屏幕的右 1/4 位置渲染，并且置于其他 native app 之上。
+There are not many APPs supported by Slide Over, but Safari is among them, which means that our website may be rendered in this mode. When the website is in the Slide Over mode, it will be rendered at the right 1/4 position of the screen and placed on other Native APPs.
 
-这个模式也为 Responsive Web Design（响应式网站设计）提出了新的挑战：**一个只为 iPad 优化的网站，也需要能在该设备上以无需手动刷新的形式支持小屏幕的渲染。**因此，如果你正在使用服务器端探测（RESS），那么你的 iPad 版本需要以某种方式包含手机版本的网站，或者在进入该模式后重新加载一次。（如果你不了解 RESS，你可以观看我的[另一篇博文](/2014/11/20/responsive-web-design/)）
-
+This model also puts forward new challenges for the Responsive Web Design: ** A website that is only optimized for iPad, and also needs to support small screen rendering in the form that does not need to refresh. ** Therefore, if you are using the server -side detection (RESS), then your iPad version needs to include a mobile version of the website in some way, or reload it once after entering the mode. (If you don't know about RESS, you can watch my [another blog post] (//11/11/20/responsive-web-design/)
 
 ![Slide Over](http://www.mobilexweb.com/wp-content/uploads/2015/09/slideover.png)
 
