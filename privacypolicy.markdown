@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Privacy Policy
+permalink: /privacypolicy/
 ---
 
-good job
+Here is the policy
 
 You can find the policy for Minima:
 [jekyll][jekyll-organization] /
