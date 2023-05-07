@@ -5,6 +5,7 @@ GEM
       public_suffix (>= 2.0.2, < 6.0)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
+    dotenv (2.8.1)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -74,6 +75,7 @@ PLATFORMS
   x86_64-darwin-17
 
 DEPENDENCIES
+  dotenv
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3.2)
   jekyll-compose
