@@ -1,4 +1,141 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-05T16:07:40+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Premium Chrome Extensions</title><link href="http://localhost:4000/2023/05/05/premium-chrome-extensions.html" rel="alternate" type="text/html" title="Premium Chrome Extensions" /><published>2023-05-05T16:05:00+05:30</published><updated>2023-05-05T16:05:00+05:30</updated><id>http://localhost:4000/2023/05/05/premium-chrome-extensions</id><content type="html" xml:base="http://localhost:4000/2023/05/05/premium-chrome-extensions.html"><![CDATA[<p>Sure, here are ten popular Chrome extensions that offer a paid or premium version:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-08T03:01:53+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">How to create python documentations</title><link href="http://localhost:4000/2023/05/08/how-to-create-python-documentations.html" rel="alternate" type="text/html" title="How to create python documentations" /><published>2023-05-08T01:44:00+05:30</published><updated>2023-05-08T01:44:00+05:30</updated><id>http://localhost:4000/2023/05/08/how-to-create-python-documentations</id><content type="html" xml:base="http://localhost:4000/2023/05/08/how-to-create-python-documentations.html"><![CDATA[<p>Yes, I can guide you on how to generate ReadTheDocs for a Python project. Here are the steps:</p>
+
+<ol>
+  <li>
+    <p>Create a documentation directory: Create a new directory in your project directory, and name it “docs”.</p>
+  </li>
+  <li>
+    <p>Install Sphinx: Sphinx is a tool that can generate documentation in several formats, including ReadTheDocs. Install it using pip: <code class="language-plaintext highlighter-rouge">pip install sphinx</code>.</p>
+  </li>
+  <li>
+    <p>Initialize Sphinx: In the “docs” directory, initialize Sphinx using the <code class="language-plaintext highlighter-rouge">sphinx-quickstart</code> command. This command will create a few files and directories to get you started.</p>
+  </li>
+  <li>
+    <p>Configure Sphinx: Edit the “conf.py” file in the “docs” directory to configure Sphinx. Here, you can set the project name, author, version, and other metadata. You can also configure the output format to generate ReadTheDocs documentation.</p>
+  </li>
+  <li>
+    <p>Write documentation: In the “docs” directory, create a new file with the “.rst” extension to write your documentation in reStructuredText format.</p>
+  </li>
+  <li>
+    <p>Build documentation: Run the <code class="language-plaintext highlighter-rouge">make html</code> command in the “docs” directory to generate HTML documentation. This will create a “build” directory with the HTML files.</p>
+  </li>
+  <li>
+    <p>Set up ReadTheDocs: Create an account on ReadTheDocs, and add your project. Then, follow the instructions to link your project repository and configure the documentation.</p>
+  </li>
+  <li>
+    <p>Trigger documentation build: Once ReadTheDocs is set up, every time you push changes to your project repository, ReadTheDocs will automatically build and publish the updated documentation.</p>
+  </li>
+</ol>
+
+<p>These are the general steps to generate ReadTheDocs for a Python project using Sphinx. However, there are additional configuration options and advanced features available with Sphinx and ReadTheDocs that you can explore to customize your documentation.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Yes, I can guide you on how to generate ReadTheDocs for a Python project. Here are the steps:]]></summary></entry><entry><title type="html">11 new AI Chrome extensions to boost your productivity</title><link href="http://localhost:4000/2023/05/06/11-new-ai-chrome-extensions-to-boost-your-productivity.html" rel="alternate" type="text/html" title="11 new AI Chrome extensions to boost your productivity" /><published>2023-05-06T14:11:00+05:30</published><updated>2023-05-06T14:11:00+05:30</updated><id>http://localhost:4000/2023/05/06/11-new-ai-chrome-extensions-to-boost-your-productivity</id><content type="html" xml:base="http://localhost:4000/2023/05/06/11-new-ai-chrome-extensions-to-boost-your-productivity.html"><![CDATA[<p>Here are 11 new AI Chrome extensions to boost your productivity:</p>
+
+<p>✔SciSpace Copilot
+An AI assistant that clarifies academic papers in real-time.
+Highlight text for improved comprehension, decipher formulas and tables, and pose questions to the paper.</p>
+
+<p>✔Compose AI
+Automate your email writing with this extension.
+The AI integrates seamlessly into any text box.</p>
+
+<p>✔Wiseone
+Pose questions about any article you’re reading to Wiseone, and it’ll produce accurate answers.
+UseChatGPT AI
+Utilize ChatGPT on any website without copying and pasting.</p>
+
+<p>✔Merlin
+Obtain ChatGPT responses on any website by simply pressing Cmd+M.
+Compatible with Google, Gmail, and over 10 million websites.</p>
+
+<p>✔Klu.so
+A Chrome extension that functions like Google, but for internal searches.
+Perplexity
+Ask any questions while browsing.
+This AI extension clarifies and helps you comprehend any web page.</p>
+
+<p>✔Wordtune
+This AI assists you in writing on any page.
+Alter the tone or adjust the text length within seconds.
+YouTube Summary (Glasp)
+Receive a concise summary of any YouTube video directly in ChatGPT.</p>
+
+<p>✔JamGPT
+Slash your debugging time by 80% with developer logs, instant replay, and AI assistance.
+• Extract insights from bug reports
+• Engage with AI debugger
+• Repair faulty code
+• Request AI-generated PR descriptions</p>
+
+<p>✔Magical
+GPT-4 AI Writer and text expander.
+Enhance your productivity by asking Magical to compose:
+• AI-crafted messages
+• emails
+• customer responses</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Here are 11 new AI Chrome extensions to boost your productivity:]]></summary></entry><entry><title type="html">Top remote Job Websites for Software Engineers</title><link href="http://localhost:4000/2023/05/06/top-remote-job-websites-for-software-engineers.html" rel="alternate" type="text/html" title="Top remote Job Websites for Software Engineers" /><published>2023-05-06T07:28:00+05:30</published><updated>2023-05-06T07:28:00+05:30</updated><id>http://localhost:4000/2023/05/06/top-remote-job-websites-for-software-engineers</id><content type="html" xml:base="http://localhost:4000/2023/05/06/top-remote-job-websites-for-software-engineers.html"><![CDATA[<p>https://optimhire.com/?ref_code=ishan-dutta</p>]]></content><author><name></name></author><summary type="html"><![CDATA[https://optimhire.com/?ref_code=ishan-dutta]]></summary></entry><entry><title type="html">7 open source alternatives to ChatGPT</title><link href="http://localhost:4000/2023/05/06/7-open-source-alternatives-to-chatgpt.html" rel="alternate" type="text/html" title="7 open source alternatives to ChatGPT" /><published>2023-05-06T07:03:00+05:30</published><updated>2023-05-06T07:03:00+05:30</updated><id>http://localhost:4000/2023/05/06/7-open-source-alternatives-to-chatgpt</id><content type="html" xml:base="http://localhost:4000/2023/05/06/7-open-source-alternatives-to-chatgpt.html"><![CDATA[<p>OpenAssistant Llama — this is one of the best ChatGPT alternatives, but license is still a tricky issue. Hugginface has distributed XOR weights that seems to sidestep the license issue, but still a bit risky to use in enterprise settings.
+FastChat and Vicuna — this is a pretty decent model that looks to be next best in performance.
+Stable Vicuna — this the Stability AI’s variant of the famous Vicuna model that has Reinforcement learning with Human Feedback (RLHF) built-in.
+Open LLama — This is an Apache licensed variant of Llama that is just released.
+Cerebras-GPT — these are a family of Chinchilla based LLMs with varying sizes.
+OpenFlamingo — this is a multimodal LLM that is built based on DeepMind’s Flamingo and has a MIT license
+Flan — this is a fairly small model from Google, but can be finetuned for pretty cool applications.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[OpenAssistant Llama — this is one of the best ChatGPT alternatives, but license is still a tricky issue. Hugginface has distributed XOR weights that seems to sidestep the license issue, but still a bit risky to use in enterprise settings. FastChat and Vicuna — this is a pretty decent model that looks to be next best in performance. Stable Vicuna — this the Stability AI’s variant of the famous Vicuna model that has Reinforcement learning with Human Feedback (RLHF) built-in. Open LLama — This is an Apache licensed variant of Llama that is just released. Cerebras-GPT — these are a family of Chinchilla based LLMs with varying sizes. OpenFlamingo — this is a multimodal LLM that is built based on DeepMind’s Flamingo and has a MIT license Flan — this is a fairly small model from Google, but can be finetuned for pretty cool applications.]]></summary></entry><entry><title type="html">14 Productivity and Self Improvement prompts</title><link href="http://localhost:4000/2023/05/05/14-productivity-and-self-improvement-prompts.html" rel="alternate" type="text/html" title="14 Productivity and Self Improvement prompts" /><published>2023-05-05T23:31:00+05:30</published><updated>2023-05-05T23:31:00+05:30</updated><id>http://localhost:4000/2023/05/05/14-productivity-and-self-improvement-prompts</id><content type="html" xml:base="http://localhost:4000/2023/05/05/14-productivity-and-self-improvement-prompts.html"><![CDATA[<p>ChatGPT is here to stay! 
+So, don’t be left behind and do everything you can to learn as much as possible!
+Here are 14 prompts for productivity and Self-improvement.</p>
+<ol>
+  <li>Master time management with the Eisenhower Matrix
+Prompt:
+“Help me categorize my tasks using the Eisenhower Matrix and create a prioritized action plan for increased productivity.”
+<strong>__</strong>___</li>
+  <li>Apply the Pomodoro Technique for focused work
+Prompt:
+“Explain the Pomodoro Technique and guide me through setting up my work sessions and breaks for optimal focus and productivity.”
+<strong>__</strong>___</li>
+  <li>Optimize task organization with the Kanban method
+Prompt:
+“Introduce me to the Kanban method and help me design a personalized system to visualize and manage my workflow.”
+<strong>__</strong>___</li>
+  <li>Develop routines for consistency and discipline
+Prompt:
+“Design a morning and evening routine to help me establish consistency, discipline, and a productive mindset throughout the day.”
+<strong>__</strong>___</li>
+  <li>Leverage the power of habit stacking
+Prompt:
+“Identify key habits I can stack together to form a seamless routine that will improve my productivity and overall wellbeing.”
+<strong>__</strong>___</li>
+  <li>Employ the Two-Minute Rule for quick wins
+Prompt:
+“Explain the Two-Minute Rule and help me identify tasks I can complete immediately to build momentum and a sense of accomplishment.”
+<strong>__</strong>___</li>
+  <li>Implement regular reflection and review
+Prompt:
+“Design a weekly or monthly reflection routine to help me assess my progress, identify areas of improvement, and realign my priorities for maximum productivity.”
+<strong>__</strong>___</li>
+  <li>Cultivate positive habits
+Prompt:
+“Interview me and help me develop the top five habits that will have the most significant impact on my personal growth and provide a plan to implement them.”
+<strong>__</strong>___</li>
+  <li>Embrace lifelong learning
+Prompt:
+“Create a personalized reading list and resource guide for continuous learning and self-improvement in [chosen field or interest].”
+<strong>__</strong>___</li>
+  <li>Develop a personal mission statement
+Prompt:
+“Guide me through the process of creating a personal mission statement that reflects my core values, passions, and long-term vision.”
+<strong>__</strong>___</li>
+  <li>Cultivate a growth mindset
+Prompt:
+“Explain the difference between a fixed and growth mindset and provide actionable steps to develop a growth mindset in [specific area of life].”
+<strong>__</strong>___</li>
+  <li>Build resilience and adaptability
+Prompt:
+“Provide insights and techniques to help me develop resilience and adaptability in the face of [specific challenges or setbacks].”
+<strong>__</strong>___</li>
+  <li>Strengthen communication skills
+Prompt:
+“Share effective communication strategies and tips to help me become a more persuasive and empathetic communicator in [professional or personal context].”
+<strong>__</strong>___</li>
+  <li>Improve decision-making skills
+Prompt:
+“Identify common cognitive biases and provide strategies to overcome them, enhancing my decision-making abilities in [specific area of life].”</li>
+</ol>]]></content><author><name></name></author><summary type="html"><![CDATA[ChatGPT is here to stay! So, don’t be left behind and do everything you can to learn as much as possible! Here are 14 prompts for productivity and Self-improvement. Master time management with the Eisenhower Matrix Prompt: “Help me categorize my tasks using the Eisenhower Matrix and create a prioritized action plan for increased productivity.” _____ Apply the Pomodoro Technique for focused work Prompt: “Explain the Pomodoro Technique and guide me through setting up my work sessions and breaks for optimal focus and productivity.” _____ Optimize task organization with the Kanban method Prompt: “Introduce me to the Kanban method and help me design a personalized system to visualize and manage my workflow.” _____ Develop routines for consistency and discipline Prompt: “Design a morning and evening routine to help me establish consistency, discipline, and a productive mindset throughout the day.” _____ Leverage the power of habit stacking Prompt: “Identify key habits I can stack together to form a seamless routine that will improve my productivity and overall wellbeing.” _____ Employ the Two-Minute Rule for quick wins Prompt: “Explain the Two-Minute Rule and help me identify tasks I can complete immediately to build momentum and a sense of accomplishment.” _____ Implement regular reflection and review Prompt: “Design a weekly or monthly reflection routine to help me assess my progress, identify areas of improvement, and realign my priorities for maximum productivity.” _____ Cultivate positive habits Prompt: “Interview me and help me develop the top five habits that will have the most significant impact on my personal growth and provide a plan to implement them.” _____ Embrace lifelong learning Prompt: “Create a personalized reading list and resource guide for continuous learning and self-improvement in [chosen field or interest].” _____ Develop a personal mission statement Prompt: “Guide me through the process of creating a personal mission statement that reflects my core values, passions, and long-term vision.” _____ Cultivate a growth mindset Prompt: “Explain the difference between a fixed and growth mindset and provide actionable steps to develop a growth mindset in [specific area of life].” _____ Build resilience and adaptability Prompt: “Provide insights and techniques to help me develop resilience and adaptability in the face of [specific challenges or setbacks].” _____ Strengthen communication skills Prompt: “Share effective communication strategies and tips to help me become a more persuasive and empathetic communicator in [professional or personal context].” _____ Improve decision-making skills Prompt: “Identify common cognitive biases and provide strategies to overcome them, enhancing my decision-making abilities in [specific area of life].”]]></summary></entry><entry><title type="html">Premium Chrome Extensions</title><link href="http://localhost:4000/2023/05/05/premium-chrome-extensions.html" rel="alternate" type="text/html" title="Premium Chrome Extensions" /><published>2023-05-05T16:05:00+05:30</published><updated>2023-05-05T16:05:00+05:30</updated><id>http://localhost:4000/2023/05/05/premium-chrome-extensions</id><content type="html" xml:base="http://localhost:4000/2023/05/05/premium-chrome-extensions.html"><![CDATA[<p>Sure, here are ten popular Chrome extensions that offer a paid or premium version:</p>
 
 <ol>
   <li>Grammarly - A writing assistant tool that checks for spelling, grammar, and punctuation errors. The premium version offers advanced grammar and contextual spelling suggestions, among other features.</li>
