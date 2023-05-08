@@ -1,7 +1,7 @@
-{% if site.github.ONESIGNAL_APP_ID %}
 <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" defer></script>
+
 <script>
-  const OneSignal_appId = '{{ site.github.ONESIGNAL_APP_ID }}';
+  const OneSignal_appId = '{{ site.ONESIGNAL_APP_ID }}' || '{{ site.github.ONESIGNAL_APP_ID }}';
   window.OneSignal = window.OneSignal || [];
   OneSignal.push(function() {
     OneSignal.init({
@@ -9,4 +9,3 @@
     });
   });
 </script>
-{% endif %}
