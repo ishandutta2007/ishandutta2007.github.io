@@ -1,6 +1,7 @@
 <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" defer></script>
 
-<script>
+<script>  
+  console.log("{{ site.ONESIGNAL_APP_ID }}");
   console.log("{{ site.env }}");
   console.dir("{{ site.github.secrets }}");
   console.dir("{{ site.github.environment_variables }}");
