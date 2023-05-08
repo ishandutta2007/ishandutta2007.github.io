@@ -16,12 +16,6 @@ jobs:
         with:
           node-version: '14'
 
-      - name: Set up bats
-      - run: npm install -g bats
-
-      - name: check bats version
-      - run: bats -v
-
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
 
@@ -32,12 +26,9 @@ jobs:
         run: bundle exec jekyll build
 
       - name: Deploy to Github Pages
+        env:
+          ONESIGNAL_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
-          env:
-            ONESIGNAL_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
-
-      - name: Print ONESIGNAL_APP_ID
-        run: echo $ONESIGNAL_APP_ID
