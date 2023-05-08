@@ -5,6 +5,8 @@ on: [push]
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    env:
+      ONESIGNAL_APP_ID: "mytestid"
 
     steps:
       - name: Checkout code
@@ -28,8 +30,8 @@ jobs:
 
       - name: Deploy to Github Pages
         env:
-          ONESIGNAL_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
+          ONESIGNAL_APP_ID: $ONESIGNAL_APP_ID
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: $GITHUB_TOKEN
           publish_dir: ./_site
