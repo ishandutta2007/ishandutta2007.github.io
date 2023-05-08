@@ -1,9 +1,7 @@
 name: Build and Deploy
+run-name: ${{ github.actor }} is testing GitHub Actions
 
-on:
-  push:
-    branches:
-      - master
+on: [push]
 
 jobs:
   build-and-deploy:
@@ -12,6 +10,17 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+
+      - name: Set up node
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+
+      - name: Set up bats
+      - run: npm install -g bats
+
+      - name: check bats version
+      - run: bats -v
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
