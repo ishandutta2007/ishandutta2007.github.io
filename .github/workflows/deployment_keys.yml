@@ -30,4 +30,5 @@ jobs:
           env:
             ONESIGNAL_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
 
-
+      - name: Print ONESIGNAL_APP_ID
+        run: echo $ONESIGNAL_APP_ID
