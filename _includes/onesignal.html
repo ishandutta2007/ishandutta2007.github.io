@@ -2,9 +2,9 @@
 
 <script>
   console.log("{{ site.env.ONESIGNAL_APP_ID}}") 
-  console.log("{{ site.github.ONESIGNAL_APP_ID | jsonify}}") 
-  console.log("{{ site.github.env.ONESIGNAL_APP_ID | jsonify}}") 
-  console.log("{{ site.env.github.ONESIGNAL_APP_ID | jsonify}}") 
+  console.log("{{ site.github.ONESIGNAL_APP_ID}}") 
+  console.log("{{ site.github.env.ONESIGNAL_APP_ID}}") 
+  console.log("{{ site.env.github.ONESIGNAL_APP_ID}}") 
   const OneSignal_appId = '{{ site.env.ONESIGNAL_APP_ID }}' || '{{ site.env.github.ONESIGNAL_APP_ID }}';
 
   window.OneSignal = window.OneSignal || [];
