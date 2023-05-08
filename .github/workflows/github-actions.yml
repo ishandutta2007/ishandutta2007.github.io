@@ -30,7 +30,7 @@ jobs:
 
       - name: Deploy to Github Pages
         env:
-          ONESIGNAL_APP_ID: $ONESIGNAL_APP_ID
+          ONESIGNAL_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
