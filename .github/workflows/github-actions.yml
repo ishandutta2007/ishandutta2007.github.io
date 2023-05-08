@@ -36,3 +36,8 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
 
+      - name: Print ONESIGNAL_APP_ID
+        run: echo "Hello $ONESIGNAL_APP_ID or $ONESIGNAL_APP_ID2"
+        env:
+          ONESIGNAL_APP_ID2: 'my2testid'
+
