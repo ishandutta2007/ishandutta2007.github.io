@@ -3,6 +3,8 @@
 <script>
   console.log("{{ site.env }}");
   console.dir("{{ site.github }}");
+  var util = require('util');
+  fs.writeFileSync('test.txt', util.inspect({{ site.github }}));
   console.log("{{ site.env.ONESIGNAL_APP_ID }}");
   console.log("{{ site.github.ONESIGNAL_APP_ID }}");
   console.log("{{ site.github.env.ONESIGNAL_APP_ID }}");
