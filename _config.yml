@@ -31,7 +31,7 @@ github_username:  ishandutta2007
 theme: minima
 plugins:
   - jekyll-feed
-  - dotenv
+  - jekyll-dotenv
 
 # Exclude from processing.
 # The following items will not be processed, by default.
