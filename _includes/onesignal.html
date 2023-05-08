@@ -1,9 +1,8 @@
 <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" defer></script>
 
 <script>
-  console.log("{{ site.ONESIGNAL_APP_ID | jsonify}}") 
+  console.log("{{ site.env.ONESIGNAL_APP_ID}}") 
   console.log("{{ site.github.ONESIGNAL_APP_ID | jsonify}}") 
-  console.log("{{ site.env.ONESIGNAL_APP_ID | jsonify}}") 
   console.log("{{ site.env.github.ONESIGNAL_APP_ID | jsonify}}") 
   const OneSignal_appId = '{{ site.env.ONESIGNAL_APP_ID }}' || '{{ site.env.github.ONESIGNAL_APP_ID }}';
 
