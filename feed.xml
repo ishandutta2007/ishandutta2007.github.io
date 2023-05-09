@@ -1,4 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-05-08T16:16:04+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">How to create python documentations</title><link href="/2023/05/07/how-to-create-python-documentations.html" rel="alternate" type="text/html" title="How to create python documentations" /><published>2023-05-07T20:14:00+00:00</published><updated>2023-05-07T20:14:00+00:00</updated><id>/2023/05/07/how-to-create-python-documentations</id><content type="html" xml:base="/2023/05/07/how-to-create-python-documentations.html"><![CDATA[<p>Yes, I can guide you on how to generate ReadTheDocs for a Python project. Here are the steps:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-05-09T00:00:34+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Chrome extensions by installs</title><link href="/2023/05/08/chrome-extensions-by-installs.html" rel="alternate" type="text/html" title="Chrome extensions by installs" /><published>2023-05-08T23:58:00+00:00</published><updated>2023-05-08T23:58:00+00:00</updated><id>/2023/05/08/chrome-extensions-by-installs</id><content type="html" xml:base="/2023/05/08/chrome-extensions-by-installs.html"><![CDATA[<p>A recent scan of the Chrome Web Store conducted by Extension Monitor revealed that half of all Google Chrome extensions have fewer than 16 installs, and around 87% of all extensions have fewer than 1,000 installs. Only 13 extensions have managed to break over the 10 million user mark. The Chrome extension ecosystem is dominated by a few large players, while the rest of the extensions have very few active installations. Paid extensions account for 8.9% of all extensions, but 35% of them have no users.</p>
+
+<p>Furthermore, paid extensions account for 2.6% of all installs, and the top paid extension, IE Tab, has 4.1 million installs, which accounts for 31.5% of all paid extension installs. The top 5 paid extensions make up 48.5% of all paid extension installs.</p>
+
+<p>It’s important to note that the scan included all Chromium-based browsers, not just Google Chrome, and that the results only represent a snapshot in time. However, the data suggests that the Chrome extension ecosystem is heavily skewed towards a few popular extensions, leaving the majority of extensions struggling for attention and users.</p>
+
+<p>Here is a list of the top 10 most installed Chrome extensions based on the scan:</p>
+
+<ol>
+  <li>Google Translate - 109,233,857 installs</li>
+  <li>Adobe Acrobat - 45,015,081 installs</li>
+  <li>Tampermonkey - 32,726,382 installs</li>
+  <li>Avast Online Security - 30,006,433 installs</li>
+  <li>Adblock Plus - 29,435,489 installs</li>
+  <li>Adblock - 20,494,347 installs</li>
+  <li>uBlock Origin - 20,033,135 installs</li>
+  <li>Pinterest Save Button - 19,711,718 installs</li>
+  <li>Cisco Webex - 19,206,360 installs</li>
+  <li>Grammarly for Chrome - 18,963,783 installs</li>
+</ol>
+
+<p>Despite the dominance of a few popular extensions, there are still many useful and innovative extensions that are struggling to gain traction. Extension developers face a difficult challenge of standing out in a crowded and competitive market, and the data suggests that it’s becoming increasingly difficult to do so.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[A recent scan of the Chrome Web Store conducted by Extension Monitor revealed that half of all Google Chrome extensions have fewer than 16 installs, and around 87% of all extensions have fewer than 1,000 installs. Only 13 extensions have managed to break over the 10 million user mark. The Chrome extension ecosystem is dominated by a few large players, while the rest of the extensions have very few active installations. Paid extensions account for 8.9% of all extensions, but 35% of them have no users.]]></summary></entry><entry><title type="html">30 websites on which SaverGPT works</title><link href="/2023/05/08/30-websites-on-which-savergpt-works.html" rel="alternate" type="text/html" title="30 websites on which SaverGPT works" /><published>2023-05-08T20:26:00+00:00</published><updated>2023-05-08T20:26:00+00:00</updated><id>/2023/05/08/30-websites-on-which-savergpt-works</id><content type="html" xml:base="/2023/05/08/30-websites-on-which-savergpt-works.html"><![CDATA[<p>Here are some websites on which the SaverGPT Chrome extension is known to work:</p>
+
+<ol>
+  <li>Amazon</li>
+  <li>Best Buy</li>
+  <li>Walmart</li>
+  <li>Target</li>
+  <li>Macy’s</li>
+  <li>J. Crew</li>
+  <li>Gap</li>
+  <li>Old Navy</li>
+  <li>Nordstrom</li>
+  <li>Zappos</li>
+  <li>Sephora</li>
+  <li>Ulta Beauty</li>
+  <li>Adidas</li>
+  <li>Nike</li>
+  <li>Foot Locker</li>
+  <li>Expedia</li>
+  <li>Booking.com</li>
+  <li>Hotels.com</li>
+  <li>Orbitz</li>
+  <li>Priceline</li>
+  <li>Uber Eats</li>
+  <li>Grubhub</li>
+  <li>DoorDash</li>
+  <li>Postmates</li>
+  <li>Instacart</li>
+  <li>Safeway</li>
+  <li>Walgreens</li>
+  <li>CVS</li>
+  <li>eBay</li>
+  <li>Etsy</li>
+</ol>
+
+<p>Please note that this is not an exhaustive list, and Honey may work on other websites as well.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Here are some websites on which the SaverGPT Chrome extension is known to work:]]></summary></entry><entry><title type="html">How to create python documentations</title><link href="/2023/05/07/how-to-create-python-documentations.html" rel="alternate" type="text/html" title="How to create python documentations" /><published>2023-05-07T20:14:00+00:00</published><updated>2023-05-07T20:14:00+00:00</updated><id>/2023/05/07/how-to-create-python-documentations</id><content type="html" xml:base="/2023/05/07/how-to-create-python-documentations.html"><![CDATA[<p>Yes, I can guide you on how to generate ReadTheDocs for a Python project. Here are the steps:</p>
 
 <ol>
   <li>
