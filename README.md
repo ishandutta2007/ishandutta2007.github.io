@@ -3,6 +3,7 @@
 
 In the case of Minima, you see only the following files in your Jekyll site directory:
 
+```
 .
 ├── Gemfile
 ├── Gemfile.lock
@@ -11,3 +12,4 @@ In the case of Minima, you see only the following files in your Jekyll site dire
 │   └── 2016-12-04-welcome-to-jekyll.markdown
 ├── about.markdown
 └── index.markdown
+```
