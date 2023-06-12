@@ -13,3 +13,9 @@ In the case of Minima, you see only the following files in your Jekyll site dire
 ├── about.markdown
 └── index.markdown
 ```
+
+
+```
+jekyll post "Top Affiliate Programs"
+vi _posts/...
+```
