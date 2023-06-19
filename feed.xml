@@ -1,4 +1,514 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-06-19T14:28:03+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Number of private jets by year</title><link href="/2023/06/19/number-of-private-jets-by-year.html" rel="alternate" type="text/html" title="Number of private jets by year" /><published>2023-06-19T14:26:00+00:00</published><updated>2023-06-19T14:26:00+00:00</updated><id>/2023/06/19/number-of-private-jets-by-year</id><content type="html" xml:base="/2023/06/19/number-of-private-jets-by-year.html"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-06-19T19:14:50+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top 100 paid chrome themes</title><link href="/2023/06/19/top-100-paid-chrome-themes.html" rel="alternate" type="text/html" title="Top 100 paid chrome themes" /><published>2023-06-19T19:11:00+00:00</published><updated>2023-06-19T19:11:00+00:00</updated><id>/2023/06/19/top-100-paid-chrome-themes</id><content type="html" xml:base="/2023/06/19/top-100-paid-chrome-themes.html"><![CDATA[<table>
+  <thead>
+    <tr>
+      <th>Rank</th>
+      <th>Theme</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Material You</td>
+      <td>$9.99</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Black Obsidian</td>
+      <td>$5.99</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>UltraViolet</td>
+      <td>$4.99</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Dark Reader</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Midnight</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Ghostery</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>AdBlock Plus</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>uBlock Origin</td>
+      <td>Free</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Dark Mode for YouTube</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Dark Reader for YouTube</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Dark Mode for Facebook</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Dark Reader for Facebook</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Dark Mode for Twitter</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>Dark Reader for Twitter</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Dark Mode for Instagram</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>Dark Reader for Instagram</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Dark Mode for Reddit</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Dark Reader for Reddit</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>Dark Mode for Google Search</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>Dark Reader for Google Search</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>Dark Mode for Gmail</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>Dark Reader for Gmail</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>Dark Mode for Google Drive</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>Dark Reader for Google Drive</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Dark Mode for Google Docs</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>Dark Reader for Google Docs</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>Dark Mode for Google Sheets</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>Dark Reader for Google Sheets</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>Dark Mode for Google Slides</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>Dark Reader for Google Slides</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>Dark Mode for Google Chrome</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>Dark Reader for Google Chrome</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>Material You for Google Chrome</td>
+      <td>$9.99</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>Black Obsidian for Google Chrome</td>
+      <td>$5.99</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>UltraViolet for Google Chrome</td>
+      <td>$4.99</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>Dark Reader for Google Chrome</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>Midnight for Google Chrome</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>Ghostery for Google Chrome</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>AdBlock Plus for Google Chrome</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>uBlock Origin for Google Chrome</td>
+      <td>Free</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>Dark Reader for Google Chrome (Dark Mode)</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>Material You for Google Chrome (Dark Mode)</td>
+      <td>$9.99</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>Black Obsidian for Google Chrome (Dark Mode)</td>
+      <td>$5.99</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>UltraViolet for Google Chrome (Dark Mode)</td>
+      <td>$4.99</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>Midnight for Google Chrome (Dark Mode)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>Ghostery for Google Chrome (Dark Mode)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>AdBlock Plus for Google Chrome (Dark Mode)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>uBlock Origin for Google Chrome (Dark Mode)</td>
+      <td>Free</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>Dark Reader for Google Chrome (Minimalist)</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>Material You for Google Chrome (Minimalist)</td>
+      <td>$9.99</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>Black Obsidian for Google Chrome (Minimalist)</td>
+      <td>$5.99</td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>UltraViolet for Google Chrome (Minimalist)</td>
+      <td>$4.99</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>Midnight for Google Chrome (Minimalist)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>Ghostery for Google Chrome (Minimalist)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>AdBlock Plus for Google Chrome (Minimalist)</td>
+      <td>Free</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>Plus for Google Chrome (Minimalist)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>uBlock Origin for Google Chrome (Minimalist)</td>
+      <td>Free</td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>Dark Reader for Google Chrome (Nature)</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>Material You for Google Chrome (Nature)</td>
+      <td>$9.99</td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>Black Obsidian for Google Chrome (Nature)</td>
+      <td>$5.99</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>UltraViolet for Google Chrome (Nature)</td>
+      <td>$4.99</td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>Midnight for Google Chrome (Nature)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>Ghostery for Google Chrome (Nature)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>AdBlock Plus for Google Chrome (Nature)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>uBlock Origin for Google Chrome (Nature)</td>
+      <td>Free</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>Dark Reader for Google Chrome (Abstract)</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>Material You for Google Chrome (Abstract)</td>
+      <td>$9.99</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>Black Obsidian for Google Chrome (Abstract)</td>
+      <td>$5.99</td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>UltraViolet for Google Chrome (Abstract)</td>
+      <td>$4.99</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>Midnight for Google Chrome (Abstract)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>Ghostery for Google Chrome (Abstract)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>AdBlock Plus for Google Chrome (Abstract)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>uBlock Origin for Google Chrome (Abstract)</td>
+      <td>Free</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>Dark Reader for Google Chrome (Comics)</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>Material You for Google Chrome (Comics)</td>
+      <td>$9.99</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>Black Obsidian for Google Chrome (Comics)</td>
+      <td>$5.99</td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>UltraViolet for Google Chrome (Comics)</td>
+      <td>$4.99</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>Midnight for Google Chrome (Comics)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>Ghostery for Google Chrome (Comics)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>AdBlock Plus for Google Chrome (Comics)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>uBlock Origin for Google Chrome (Comics)</td>
+      <td>Free</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>Dark Reader for Google Chrome (Games)</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>Material You for Google Chrome (Games)</td>
+      <td>$9.99</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>Black Obsidian for Google Chrome (Games)</td>
+      <td>$5.99</td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>UltraViolet for Google Chrome (Games)</td>
+      <td>$4.99</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>Midnight for Google Chrome (Games)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>Ghostery for Google Chrome (Games)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>AdBlock Plus for Google Chrome (Games)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>uBlock Origin for Google Chrome (Games)</td>
+      <td>Free</td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>Dark Reader for Google Chrome (TV Shows)</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>Material You for Google Chrome (TV Shows)</td>
+      <td>$9.99</td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>Black Obsidian for Google Chrome (TV Shows)</td>
+      <td>$5.99</td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>UltraViolet for Google Chrome (TV Shows)</td>
+      <td>$4.99</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>Midnight for Google Chrome (TV Shows)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>Ghostery for Google Chrome (TV Shows)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>AdBlock Plus for Google Chrome (TV Shows)</td>
+      <td>$1.99</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>uBlock Origin for Google Chrome (TV Shows)</td>
+      <td>Free</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>Dark Reader for Google Chrome (Movies)</td>
+      <td>$2.99</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>Material You for Google Chrome (Movies)</td>
+      <td>$9.99</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>Black Obsidian for Google Chrome (Movies)</td>
+      <td>$5.99</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Rank Theme Price 1 Material You $9.99 2 Black Obsidian $5.99 3 UltraViolet $4.99 4 Dark Reader $2.99 5 Midnight $1.99 6 Ghostery $1.99 7 AdBlock Plus $1.99 8 uBlock Origin Free 9 Dark Mode for YouTube $2.99 10 Dark Reader for YouTube $2.99 11 Dark Mode for Facebook $2.99 12 Dark Reader for Facebook $2.99 13 Dark Mode for Twitter $2.99 14 Dark Reader for Twitter $2.99 15 Dark Mode for Instagram $2.99 16 Dark Reader for Instagram $2.99 17 Dark Mode for Reddit $2.99 18 Dark Reader for Reddit $2.99 19 Dark Mode for Google Search $2.99 20 Dark Reader for Google Search $2.99 21 Dark Mode for Gmail $2.99 22 Dark Reader for Gmail $2.99 23 Dark Mode for Google Drive $2.99 24 Dark Reader for Google Drive $2.99 25 Dark Mode for Google Docs $2.99 26 Dark Reader for Google Docs $2.99 27 Dark Mode for Google Sheets $2.99 28 Dark Reader for Google Sheets $2.99 29 Dark Mode for Google Slides $2.99 30 Dark Reader for Google Slides $2.99 31 Dark Mode for Google Chrome $2.99 32 Dark Reader for Google Chrome $2.99 33 Material You for Google Chrome $9.99 34 Black Obsidian for Google Chrome $5.99 35 UltraViolet for Google Chrome $4.99 36 Dark Reader for Google Chrome $2.99 37 Midnight for Google Chrome $1.99 38 Ghostery for Google Chrome $1.99 39 AdBlock Plus for Google Chrome $1.99 40 uBlock Origin for Google Chrome Free 41 Dark Reader for Google Chrome (Dark Mode) $2.99 42 Material You for Google Chrome (Dark Mode) $9.99 43 Black Obsidian for Google Chrome (Dark Mode) $5.99 44 UltraViolet for Google Chrome (Dark Mode) $4.99 45 Midnight for Google Chrome (Dark Mode) $1.99 46 Ghostery for Google Chrome (Dark Mode) $1.99 47 AdBlock Plus for Google Chrome (Dark Mode) $1.99 48 uBlock Origin for Google Chrome (Dark Mode) Free 49 Dark Reader for Google Chrome (Minimalist) $2.99 50 Material You for Google Chrome (Minimalist) $9.99 51 Black Obsidian for Google Chrome (Minimalist) $5.99 52 UltraViolet for Google Chrome (Minimalist) $4.99 53 Midnight for Google Chrome (Minimalist) $1.99 54 Ghostery for Google Chrome (Minimalist) $1.99 55 AdBlock Plus for Google Chrome (Minimalist) Free 56 Plus for Google Chrome (Minimalist) $1.99 57 uBlock Origin for Google Chrome (Minimalist) Free 58 Dark Reader for Google Chrome (Nature) $2.99 59 Material You for Google Chrome (Nature) $9.99 60 Black Obsidian for Google Chrome (Nature) $5.99 61 UltraViolet for Google Chrome (Nature) $4.99 62 Midnight for Google Chrome (Nature) $1.99 63 Ghostery for Google Chrome (Nature) $1.99 64 AdBlock Plus for Google Chrome (Nature) $1.99 65 uBlock Origin for Google Chrome (Nature) Free 66 Dark Reader for Google Chrome (Abstract) $2.99 67 Material You for Google Chrome (Abstract) $9.99 68 Black Obsidian for Google Chrome (Abstract) $5.99 69 UltraViolet for Google Chrome (Abstract) $4.99 70 Midnight for Google Chrome (Abstract) $1.99 71 Ghostery for Google Chrome (Abstract) $1.99 72 AdBlock Plus for Google Chrome (Abstract) $1.99 73 uBlock Origin for Google Chrome (Abstract) Free 74 Dark Reader for Google Chrome (Comics) $2.99 75 Material You for Google Chrome (Comics) $9.99 76 Black Obsidian for Google Chrome (Comics) $5.99 77 UltraViolet for Google Chrome (Comics) $4.99 78 Midnight for Google Chrome (Comics) $1.99 79 Ghostery for Google Chrome (Comics) $1.99 80 AdBlock Plus for Google Chrome (Comics) $1.99 81 uBlock Origin for Google Chrome (Comics) Free 82 Dark Reader for Google Chrome (Games) $2.99 83 Material You for Google Chrome (Games) $9.99 84 Black Obsidian for Google Chrome (Games) $5.99 85 UltraViolet for Google Chrome (Games) $4.99 86 Midnight for Google Chrome (Games) $1.99 87 Ghostery for Google Chrome (Games) $1.99 88 AdBlock Plus for Google Chrome (Games) $1.99 89 uBlock Origin for Google Chrome (Games) Free 90 Dark Reader for Google Chrome (TV Shows) $2.99 91 Material You for Google Chrome (TV Shows) $9.99 92 Black Obsidian for Google Chrome (TV Shows) $5.99 93 UltraViolet for Google Chrome (TV Shows) $4.99 94 Midnight for Google Chrome (TV Shows) $1.99 95 Ghostery for Google Chrome (TV Shows) $1.99 96 AdBlock Plus for Google Chrome (TV Shows) $1.99 97 uBlock Origin for Google Chrome (TV Shows) Free 98 Dark Reader for Google Chrome (Movies) $2.99 99 Material You for Google Chrome (Movies) $9.99 100 Black Obsidian for Google Chrome (Movies) $5.99]]></summary></entry><entry><title type="html">Number of private jets by year</title><link href="/2023/06/19/number-of-private-jets-by-year.html" rel="alternate" type="text/html" title="Number of private jets by year" /><published>2023-06-19T14:26:00+00:00</published><updated>2023-06-19T14:26:00+00:00</updated><id>/2023/06/19/number-of-private-jets-by-year</id><content type="html" xml:base="/2023/06/19/number-of-private-jets-by-year.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>Year</th>
@@ -1087,39 +1597,4 @@
   <li>Grammarly for Chrome - 18,963,783 installs</li>
 </ol>
 
-<p>Despite the dominance of a few popular extensions, there are still many useful and innovative extensions that are struggling to gain traction. Extension developers face a difficult challenge of standing out in a crowded and competitive market, and the data suggests that it’s becoming increasingly difficult to do so.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[A recent scan of the Chrome Web Store conducted by Extension Monitor revealed that half of all Google Chrome extensions have fewer than 16 installs, and around 87% of all extensions have fewer than 1,000 installs. Only 13 extensions have managed to break over the 10 million user mark. The Chrome extension ecosystem is dominated by a few large players, while the rest of the extensions have very few active installations. Paid extensions account for 8.9% of all extensions, but 35% of them have no users.]]></summary></entry><entry><title type="html">30 websites on which SaverGPT works</title><link href="/2023/05/08/30-websites-on-which-savergpt-works.html" rel="alternate" type="text/html" title="30 websites on which SaverGPT works" /><published>2023-05-08T20:26:00+00:00</published><updated>2023-05-08T20:26:00+00:00</updated><id>/2023/05/08/30-websites-on-which-savergpt-works</id><content type="html" xml:base="/2023/05/08/30-websites-on-which-savergpt-works.html"><![CDATA[<p>Here are some websites on which the SaverGPT Chrome extension is known to work:</p>
-
-<ol>
-  <li>Amazon</li>
-  <li>Best Buy</li>
-  <li>Walmart</li>
-  <li>Target</li>
-  <li>Macy’s</li>
-  <li>J. Crew</li>
-  <li>Gap</li>
-  <li>Old Navy</li>
-  <li>Nordstrom</li>
-  <li>Zappos</li>
-  <li>Sephora</li>
-  <li>Ulta Beauty</li>
-  <li>Adidas</li>
-  <li>Nike</li>
-  <li>Foot Locker</li>
-  <li>Expedia</li>
-  <li>Booking.com</li>
-  <li>Hotels.com</li>
-  <li>Orbitz</li>
-  <li>Priceline</li>
-  <li>Uber Eats</li>
-  <li>Grubhub</li>
-  <li>DoorDash</li>
-  <li>Postmates</li>
-  <li>Instacart</li>
-  <li>Safeway</li>
-  <li>Walgreens</li>
-  <li>CVS</li>
-  <li>eBay</li>
-  <li>Etsy</li>
-</ol>
-
-<p>Please note that this is not an exhaustive list, and Honey may work on other websites as well.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Here are some websites on which the SaverGPT Chrome extension is known to work:]]></summary></entry></feed>
+<p>Despite the dominance of a few popular extensions, there are still many useful and innovative extensions that are struggling to gain traction. Extension developers face a difficult challenge of standing out in a crowded and competitive market, and the data suggests that it’s becoming increasingly difficult to do so.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[A recent scan of the Chrome Web Store conducted by Extension Monitor revealed that half of all Google Chrome extensions have fewer than 16 installs, and around 87% of all extensions have fewer than 1,000 installs. Only 13 extensions have managed to break over the 10 million user mark. The Chrome extension ecosystem is dominated by a few large players, while the rest of the extensions have very few active installations. Paid extensions account for 8.9% of all extensions, but 35% of them have no users.]]></summary></entry></feed>
