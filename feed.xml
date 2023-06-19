@@ -1,9 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-06-17T17:04:53+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top AI chrome extensions</title><link href="/2023/06/17/top-ai-chrome-extensions.html" rel="alternate" type="text/html" title="Top AI chrome extensions" /><published>2023-06-17T17:02:00+00:00</published><updated>2023-06-17T17:02:00+00:00</updated><id>/2023/06/17/top-ai-chrome-extensions</id><content type="html" xml:base="/2023/06/17/top-ai-chrome-extensions.html"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-06-19T03:24:28+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">DNA Storage Startups</title><link href="/2023/06/19/dna-storage-startups.html" rel="alternate" type="text/html" title="DNA Storage Startups" /><published>2023-06-19T03:23:00+00:00</published><updated>2023-06-19T03:23:00+00:00</updated><id>/2023/06/19/dna-storage-startups</id><content type="html" xml:base="/2023/06/19/dna-storage-startups.html"><![CDATA[<p><strong>DNA storage startups</strong> are companies that are developing new technologies for storing data in DNA. DNA is a very promising material for data storage because it is very dense, durable, and energy-efficient. DNA storage startups are working on a variety of different technologies, including</p>
+
+<ul>
+  <li><strong>Direct DNA storage</strong> This involves storing data directly in the DNA sequence. This is the most challenging approach, but it has the potential to offer the highest storage densities.</li>
+  <li><strong>DNA-based NFTs</strong> This involves storing data about non-fungible tokens (NFTs) in DNA. This is a relatively new approach, but it has the potential to make NFTs more secure and durable.</li>
+  <li><strong>DNA-based synthetic biology</strong> This involves using DNA to create synthetic biological systems that can store data. This is a very early-stage approach, but it has the potential to create new and innovative ways to store data.</li>
+</ul>
+
+<p>There are a number of DNA storage startups that are working on developing these technologies. Some of the most notable startups include</p>
+
+<ul>
+  <li><strong>Catalog</strong> Catalog is a Boston-based startup that is developing a platform for storing data in synthetic DNA. Catalog has raised $60 million in funding from investors such as Horizons Ventures and New Enterprise Associates.</li>
+  <li><strong>Evonetix</strong> Evonetix is a Swiss-based startup that is developing a platform for storing data in DNA. Evonetix has raised $100 million in funding from investors such as Roche and Life Sciences Partners.</li>
+  <li><strong>Molecular Assemblies</strong> Molecular Assemblies is a US-based startup that is developing a platform for storing data in DNA. Molecular Assemblies has raised $100 million in funding from investors such as Illumina and Merck.</li>
+</ul>
+
+<p>DNA storage is a rapidly growing field with a lot of potential. The development of DNA storage technologies could revolutionize the way we store data. DNA storage could make data storage more secure, durable, and energy-efficient. It could also make data storage more accessible and affordable.</p>
+
+<p><strong>My own insights</strong></p>
+
+<p>I believe that DNA storage has the potential to be a major disruptive technology in the data storage industry. The advantages of DNA storage, such as its high density, durability, and energy efficiency, could make it a much more attractive option than traditional data storage technologies, such as hard drives and solid-state drives.</p>
+
+<p>However, there are still some challenges that need to be addressed before DNA storage can become a mainstream technology. One challenge is the cost of DNA synthesis. Another challenge is the need to develop more efficient methods for reading and writing data from DNA.</p>
+
+<p>Despite these challenges, I believe that DNA storage has the potential to revolutionize the way we store data. I am excited to see how this technology develops in the years to come.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[DNA storage startups are companies that are developing new technologies for storing data in DNA. DNA is a very promising material for data storage because it is very dense, durable, and energy-efficient. DNA storage startups are working on a variety of different technologies, including]]></summary></entry><entry><title type="html">Top AI chrome extensions</title><link href="/2023/06/17/top-ai-chrome-extensions.html" rel="alternate" type="text/html" title="Top AI chrome extensions" /><published>2023-06-17T17:02:00+00:00</published><updated>2023-06-17T17:02:00+00:00</updated><id>/2023/06/17/top-ai-chrome-extensions</id><content type="html" xml:base="/2023/06/17/top-ai-chrome-extensions.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>Name</th>
       <th>Utility</th>
-      <th>Installs</th>
+      <th>Installs/Downloads</th>
       <th>Paid or Free</th>
       <th>Price ($)</th>
     </tr>
@@ -12,7 +36,7 @@
     <tr>
       <td>Grammarly</td>
       <td>Writing assistant</td>
-      <td>-</td>
+      <td>10,000,000+</td>
       <td>Freemium</td>
       <td>Free, $11.66/month</td>
     </tr>
@@ -26,61 +50,61 @@
     <tr>
       <td>Keywords Everywhere</td>
       <td>Keyword suggestions</td>
-      <td>-</td>
+      <td>1,000,000+</td>
       <td>Freemium</td>
       <td>Free, $10/month</td>
     </tr>
     <tr>
       <td>Distill Web Monitor</td>
       <td>Web page monitoring</td>
-      <td>-</td>
+      <td>100,000+</td>
       <td>Free</td>
       <td>Free</td>
     </tr>
     <tr>
       <td>Crystal</td>
       <td>Email productivity</td>
-      <td>-</td>
+      <td>100,000+</td>
       <td>Freemium</td>
       <td>Free, $20/month</td>
     </tr>
     <tr>
       <td>Mercury Reader</td>
       <td>Distraction-free reading</td>
-      <td>-</td>
+      <td>1,000,000+</td>
       <td>Free</td>
       <td>Free</td>
     </tr>
     <tr>
       <td>Data Miner</td>
       <td>Web scraping</td>
-      <td>-</td>
+      <td>100,000+</td>
       <td>Freemium</td>
       <td>Free, $15/month</td>
     </tr>
     <tr>
       <td>Boomerang for Gmail</td>
       <td>Email management</td>
-      <td>-</td>
+      <td>1,000,000+</td>
       <td>Freemium</td>
       <td>Free, $4.99/month</td>
     </tr>
     <tr>
       <td>RiteKit</td>
       <td>Social media optimization</td>
-      <td>-</td>
+      <td>50,000+</td>
       <td>Freemium</td>
       <td>Free, $19-$49/month</td>
     </tr>
     <tr>
       <td>Momentum</td>
       <td>Personal dashboard</td>
-      <td>-</td>
+      <td>1,000,000+</td>
       <td>Freemium</td>
       <td>Free, $3.33/month</td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Name Utility Installs Paid or Free Price ($) Grammarly Writing assistant - Freemium Free, $11.66/month Talk to Transformer Text generation - Free Free Keywords Everywhere Keyword suggestions - Freemium Free, $10/month Distill Web Monitor Web page monitoring - Free Free Crystal Email productivity - Freemium Free, $20/month Mercury Reader Distraction-free reading - Free Free Data Miner Web scraping - Freemium Free, $15/month Boomerang for Gmail Email management - Freemium Free, $4.99/month RiteKit Social media optimization - Freemium Free, $19-$49/month Momentum Personal dashboard - Freemium Free, $3.33/month]]></summary></entry><entry><title type="html">Top 10 Marketplaces for buying and selling online businesses</title><link href="/2023/06/14/top-10-marketplaces-for-buying-and-selling-online-businesses.html" rel="alternate" type="text/html" title="Top 10 Marketplaces for buying and selling online businesses" /><published>2023-06-14T14:48:00+00:00</published><updated>2023-06-14T14:48:00+00:00</updated><id>/2023/06/14/top-10-marketplaces-for-buying-and-selling-online-businesses</id><content type="html" xml:base="/2023/06/14/top-10-marketplaces-for-buying-and-selling-online-businesses.html"><![CDATA[<p>Top 10 similar marketplaces for buying and selling online businesses in 2023:</p>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Name Utility Installs/Downloads Paid or Free Price ($) Grammarly Writing assistant 10,000,000+ Freemium Free, $11.66/month Talk to Transformer Text generation - Free Free Keywords Everywhere Keyword suggestions 1,000,000+ Freemium Free, $10/month Distill Web Monitor Web page monitoring 100,000+ Free Free Crystal Email productivity 100,000+ Freemium Free, $20/month Mercury Reader Distraction-free reading 1,000,000+ Free Free Data Miner Web scraping 100,000+ Freemium Free, $15/month Boomerang for Gmail Email management 1,000,000+ Freemium Free, $4.99/month RiteKit Social media optimization 50,000+ Freemium Free, $19-$49/month Momentum Personal dashboard 1,000,000+ Freemium Free, $3.33/month]]></summary></entry><entry><title type="html">Top 10 Marketplaces for buying and selling online businesses</title><link href="/2023/06/14/top-10-marketplaces-for-buying-and-selling-online-businesses.html" rel="alternate" type="text/html" title="Top 10 Marketplaces for buying and selling online businesses" /><published>2023-06-14T14:48:00+00:00</published><updated>2023-06-14T14:48:00+00:00</updated><id>/2023/06/14/top-10-marketplaces-for-buying-and-selling-online-businesses</id><content type="html" xml:base="/2023/06/14/top-10-marketplaces-for-buying-and-selling-online-businesses.html"><![CDATA[<p>Top 10 similar marketplaces for buying and selling online businesses in 2023:</p>
 
 <ol>
   <li>Flippa</li>
@@ -994,47 +1018,4 @@
   </li>
 </ol>
 
-<p>These are the general steps to generate ReadTheDocs for a Python project using Sphinx. However, there are additional configuration options and advanced features available with Sphinx and ReadTheDocs that you can explore to customize your documentation.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Yes, I can guide you on how to generate ReadTheDocs for a Python project. Here are the steps:]]></summary></entry><entry><title type="html">11 new AI Chrome extensions to boost your productivity</title><link href="/2023/05/06/11-new-ai-chrome-extensions-to-boost-your-productivity.html" rel="alternate" type="text/html" title="11 new AI Chrome extensions to boost your productivity" /><published>2023-05-06T08:41:00+00:00</published><updated>2023-05-06T08:41:00+00:00</updated><id>/2023/05/06/11-new-ai-chrome-extensions-to-boost-your-productivity</id><content type="html" xml:base="/2023/05/06/11-new-ai-chrome-extensions-to-boost-your-productivity.html"><![CDATA[<p>Here are 11 new AI Chrome extensions to boost your productivity:</p>
-
-<p>✔SciSpace Copilot
-An AI assistant that clarifies academic papers in real-time.
-Highlight text for improved comprehension, decipher formulas and tables, and pose questions to the paper.</p>
-
-<p>✔Compose AI
-Automate your email writing with this extension.
-The AI integrates seamlessly into any text box.</p>
-
-<p>✔Wiseone
-Pose questions about any article you’re reading to Wiseone, and it’ll produce accurate answers.
-UseChatGPT AI
-Utilize ChatGPT on any website without copying and pasting.</p>
-
-<p>✔Merlin
-Obtain ChatGPT responses on any website by simply pressing Cmd+M.
-Compatible with Google, Gmail, and over 10 million websites.</p>
-
-<p>✔Klu.so
-A Chrome extension that functions like Google, but for internal searches.
-Perplexity
-Ask any questions while browsing.
-This AI extension clarifies and helps you comprehend any web page.</p>
-
-<p>✔Wordtune
-This AI assists you in writing on any page.
-Alter the tone or adjust the text length within seconds.
-YouTube Summary (Glasp)
-Receive a concise summary of any YouTube video directly in ChatGPT.</p>
-
-<p>✔JamGPT
-Slash your debugging time by 80% with developer logs, instant replay, and AI assistance.
-• Extract insights from bug reports
-• Engage with AI debugger
-• Repair faulty code
-• Request AI-generated PR descriptions</p>
-
-<p>✔Magical
-GPT-4 AI Writer and text expander.
-Enhance your productivity by asking Magical to compose:
-• AI-crafted messages
-• emails
-• customer responses</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Here are 11 new AI Chrome extensions to boost your productivity:]]></summary></entry></feed>
+<p>These are the general steps to generate ReadTheDocs for a Python project using Sphinx. However, there are additional configuration options and advanced features available with Sphinx and ReadTheDocs that you can explore to customize your documentation.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Yes, I can guide you on how to generate ReadTheDocs for a Python project. Here are the steps:]]></summary></entry></feed>
