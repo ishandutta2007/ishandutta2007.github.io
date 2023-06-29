@@ -1,5 +1,5 @@
 name: Build and Deploy
-run-name: ${{ github.actor }} is testing GitHub Actions
+run-name: ${{ github.actor }} is no-more testing GitHub Actions
 on: [push]
 
 jobs:
