@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-06-29T17:36:53+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Number of Fortune500 CEOs by country</title><link href="/2023/06/29/number-of-fortune500-ceos-by-country.html" rel="alternate" type="text/html" title="Number of Fortune500 CEOs by country" /><published>2023-06-29T17:35:00+00:00</published><updated>2023-06-29T17:35:00+00:00</updated><id>/2023/06/29/number-of-fortune500-ceos-by-country</id><content type="html" xml:base="/2023/06/29/number-of-fortune500-ceos-by-country.html"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-06-30T09:05:00+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Number of Nobel Prizes in Science by Country in last 10 Years</title><link href="/2023/06/30/number-of-nobel-prizes-in-science-by-country-in-last-10-years.html" rel="alternate" type="text/html" title="Number of Nobel Prizes in Science by Country in last 10 Years" /><published>2023-06-30T09:02:00+00:00</published><updated>2023-06-30T09:02:00+00:00</updated><id>/2023/06/30/number-of-nobel-prizes-in-science-by-country-in-last-10-years</id><content type="html" xml:base="/2023/06/30/number-of-nobel-prizes-in-science-by-country-in-last-10-years.html"><![CDATA[<table>
+  <thead>
+    <tr>
+      <th>Country</th>
+      <th>Number of prizes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>United States</td>
+      <td>28</td>
+    </tr>
+    <tr>
+      <td>Germany</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <td>United Kingdom</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td>Switzerland</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>France</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>Japan</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>China</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>Sweden</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Netherlands</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Breakdown by discipline:</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Discipline</th>
+      <th>Number of prizes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Physics</td>
+      <td>45</td>
+    </tr>
+    <tr>
+      <td>Chemistry</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>Physiology or Medicine</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>Economic Sciences</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Country Number of prizes United States 28 Germany 13 United Kingdom 12 Switzerland 10 France 9 Japan 8 China 6 Sweden 5 Netherlands 4]]></summary></entry><entry><title type="html">Number of Fortune500 CEOs by country</title><link href="/2023/06/29/number-of-fortune500-ceos-by-country.html" rel="alternate" type="text/html" title="Number of Fortune500 CEOs by country" /><published>2023-06-29T17:35:00+00:00</published><updated>2023-06-29T17:35:00+00:00</updated><id>/2023/06/29/number-of-fortune500-ceos-by-country</id><content type="html" xml:base="/2023/06/29/number-of-fortune500-ceos-by-country.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>Country</th>
@@ -1159,264 +1233,4 @@
   <li><strong>Exchange Marketplace:</strong> Exchange Marketplace is a marketplace for buying and selling online businesses. It offers a wide variety of businesses for sale, from small websites to large e-commerce stores. Exchange Marketplace also provides a number of features and services to help buyers and sellers, including a valuation tool, escrow services, and a community forum.</li>
 </ul>
 
-<p>These are just a few of the many marketplaces available for buying and selling online businesses. When choosing a marketplace, it is important to consider your specific needs and goals. Some factors to consider include the size and type of business you are looking for, your budget, and the level of support you need.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Top 10 similar marketplaces for buying and selling online businesses in 2023:]]></summary></entry><entry><title type="html">Top SaaS Affiliate Marketplaces</title><link href="/2023/06/12/top-saas-affiliate-marketplaces.html" rel="alternate" type="text/html" title="Top SaaS Affiliate Marketplaces" /><published>2023-06-12T13:33:00+00:00</published><updated>2023-06-12T13:33:00+00:00</updated><id>/2023/06/12/top-saas-affiliate-marketplaces</id><content type="html" xml:base="/2023/06/12/top-saas-affiliate-marketplaces.html"><![CDATA[<table>
-  <thead>
-    <tr>
-      <th>Affiliate Marketplace</th>
-      <th>Unit Sales Price</th>
-      <th>Commission Percentage</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>ShareASale</td>
-      <td>$0 - $1000</td>
-      <td>5% - 30%</td>
-    </tr>
-    <tr>
-      <td>CJ Affiliate</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>Awin</td>
-      <td>$0 - $1000</td>
-      <td>5% - 25%</td>
-    </tr>
-    <tr>
-      <td>Rakuten Advertising</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>Impact</td>
-      <td>$0 - $1000</td>
-      <td>5% - 30%</td>
-    </tr>
-    <tr>
-      <td>FlexOffers</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>Avangate</td>
-      <td>$0 - $1000</td>
-      <td>5% - 30%</td>
-    </tr>
-    <tr>
-      <td>PartnerStack</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>ClickBank</td>
-      <td>$0 - $1000</td>
-      <td>5% - 30%</td>
-    </tr>
-    <tr>
-      <td>Refersion</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>TradeTracker</td>
-      <td>$0 - $1000</td>
-      <td>5% - 25%</td>
-    </tr>
-    <tr>
-      <td>RevenueWire</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>RevenueHut</td>
-      <td>$0 - $1000</td>
-      <td>5% - 30%</td>
-    </tr>
-    <tr>
-      <td>Digital River</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>MyCommerce</td>
-      <td>$0 - $1000</td>
-      <td>5% - 30%</td>
-    </tr>
-    <tr>
-      <td>PayDotCom</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>Commission Factory</td>
-      <td>$0 - $1000</td>
-      <td>5% - 30%</td>
-    </tr>
-    <tr>
-      <td>Webgains</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>Tradedoubler</td>
-      <td>$0 - $1000</td>
-      <td>5% - 25%</td>
-    </tr>
-    <tr>
-      <td>Pepperjam</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>Sovrn Commerce</td>
-      <td>$0 - $1000</td>
-      <td>5% - 30%</td>
-    </tr>
-    <tr>
-      <td>VigLink</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>Skimlinks</td>
-      <td>$0 - $1000</td>
-      <td>5% - 30%</td>
-    </tr>
-    <tr>
-      <td>Adtraction</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>Zanox</td>
-      <td>$0 - $1000</td>
-      <td>5% - 25%</td>
-    </tr>
-    <tr>
-      <td>Impact Radius</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>TradeDoubler</td>
-      <td>$0 - $1000</td>
-      <td>5% - 25%</td>
-    </tr>
-    <tr>
-      <td>FlexOffers</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>AvantLink</td>
-      <td>$0 - $1000</td>
-      <td>5% - 30%</td>
-    </tr>
-    <tr>
-      <td>Affiliate Future</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>LinkConnector</td>
-      <td>$0 - $1000</td>
-      <td>5% - 25%</td>
-    </tr>
-    <tr>
-      <td>Share Results</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>Paid On Results</td>
-      <td>$0 - $1000</td>
-      <td>5% - 30%</td>
-    </tr>
-    <tr>
-      <td>DCMnetwork</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>CJ Affiliate</td>
-      <td>$0 - $1000</td>
-      <td>5% - 30%</td>
-    </tr>
-    <tr>
-      <td>Fintel Connect</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>Impact</td>
-      <td>$0 - $1000</td>
-      <td>5% - 30%</td>
-    </tr>
-    <tr>
-      <td>Partnerize</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>HasOffers by TUNE</td>
-      <td>$0 - $1000</td>
-      <td>5% - 30%</td>
-    </tr>
-    <tr>
-      <td>TradeTracker</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>Affise</td>
-      <td>$0 - $1000</td>
-      <td>5% - 25%</td>
-    </tr>
-    <tr>
-      <td>Post Affiliate Pro</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>LinkTrust</td>
-      <td>$0 - $1000</td>
-      <td>5% - 30%</td>
-    </tr>
-    <tr>
-      <td>Refersion</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>Everflow</td>
-      <td>$0 - $1000</td>
-      <td>5% - 30%</td>
-    </tr>
-    <tr>
-      <td>Sharetribe</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>Tapfiliate</td>
-      <td>$0 - $1000</td>
-      <td>5% - 25%</td>
-    </tr>
-    <tr>
-      <td>LeadDyno</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-    <tr>
-      <td>iDevAffiliate</td>
-      <td>$0 - $1000</td>
-      <td>5% - 30%</td>
-    </tr>
-    <tr>
-      <td>Target Circle</td>
-      <td>$0 - $500</td>
-      <td>3% - 20%</td>
-    </tr>
-  </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Affiliate Marketplace Unit Sales Price Commission Percentage ShareASale $0 - $1000 5% - 30% CJ Affiliate $0 - $500 3% - 20% Awin $0 - $1000 5% - 25% Rakuten Advertising $0 - $500 3% - 20% Impact $0 - $1000 5% - 30% FlexOffers $0 - $500 3% - 20% Avangate $0 - $1000 5% - 30% PartnerStack $0 - $500 3% - 20% ClickBank $0 - $1000 5% - 30% Refersion $0 - $500 3% - 20% TradeTracker $0 - $1000 5% - 25% RevenueWire $0 - $500 3% - 20% RevenueHut $0 - $1000 5% - 30% Digital River $0 - $500 3% - 20% MyCommerce $0 - $1000 5% - 30% PayDotCom $0 - $500 3% - 20% Commission Factory $0 - $1000 5% - 30% Webgains $0 - $500 3% - 20% Tradedoubler $0 - $1000 5% - 25% Pepperjam $0 - $500 3% - 20% Sovrn Commerce $0 - $1000 5% - 30% VigLink $0 - $500 3% - 20% Skimlinks $0 - $1000 5% - 30% Adtraction $0 - $500 3% - 20% Zanox $0 - $1000 5% - 25% Impact Radius $0 - $500 3% - 20% TradeDoubler $0 - $1000 5% - 25% FlexOffers $0 - $500 3% - 20% AvantLink $0 - $1000 5% - 30% Affiliate Future $0 - $500 3% - 20% LinkConnector $0 - $1000 5% - 25% Share Results $0 - $500 3% - 20% Paid On Results $0 - $1000 5% - 30% DCMnetwork $0 - $500 3% - 20% CJ Affiliate $0 - $1000 5% - 30% Fintel Connect $0 - $500 3% - 20% Impact $0 - $1000 5% - 30% Partnerize $0 - $500 3% - 20% HasOffers by TUNE $0 - $1000 5% - 30% TradeTracker $0 - $500 3% - 20% Affise $0 - $1000 5% - 25% Post Affiliate Pro $0 - $500 3% - 20% LinkTrust $0 - $1000 5% - 30% Refersion $0 - $500 3% - 20% Everflow $0 - $1000 5% - 30% Sharetribe $0 - $500 3% - 20% Tapfiliate $0 - $1000 5% - 25% LeadDyno $0 - $500 3% - 20% iDevAffiliate $0 - $1000 5% - 30% Target Circle $0 - $500 3% - 20%]]></summary></entry></feed>
+<p>These are just a few of the many marketplaces available for buying and selling online businesses. When choosing a marketplace, it is important to consider your specific needs and goals. Some factors to consider include the size and type of business you are looking for, your budget, and the level of support you need.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Top 10 similar marketplaces for buying and selling online businesses in 2023:]]></summary></entry></feed>
