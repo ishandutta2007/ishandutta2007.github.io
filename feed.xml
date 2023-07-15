@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-06-30T09:05:00+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Number of Nobel Prizes in Science by Country in last 10 Years</title><link href="/2023/06/30/number-of-nobel-prizes-in-science-by-country-in-last-10-years.html" rel="alternate" type="text/html" title="Number of Nobel Prizes in Science by Country in last 10 Years" /><published>2023-06-30T09:02:00+00:00</published><updated>2023-06-30T09:02:00+00:00</updated><id>/2023/06/30/number-of-nobel-prizes-in-science-by-country-in-last-10-years</id><content type="html" xml:base="/2023/06/30/number-of-nobel-prizes-in-science-by-country-in-last-10-years.html"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-07-15T07:18:24+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">How much do senior software engineers make at Facebook, Microsoft and Google as per levels.fyi?</title><link href="/2023/07/15/how-much-do-senior-software-engineers-make-at-facebook-microsoft-and-google-as-per-levels-fyi.html" rel="alternate" type="text/html" title="How much do senior software engineers make at Facebook, Microsoft and Google as per levels.fyi?" /><published>2023-07-15T07:16:00+00:00</published><updated>2023-07-15T07:16:00+00:00</updated><id>/2023/07/15/how-much-do-senior-software-engineers-make-at-facebook-microsoft-and-google-as-per-levels-fyi</id><content type="html" xml:base="/2023/07/15/how-much-do-senior-software-engineers-make-at-facebook-microsoft-and-google-as-per-levels-fyi.html"><![CDATA[<p>According to levels.fyi, the median yearly total compensation for a senior software engineer at Facebook is $345,000. The highest paying salary package reported for a senior software engineer at Facebook sits at a yearly total compensation of $2,534,190. This includes base salary as well as any potential stock compensation and bonuses.</p>
+
+<p>The median yearly total compensation for a senior software engineer at Microsoft is $201,500. The highest paying salary package reported for a senior software engineer at Microsoft sits at a yearly total compensation of $1,179,000. This includes base salary as well as any potential stock compensation and bonuses.</p>
+
+<p>The median yearly total compensation for a senior software engineer at Google is $292,000. The highest paying salary package reported for a senior software engineer at Google sits at a yearly total compensation of $418,000. This includes base salary as well as any potential stock compensation and bonuses.</p>
+
+<p>It is important to note that these are just median salaries. The actual salary that a senior software engineer makes will vary depending on their experience, skills, and location.</p>
+
+<p>Here is a table showing the median yearly total compensation for senior software engineers at Facebook, Microsoft, and Google:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Company</th>
+      <th>Median Yearly Total Compensation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Facebook</td>
+      <td>$345,000</td>
+    </tr>
+    <tr>
+      <td>Microsoft</td>
+      <td>$201,500</td>
+    </tr>
+    <tr>
+      <td>Google</td>
+      <td>$292,000</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>As you can see, the median yearly total compensation for senior software engineers at these companies is quite high. This is because these companies are some of the most well-known and successful technology companies in the world. They are also known for their generous compensation packages.</p>
+
+<p>If you are interested in becoming a senior software engineer at one of these companies, you should be prepared to compete with some of the best and brightest engineers in the world. However, if you are successful, you could be rewarded with a very lucrative career.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[According to levels.fyi, the median yearly total compensation for a senior software engineer at Facebook is $345,000. The highest paying salary package reported for a senior software engineer at Facebook sits at a yearly total compensation of $2,534,190. This includes base salary as well as any potential stock compensation and bonuses.]]></summary></entry><entry><title type="html">Number of Nobel Prizes in Science by Country in last 10 Years</title><link href="/2023/06/30/number-of-nobel-prizes-in-science-by-country-in-last-10-years.html" rel="alternate" type="text/html" title="Number of Nobel Prizes in Science by Country in last 10 Years" /><published>2023-06-30T09:02:00+00:00</published><updated>2023-06-30T09:02:00+00:00</updated><id>/2023/06/30/number-of-nobel-prizes-in-science-by-country-in-last-10-years</id><content type="html" xml:base="/2023/06/30/number-of-nobel-prizes-in-science-by-country-in-last-10-years.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>Country</th>
@@ -1202,35 +1237,4 @@
       <td>Free, $3.33/month</td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Name Utility Installs/Downloads Paid or Free Price ($) Grammarly Writing assistant 10,000,000+ Freemium Free, $11.66/month Talk to Transformer Text generation - Free Free Keywords Everywhere Keyword suggestions 1,000,000+ Freemium Free, $10/month Distill Web Monitor Web page monitoring 100,000+ Free Free Crystal Email productivity 100,000+ Freemium Free, $20/month Mercury Reader Distraction-free reading 1,000,000+ Free Free Data Miner Web scraping 100,000+ Freemium Free, $15/month Boomerang for Gmail Email management 1,000,000+ Freemium Free, $4.99/month RiteKit Social media optimization 50,000+ Freemium Free, $19-$49/month Momentum Personal dashboard 1,000,000+ Freemium Free, $3.33/month]]></summary></entry><entry><title type="html">Top 10 Marketplaces for buying and selling online businesses</title><link href="/2023/06/14/top-10-marketplaces-for-buying-and-selling-online-businesses.html" rel="alternate" type="text/html" title="Top 10 Marketplaces for buying and selling online businesses" /><published>2023-06-14T14:48:00+00:00</published><updated>2023-06-14T14:48:00+00:00</updated><id>/2023/06/14/top-10-marketplaces-for-buying-and-selling-online-businesses</id><content type="html" xml:base="/2023/06/14/top-10-marketplaces-for-buying-and-selling-online-businesses.html"><![CDATA[<p>Top 10 similar marketplaces for buying and selling online businesses in 2023:</p>
-
-<ol>
-  <li>Flippa</li>
-  <li>Empire Flippers</li>
-  <li>FE International</li>
-  <li>Quiet Light Brokerage</li>
-  <li>Side Project Capital</li>
-  <li>The Mergers and Acquisitions Institute</li>
-  <li>Digital Exits</li>
-  <li>Website Properties</li>
-  <li>Exchange Marketplace</li>
-  <li>Latona’s</li>
-</ol>
-
-<p>These marketplaces all offer a variety of features and services to help buyers and sellers find the right online business for their needs. They can also provide valuable resources and support throughout the buying and selling process.</p>
-
-<p>Here is a brief overview of each marketplace:</p>
-
-<ul>
-  <li><strong>Flippa:</strong> Flippa is one of the most popular marketplaces for buying and selling online businesses. It offers a wide variety of businesses for sale, from small websites to large e-commerce stores. Flippa also provides a number of features and services to help buyers and sellers, including a valuation tool, escrow services, and a community forum.</li>
-  <li><strong>Empire Flippers:</strong> Empire Flippers is another popular marketplace for buying and selling online businesses. It specializes in high-quality, high-traffic websites. Empire Flippers vets all sellers and provides a number of services to help buyers, including due diligence, financing, and marketing.</li>
-  <li><strong>FE International:</strong> FE International is a merger-and-acquisitions advisory firm that specializes in the sale of online businesses. FE International has a team of experienced professionals who can help buyers and sellers find the right deal and negotiate the best possible price.</li>
-  <li><strong>Quiet Light Brokerage:</strong> Quiet Light Brokerage is another merger-and-acquisitions advisory firm that specializes in the sale of online businesses. Quiet Light Brokerage has a team of experienced professionals who can help buyers and sellers find the right deal and negotiate the best possible price.</li>
-  <li><strong>Side Project Capital:</strong> Side Project Capital is a venture capital firm that invests in online businesses. Side Project Capital is looking for businesses with strong growth potential and a team of experienced entrepreneurs.</li>
-  <li><strong>The Mergers and Acquisitions Institute:</strong> The Mergers and Acquisitions Institute is a non-profit organization that provides education and resources to entrepreneurs, business owners, and investors. The institute offers a variety of courses and programs on mergers and acquisitions, including online courses, in-person workshops, and one-on-one coaching.</li>
-  <li><strong>Digital Exits:</strong> Digital Exits is a marketplace for buying and selling digital assets, including websites, apps, and online businesses. Digital Exits offers a variety of features and services to help buyers and sellers, including a valuation tool, escrow services, and a community forum.</li>
-  <li><strong>Website Properties:</strong> Website Properties is a marketplace for buying and selling websites. It offers a wide variety of websites for sale, from small websites to large e-commerce stores. Website Properties also provides a number of features and services to help buyers and sellers, including a valuation tool, escrow services, and a community forum.</li>
-  <li><strong>Exchange Marketplace:</strong> Exchange Marketplace is a marketplace for buying and selling online businesses. It offers a wide variety of businesses for sale, from small websites to large e-commerce stores. Exchange Marketplace also provides a number of features and services to help buyers and sellers, including a valuation tool, escrow services, and a community forum.</li>
-</ul>
-
-<p>These are just a few of the many marketplaces available for buying and selling online businesses. When choosing a marketplace, it is important to consider your specific needs and goals. Some factors to consider include the size and type of business you are looking for, your budget, and the level of support you need.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Top 10 similar marketplaces for buying and selling online businesses in 2023:]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Name Utility Installs/Downloads Paid or Free Price ($) Grammarly Writing assistant 10,000,000+ Freemium Free, $11.66/month Talk to Transformer Text generation - Free Free Keywords Everywhere Keyword suggestions 1,000,000+ Freemium Free, $10/month Distill Web Monitor Web page monitoring 100,000+ Free Free Crystal Email productivity 100,000+ Freemium Free, $20/month Mercury Reader Distraction-free reading 1,000,000+ Free Free Data Miner Web scraping 100,000+ Freemium Free, $15/month Boomerang for Gmail Email management 1,000,000+ Freemium Free, $4.99/month RiteKit Social media optimization 50,000+ Freemium Free, $19-$49/month Momentum Personal dashboard 1,000,000+ Freemium Free, $3.33/month]]></summary></entry></feed>
