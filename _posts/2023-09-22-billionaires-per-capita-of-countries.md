@@ -40,7 +40,7 @@ Here is a full table of billionaires per capita by country, based on the 2023 Fo
 | 30	|	United Kingdom	|	0.715 |
 | 31	|	Netherlands	|	0.683 |
 | 32	|	Italy	|	0.607 |
-| 33	|	NewZealand	|	0.587 |
+| 33	|	New Zealand	|	0.587 |
 | 34	|	Uruguay	|	0.584 |
 | 35	|	France	|	0.579 |
 | 36	|	Greece	|	0.560 |
@@ -48,7 +48,7 @@ Here is a full table of billionaires per capita by country, based on the 2023 Fo
 | 38	|	Spain	|	0.507 |
 | 39	|	Portugal	|	0.497 |
 | 40	|	United Arab Emirates	|	0.427 |
-| 41	|	SouthKorea	|	0.395 |
+| 41	|	South Korea	|	0.395 |
 | 42	|	Malaysia	|	0.388 |
 | 43	|	Qatar	|	0.368 |
 | 44	|	Slovakia	|	0.366 |
