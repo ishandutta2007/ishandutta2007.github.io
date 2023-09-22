@@ -1,70 +1,323 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-22T14:29:41+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Billionaires Per Capita of Countries</title><link href="/2023/09/22/billionaires-per-capita-of-countries.html" rel="alternate" type="text/html" title="Billionaires Per Capita of Countries" /><published>2023-09-22T12:03:00+00:00</published><updated>2023-09-22T12:03:00+00:00</updated><id>/2023/09/22/billionaires-per-capita-of-countries</id><content type="html" xml:base="/2023/09/22/billionaires-per-capita-of-countries.html"><![CDATA[<p>Here is a full table of billionaires per capita by country, based on the 2023 Forbes World’s Billionaires list:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-22T14:48:19+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Billionaires Per Capita of Countries</title><link href="/2023/09/22/billionaires-per-capita-of-countries.html" rel="alternate" type="text/html" title="Billionaires Per Capita of Countries" /><published>2023-09-22T12:03:00+00:00</published><updated>2023-09-22T12:03:00+00:00</updated><id>/2023/09/22/billionaires-per-capita-of-countries</id><content type="html" xml:base="/2023/09/22/billionaires-per-capita-of-countries.html"><![CDATA[<p>Here is a full table of billionaires per capita by country, based on the 2023 Forbes World’s Billionaires list:</p>
 
-<p>| Rank | Country | Billionaires per Capita(per million) |
-|—|—|—|
-|1	|	Monaco	|	78.740|
-|2	|	St.Kitts&amp;Nevis	|	37.037|
-|3	|	Liechtenstein	|	25.710|
-|4	|	Guernsey	|	15.834|
-|5	|	Cyprus	|	9.008|
-|6	|	Hong Kong	|	8.698|
-|7	|	Singapore	|	4.573|
-|8	|	Switzerland	|	4.044|
-|9	|	Malta	|	3.849|
-|10	|	Barbados	|	3.559|
-|11	|	Israel	|	3.158|
-|12	|	Sweden	|	2.987|
-|13	|	Iceland	|	2.713|
-|14	|	Norway	|	2.226|
-|15	|	United States	|	1.853|
-|16	|	Ireland	|	1.808|
-|17	|	Taiwan	|	1.559|
-|18	|	Macau	|	1.464|
-|19	|	Germany	|	1.460|
-|20	|	Denmark	|	1.370|
-|21	|	Finland	|	1.272|
-|22	|	Australia	|	1.229|
-|23	|	Canada	|	1.129|
-|24	|	Austria	|	1.007|
-|25	|	Eswatini(Swaziland)	|	0.915|
-|26	|	CzechRepublic	|	0.913|
-|27	|	Lebanon	|	0.886|
-|28	|	Russia	|	0.856|
-|29	|	Estonia	|	0.751|
-|30	|	United Kingdom	|	0.715|
-|31	|	Netherlands	|	0.683|
-|32	|	Italy	|	0.607|
-|33	|	NewZealand	|	0.587|
-|34	|	Uruguay	|	0.584|
-|35	|	France	|	0.579|
-|36	|	Greece	|	0.560|
-|37	|	Georgia	|	0.537|
-|38	|	Spain	|	0.507|
-|39	|	Portugal	|	0.497|
-|40	|	United Arab Emirates	|	0.427|
-|41	|	SouthKorea	|	0.395|
-|42	|	Malaysia	|	0.388|
-|43	|	Qatar	|	0.368|
-|44	|	Slovakia	|	0.366|
-|45	|	Chile	|	0.356|
-|46	|	Belgium	|	0.348|
-|47	|	Kazakhstan	|	0.318|
-|48	|	Thailand	|	0.300|
-|49	|	Turkey	|	0.298|
-|50	|	Bulgaria	|	0.291|
-|51	|	China	|	0.253|
-|52	|	Kuwait	|	0.224|
-|53	|	Oman	|	0.223|
-|54	|	Brazil	|	0.211|
-|55	|	Japan	|	0.207|
-|56	|	Poland	|	0.183|
-|57	|	Ukraine	|	0.144|
-|58	|	Philippines	|	0.136|
-|59	|	Argentina	|	0.109|
-|60	|	Romania	|	0.104|
-|61	|	India	|	0.103|
-|
-It is important to note that this table is based on population estimates from the World Bank, and the number of billionaires in each country is based on the Forbes World’s Billionaires list. Both of these data sources are subject to some degree of error. Additionally, the table does not take into account the distribution of wealth within each country, meaning that it is possible for a country with a high number of billionaires per capita to also have a high level of poverty.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Here is a full table of billionaires per capita by country, based on the 2023 Forbes World’s Billionaires list:]]></summary></entry><entry><title type="html">How much do senior software engineers make at Facebook, Microsoft and Google as per levels.fyi?</title><link href="/2023/07/15/how-much-do-senior-software-engineers-make-at-facebook-microsoft-and-google-as-per-levels-fyi.html" rel="alternate" type="text/html" title="How much do senior software engineers make at Facebook, Microsoft and Google as per levels.fyi?" /><published>2023-07-15T07:16:00+00:00</published><updated>2023-07-15T07:16:00+00:00</updated><id>/2023/07/15/how-much-do-senior-software-engineers-make-at-facebook-microsoft-and-google-as-per-levels-fyi</id><content type="html" xml:base="/2023/07/15/how-much-do-senior-software-engineers-make-at-facebook-microsoft-and-google-as-per-levels-fyi.html"><![CDATA[<p>According to levels.fyi, the median yearly total compensation for a senior software engineer at Facebook is $345,000. The highest paying salary package reported for a senior software engineer at Facebook sits at a yearly total compensation of $2,534,190. This includes base salary as well as any potential stock compensation and bonuses.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Rank</th>
+      <th>Country</th>
+      <th>Billionaires per Capita(per million)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Monaco</td>
+      <td>78.740</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>St.Kitts&amp;Nevis</td>
+      <td>37.037</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Liechtenstein</td>
+      <td>25.710</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Guernsey</td>
+      <td>15.834</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Cyprus</td>
+      <td>9.008</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Hong Kong</td>
+      <td>8.698</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Singapore</td>
+      <td>4.573</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Switzerland</td>
+      <td>4.044</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Malta</td>
+      <td>3.849</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Barbados</td>
+      <td>3.559</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Israel</td>
+      <td>3.158</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Sweden</td>
+      <td>2.987</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Iceland</td>
+      <td>2.713</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>Norway</td>
+      <td>2.226</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>United States</td>
+      <td>1.853</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>Ireland</td>
+      <td>1.808</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Taiwan</td>
+      <td>1.559</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Macau</td>
+      <td>1.464</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>Germany</td>
+      <td>1.460</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>Denmark</td>
+      <td>1.370</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>Finland</td>
+      <td>1.272</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>Australia</td>
+      <td>1.229</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>Canada</td>
+      <td>1.129</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>Austria</td>
+      <td>1.007</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Eswatini(Swaziland)</td>
+      <td>0.915</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>CzechRepublic</td>
+      <td>0.913</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>Lebanon</td>
+      <td>0.886</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>Russia</td>
+      <td>0.856</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>Estonia</td>
+      <td>0.751</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>United Kingdom</td>
+      <td>0.715</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>Netherlands</td>
+      <td>0.683</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>Italy</td>
+      <td>0.607</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>NewZealand</td>
+      <td>0.587</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>Uruguay</td>
+      <td>0.584</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>France</td>
+      <td>0.579</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>Greece</td>
+      <td>0.560</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>Georgia</td>
+      <td>0.537</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>Spain</td>
+      <td>0.507</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>Portugal</td>
+      <td>0.497</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>United Arab Emirates</td>
+      <td>0.427</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>SouthKorea</td>
+      <td>0.395</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>Malaysia</td>
+      <td>0.388</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>Qatar</td>
+      <td>0.368</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>Slovakia</td>
+      <td>0.366</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>Chile</td>
+      <td>0.356</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>Belgium</td>
+      <td>0.348</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>Kazakhstan</td>
+      <td>0.318</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>Thailand</td>
+      <td>0.300</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>Turkey</td>
+      <td>0.298</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>Bulgaria</td>
+      <td>0.291</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>China</td>
+      <td>0.253</td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>Kuwait</td>
+      <td>0.224</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>Oman</td>
+      <td>0.223</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>Brazil</td>
+      <td>0.211</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>Japan</td>
+      <td>0.207</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>Poland</td>
+      <td>0.183</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>Ukraine</td>
+      <td>0.144</td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>Philippines</td>
+      <td>0.136</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>Argentina</td>
+      <td>0.109</td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>Romania</td>
+      <td>0.104</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>India</td>
+      <td>0.103</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>It is important to note that this table is based on population estimates from the World Bank, and the number of billionaires in each country is based on the Forbes World’s Billionaires list. Both of these data sources are subject to some degree of error. Additionally, the table does not take into account the distribution of wealth within each country, meaning that it is possible for a country with a high number of billionaires per capita to also have a high level of poverty.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Here is a full table of billionaires per capita by country, based on the 2023 Forbes World’s Billionaires list:]]></summary></entry><entry><title type="html">How much do senior software engineers make at Facebook, Microsoft and Google as per levels.fyi?</title><link href="/2023/07/15/how-much-do-senior-software-engineers-make-at-facebook-microsoft-and-google-as-per-levels-fyi.html" rel="alternate" type="text/html" title="How much do senior software engineers make at Facebook, Microsoft and Google as per levels.fyi?" /><published>2023-07-15T07:16:00+00:00</published><updated>2023-07-15T07:16:00+00:00</updated><id>/2023/07/15/how-much-do-senior-software-engineers-make-at-facebook-microsoft-and-google-as-per-levels-fyi</id><content type="html" xml:base="/2023/07/15/how-much-do-senior-software-engineers-make-at-facebook-microsoft-and-google-as-per-levels-fyi.html"><![CDATA[<p>According to levels.fyi, the median yearly total compensation for a senior software engineer at Facebook is $345,000. The highest paying salary package reported for a senior software engineer at Facebook sits at a yearly total compensation of $2,534,190. This includes base salary as well as any potential stock compensation and bonuses.</p>
 
 <p>The median yearly total compensation for a senior software engineer at Microsoft is $201,500. The highest paying salary package reported for a senior software engineer at Microsoft sits at a yearly total compensation of $1,179,000. This includes base salary as well as any potential stock compensation and bonuses.</p>
 
