@@ -7,12 +7,12 @@ date: 2023-09-23 08:23 +0530
 |#|User Link|Reputation|Name|College|
 |---|---|---|---|---|
 | 1 | [anubhava](https://stackoverflow.com/users/548225) | 761957 | anubhava | Madan Mohan Malaviya University of Technology |
-| 2 | [_](https://stackoverflow.com/users/227665) | 445954 |||
-| 3 | [_](https://stackoverflow.com/users/526535) | 290598 |||
-| 4 | [_](https://stackoverflow.com/users/1903116) | 233860 |||
-| 5 | [_](https://stackoverflow.com/users/3293881) | 219005 |||
-| 6 | [_](https://stackoverflow.com/users/320615) | 212947 |||
-| 7 | [_](https://stackoverflow.com/users/1679863) | 209799 |||
+| 2 | [codaddict](https://stackoverflow.com/users/227665) | 445954 | codaddict ||
+| 3 | [manojlds](https://stackoverflow.com/users/526535) | 290598 | manojlds ||
+| 4 | [thefourtheye](https://stackoverflow.com/users/1903116) | 233860 | thefourtheye ||
+| 5 | [divakar](https://stackoverflow.com/users/3293881) | 219005 | Divakar ||
+| 6 | [dogbert](https://stackoverflow.com/users/320615) | 212947 | dogbert ||
+| 7 | [rohit-jain](https://stackoverflow.com/users/1679863) | 209799 | Rohit Jain ||
 | 8 | [_](https://stackoverflow.com/users/452307) | 202704 |||
 | 9 | [_](https://stackoverflow.com/users/7429447) | 184313 |||
 | 10 | [_](https://stackoverflow.com/users/314488) | 175070 |||
