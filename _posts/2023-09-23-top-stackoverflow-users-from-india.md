@@ -14,8 +14,7 @@ date: 2023-09-23 08:23 +0530
 | 6 | [dogbert](https://stackoverflow.com/users/320615) | 212947 | dogbert |||
 | 7 | [rohit-jain](https://stackoverflow.com/users/1679863) | 209799 | Rohit Jain |||
 | 8 | [alok-save](https://stackoverflow.com/users/452307) | 202704 | Alok Save |||
-| 9 | [undetected-selenium](https://stackoverflow.com/users/7429447) | 184313 | undetected Selenium
- |||
+| 9 | [undetected-selenium](https://stackoverflow.com/users/7429447) | 184313 | undetected Selenium |||
 | 10 | [pranay-rana](https://stackoverflow.com/users/314488) | 175070 | Pranay Rana |||
 | 11 | [avinash-raj](https://stackoverflow.com/users/3297613) | 172493 | Avinash Raj |||
 | 12 | [michael-mrozek](https://stackoverflow.com/users/309308) | 169760 | Michael Mrozek |||
