@@ -19,7 +19,7 @@ date: 2023-09-23 08:23 +0530
 | 11 | [avinash-raj](https://stackoverflow.com/users/3297613) | 172493 | Avinash Raj | Hindusthan college of engineering and technology | HCL Technologies |
 | 12 | [michael-mrozek](https://stackoverflow.com/users/309308) | 169760 | Michael Mrozek |||
 | 13 | [rahul-tripathi](https://stackoverflow.com/users/1501794) | 168471 | Rahul Tripathi |||
-| 14 | [mr-alien](https://stackoverflow.com/users/1542290) | 153921 | Mr. Alien |||
+| 14 | [mr-alien](https://stackoverflow.com/users/1542290) | 153921 | Vaibhav | MKS College of Commerce & Economics | BrowserStack |
 | 15 | [jitendra-vyas](https://stackoverflow.com/users/84201) | 148657 | Jitendra Vyas |||
 | 16 | [siddharth-rout](https://stackoverflow.com/users/1140579) | 147059 | Siddharth Rout |||
 | 17 | [gishu](https://stackoverflow.com/users/1695) | 134520 | Gishu |||
