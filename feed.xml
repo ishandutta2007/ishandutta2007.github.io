@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-23T06:15:06+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Stackoverflow Users from India(Sept2023)</title><link href="/2023/09/23/top-stackoverflow-users-from-india.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from India(Sept2023)" /><published>2023-09-23T02:53:00+00:00</published><updated>2023-09-23T02:53:00+00:00</updated><id>/2023/09/23/top-stackoverflow-users-from-india</id><content type="html" xml:base="/2023/09/23/top-stackoverflow-users-from-india.html"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-23T06:17:13+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Stackoverflow Users from India(Sept2023)</title><link href="/2023/09/23/top-stackoverflow-users-from-india.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from India(Sept2023)" /><published>2023-09-23T02:53:00+00:00</published><updated>2023-09-23T02:53:00+00:00</updated><id>/2023/09/23/top-stackoverflow-users-from-india</id><content type="html" xml:base="/2023/09/23/top-stackoverflow-users-from-india.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>#</th>
       <th>User Link</th>
       <th>Reputation</th>
       <th>Name</th>
-      <th>College</th>
+      <th>College(undergrad)</th>
+      <th>Company(most well known)</th>
     </tr>
   </thead>
   <tbody>
@@ -15,12 +16,14 @@
       <td>761957</td>
       <td>anubhava</td>
       <td>Madan Mohan Malaviya University of Technology</td>
+      <td> </td>
     </tr>
     <tr>
       <td>2</td>
       <td><a href="https://stackoverflow.com/users/227665">codaddict</a></td>
       <td>445954</td>
       <td>codaddict</td>
+      <td> </td>
       <td> </td>
     </tr>
     <tr>
@@ -29,12 +32,14 @@
       <td>290598</td>
       <td>manojlds</td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>4</td>
       <td><a href="https://stackoverflow.com/users/1903116">thefourtheye</a></td>
       <td>233860</td>
       <td>thefourtheye</td>
+      <td> </td>
       <td> </td>
     </tr>
     <tr>
@@ -43,12 +48,14 @@
       <td>219005</td>
       <td>Divakar</td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>6</td>
       <td><a href="https://stackoverflow.com/users/320615">dogbert</a></td>
       <td>212947</td>
       <td>dogbert</td>
+      <td> </td>
       <td> </td>
     </tr>
     <tr>
@@ -57,11 +64,13 @@
       <td>209799</td>
       <td>Rohit Jain</td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>8</td>
-      <td><a href="https://stackoverflow.com/users/452307">_</a></td>
+      <td><a href="https://stackoverflow.com/users/452307">alok-save</a></td>
       <td>202704</td>
+      <td>Alok Save</td>
       <td> </td>
       <td> </td>
     </tr>
@@ -71,11 +80,13 @@
       <td>184313</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>10</td>
       <td><a href="https://stackoverflow.com/users/314488">_</a></td>
       <td>175070</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -85,11 +96,13 @@
       <td>172493</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>12</td>
       <td><a href="https://stackoverflow.com/users/309308">_</a></td>
       <td>169760</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -99,11 +112,13 @@
       <td>168471</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>14</td>
       <td><a href="https://stackoverflow.com/users/1542290">_</a></td>
       <td>153921</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -113,11 +128,13 @@
       <td>148657</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>16</td>
       <td><a href="https://stackoverflow.com/users/1140579">_</a></td>
       <td>147059</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -127,11 +144,13 @@
       <td>134520</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>18</td>
       <td><a href="https://stackoverflow.com/users/2173917">_</a></td>
       <td>133232</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -141,11 +160,13 @@
       <td>132735</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>20</td>
       <td><a href="https://stackoverflow.com/users/1668533">_</a></td>
       <td>132292</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -155,11 +176,13 @@
       <td>132256</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>22</td>
       <td><a href="https://stackoverflow.com/users/5866580">_</a></td>
       <td>130564</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -169,11 +192,13 @@
       <td>128336</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>24</td>
       <td><a href="https://stackoverflow.com/users/379693">_</a></td>
       <td>127755</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -183,11 +208,13 @@
       <td>116877</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>26</td>
       <td><a href="https://stackoverflow.com/users/1942">_</a></td>
       <td>113873</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -197,11 +224,13 @@
       <td>113757</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>28</td>
       <td><a href="https://stackoverflow.com/users/41021">_</a></td>
       <td>110928</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -211,11 +240,13 @@
       <td>108619</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>30</td>
       <td><a href="https://stackoverflow.com/users/1104384">_</a></td>
       <td>103686</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -225,11 +256,13 @@
       <td>102363</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>32</td>
       <td><a href="https://stackoverflow.com/users/5185595">_</a></td>
       <td>100853</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -239,11 +272,13 @@
       <td>93689</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>34</td>
       <td><a href="https://stackoverflow.com/users/3349551">_</a></td>
       <td>91818</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -253,11 +288,13 @@
       <td>91353</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>36</td>
       <td><a href="https://stackoverflow.com/users/165520">_</a></td>
       <td>91345</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -267,11 +304,13 @@
       <td>90527</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>38</td>
       <td><a href="https://stackoverflow.com/users/795990">_</a></td>
       <td>88681</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -281,11 +320,13 @@
       <td>87620</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>40</td>
       <td><a href="https://stackoverflow.com/users/2025923">_</a></td>
       <td>85890</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -295,11 +336,13 @@
       <td>85622</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>42</td>
       <td><a href="https://stackoverflow.com/users/472375">_</a></td>
       <td>84495</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -309,11 +352,13 @@
       <td>84170</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>44</td>
       <td><a href="https://stackoverflow.com/users/8283848">_</a></td>
       <td>82742</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -323,11 +368,13 @@
       <td>82124</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>46</td>
       <td><a href="https://stackoverflow.com/users/527185">_</a></td>
       <td>81521</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -337,11 +384,13 @@
       <td>81518</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>48</td>
       <td><a href="https://stackoverflow.com/users/1719752">_</a></td>
       <td>81330</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -351,11 +400,13 @@
       <td>80440</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>50</td>
       <td><a href="https://stackoverflow.com/users/1190388">_</a></td>
       <td>78619</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -365,11 +416,13 @@
       <td>77720</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>52</td>
       <td><a href="https://stackoverflow.com/users/3916">_</a></td>
       <td>76046</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -379,11 +432,13 @@
       <td>75682</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>54</td>
       <td><a href="https://stackoverflow.com/users/39742">_</a></td>
       <td>74670</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -393,11 +448,13 @@
       <td>74154</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>56</td>
       <td><a href="https://stackoverflow.com/users/1860929">_</a></td>
       <td>73398</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -407,11 +464,13 @@
       <td>72972</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>58</td>
       <td><a href="https://stackoverflow.com/users/1697099">_</a></td>
       <td>72235</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -421,11 +480,13 @@
       <td>72192</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>60</td>
       <td><a href="https://stackoverflow.com/users/2530848">_</a></td>
       <td>72097</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -435,11 +496,13 @@
       <td>71553</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>62</td>
       <td><a href="https://stackoverflow.com/users/1610034">_</a></td>
       <td>71536</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -449,11 +512,13 @@
       <td>71418</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>64</td>
       <td><a href="https://stackoverflow.com/users/4085910">_</a></td>
       <td>71248</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -463,11 +528,13 @@
       <td>70627</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>66</td>
       <td><a href="https://stackoverflow.com/users/46297">_</a></td>
       <td>70519</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -477,11 +544,13 @@
       <td>70232</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>68</td>
       <td><a href="https://stackoverflow.com/users/12833166">_</a></td>
       <td>68582</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -491,11 +560,13 @@
       <td>68175</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>70</td>
       <td><a href="https://stackoverflow.com/users/7666442">_</a></td>
       <td>67791</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -505,11 +576,13 @@
       <td>67160</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>72</td>
       <td><a href="https://stackoverflow.com/users/3679490">_</a></td>
       <td>67057</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -519,11 +592,13 @@
       <td>67030</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>74</td>
       <td><a href="https://stackoverflow.com/users/2396539">_</a></td>
       <td>66821</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -533,11 +608,13 @@
       <td>66513</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>76</td>
       <td><a href="https://stackoverflow.com/users/921204">_</a></td>
       <td>65666</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -547,11 +624,13 @@
       <td>65417</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>78</td>
       <td><a href="https://stackoverflow.com/users/97572">_</a></td>
       <td>64818</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -561,11 +640,13 @@
       <td>63313</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>80</td>
       <td><a href="https://stackoverflow.com/users/571189">_</a></td>
       <td>62522</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -575,11 +656,13 @@
       <td>60602</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>82</td>
       <td><a href="https://stackoverflow.com/users/702361">_</a></td>
       <td>60221</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -589,11 +672,13 @@
       <td>58891</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>84</td>
       <td><a href="https://stackoverflow.com/users/165297">_</a></td>
       <td>58720</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -603,11 +688,13 @@
       <td>58035</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>86</td>
       <td><a href="https://stackoverflow.com/users/6891563">_</a></td>
       <td>57392</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -617,11 +704,13 @@
       <td>56769</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>88</td>
       <td><a href="https://stackoverflow.com/users/614807">_</a></td>
       <td>56651</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -631,11 +720,13 @@
       <td>56102</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>90</td>
       <td><a href="https://stackoverflow.com/users/2522554">_</a></td>
       <td>55661</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -645,11 +736,13 @@
       <td>55115</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>92</td>
       <td><a href="https://stackoverflow.com/users/3751711">_</a></td>
       <td>54869</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -659,11 +752,13 @@
       <td>54606</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>94</td>
       <td><a href="https://stackoverflow.com/users/155196">_</a></td>
       <td>54115</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -673,11 +768,13 @@
       <td>53920</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>96</td>
       <td><a href="https://stackoverflow.com/users/17447">_</a></td>
       <td>53488</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -687,11 +784,13 @@
       <td>53410</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>98</td>
       <td><a href="https://stackoverflow.com/users/111988">_</a></td>
       <td>53031</td>
+      <td> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -701,6 +800,7 @@
       <td>52395</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>100</td>
@@ -708,9 +808,10 @@
       <td>52359</td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# User Link Reputation Name College 1 anubhava 761957 anubhava Madan Mohan Malaviya University of Technology 2 codaddict 445954 codaddict   3 manojlds 290598 manojlds   4 thefourtheye 233860 thefourtheye   5 divakar 219005 Divakar   6 dogbert 212947 dogbert   7 rohit-jain 209799 Rohit Jain   8 _ 202704     9 _ 184313     10 _ 175070     11 _ 172493     12 _ 169760     13 _ 168471     14 _ 153921     15 _ 148657     16 _ 147059     17 _ 134520     18 _ 133232     19 _ 132735     20 _ 132292     21 _ 132256     22 _ 130564     23 _ 128336     24 _ 127755     25 _ 116877     26 _ 113873     27 _ 113757     28 _ 110928     29 _ 108619     30 _ 103686     31 _ 102363     32 _ 100853     33 _ 93689     34 _ 91818     35 _ 91353     36 _ 91345     37 _ 90527     38 _ 88681     39 _ 87620     40 _ 85890     41 _ 85622     42 _ 84495     43 _ 84170     44 _ 82742     45 _ 82124     46 _ 81521     47 _ 81518     48 _ 81330     49 _ 80440     50 _ 78619     51 _ 77720     52 _ 76046     53 _ 75682     54 _ 74670     55 _ 74154     56 _ 73398     57 _ 72972     58 _ 72235     59 _ 72192     60 _ 72097     61 _ 71553     62 _ 71536     63 _ 71418     64 _ 71248     65 _ 70627     66 _ 70519     67 _ 70232     68 _ 68582     69 _ 68175     70 _ 67791     71 _ 67160     72 _ 67057     73 _ 67030     74 _ 66821     75 _ 66513     76 _ 65666     77 _ 65417     78 _ 64818     79 _ 63313     80 _ 62522     81 _ 60602     82 _ 60221     83 _ 58891     84 _ 58720     85 _ 58035     86 _ 57392     87 _ 56769     88 _ 56651     89 _ 56102     90 _ 55661     91 _ 55115     92 _ 54869     93 _ 54606     94 _ 54115     95 _ 53920     96 _ 53488     97 _ 53410     98 _ 53031     99 _ 52395     100 _ 52359    ]]></summary></entry><entry><title type="html">Billionaires Per Capita of Countries</title><link href="/2023/09/22/billionaires-per-capita-of-countries.html" rel="alternate" type="text/html" title="Billionaires Per Capita of Countries" /><published>2023-09-22T12:03:00+00:00</published><updated>2023-09-22T12:03:00+00:00</updated><id>/2023/09/22/billionaires-per-capita-of-countries</id><content type="html" xml:base="/2023/09/22/billionaires-per-capita-of-countries.html"><![CDATA[<p>Here is a full table of billionaires per capita by country, based on the 2023 Forbes World’s Billionaires list:</p>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# User Link Reputation Name College(undergrad) Company(most well known) 1 anubhava 761957 anubhava Madan Mohan Malaviya University of Technology   2 codaddict 445954 codaddict     3 manojlds 290598 manojlds     4 thefourtheye 233860 thefourtheye     5 divakar 219005 Divakar     6 dogbert 212947 dogbert     7 rohit-jain 209799 Rohit Jain     8 alok-save 202704 Alok Save     9 _ 184313       10 _ 175070       11 _ 172493       12 _ 169760       13 _ 168471       14 _ 153921       15 _ 148657       16 _ 147059       17 _ 134520       18 _ 133232       19 _ 132735       20 _ 132292       21 _ 132256       22 _ 130564       23 _ 128336       24 _ 127755       25 _ 116877       26 _ 113873       27 _ 113757       28 _ 110928       29 _ 108619       30 _ 103686       31 _ 102363       32 _ 100853       33 _ 93689       34 _ 91818       35 _ 91353       36 _ 91345       37 _ 90527       38 _ 88681       39 _ 87620       40 _ 85890       41 _ 85622       42 _ 84495       43 _ 84170       44 _ 82742       45 _ 82124       46 _ 81521       47 _ 81518       48 _ 81330       49 _ 80440       50 _ 78619       51 _ 77720       52 _ 76046       53 _ 75682       54 _ 74670       55 _ 74154       56 _ 73398       57 _ 72972       58 _ 72235       59 _ 72192       60 _ 72097       61 _ 71553       62 _ 71536       63 _ 71418       64 _ 71248       65 _ 70627       66 _ 70519       67 _ 70232       68 _ 68582       69 _ 68175       70 _ 67791       71 _ 67160       72 _ 67057       73 _ 67030       74 _ 66821       75 _ 66513       76 _ 65666       77 _ 65417       78 _ 64818       79 _ 63313       80 _ 62522       81 _ 60602       82 _ 60221       83 _ 58891       84 _ 58720       85 _ 58035       86 _ 57392       87 _ 56769       88 _ 56651       89 _ 56102       90 _ 55661       91 _ 55115       92 _ 54869       93 _ 54606       94 _ 54115       95 _ 53920       96 _ 53488       97 _ 53410       98 _ 53031       99 _ 52395       100 _ 52359      ]]></summary></entry><entry><title type="html">Billionaires Per Capita of Countries</title><link href="/2023/09/22/billionaires-per-capita-of-countries.html" rel="alternate" type="text/html" title="Billionaires Per Capita of Countries" /><published>2023-09-22T12:03:00+00:00</published><updated>2023-09-22T12:03:00+00:00</updated><id>/2023/09/22/billionaires-per-capita-of-countries</id><content type="html" xml:base="/2023/09/22/billionaires-per-capita-of-countries.html"><![CDATA[<p>Here is a full table of billionaires per capita by country, based on the 2023 Forbes World’s Billionaires list:</p>
 
 <table>
   <thead>
