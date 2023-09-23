@@ -18,7 +18,7 @@ date: 2023-09-23 08:23 +0530
 | 10 | [pranay-rana](https://stackoverflow.com/users/314488) | 175070 | Pranay Rana | Gujarat University | Accenture |
 | 11 | [avinash-raj](https://stackoverflow.com/users/3297613) | 172493 | Avinash Raj | Hindusthan college of engineering and technology | HCL Technologies |
 | 12 | [michael-mrozek](https://stackoverflow.com/users/309308) | 169760 | Michael Mrozek |||
-| 13 | [rahul-tripathi](https://stackoverflow.com/users/1501794) | 168471 | Rahul Tripathi |||
+| 13 | [rahul-tripathi](https://stackoverflow.com/users/1501794) | 168471 | Rahul Tripathi | JEC | JP Morgan Chase |
 | 14 | [mr-alien](https://stackoverflow.com/users/1542290) | 153921 | Vaibhav | MKS College of Commerce & Economics | BrowserStack |
 | 15 | [jitendra-vyas](https://stackoverflow.com/users/84201) | 148657 | Jitendra Vyas | Maharaja Ganaga Singh University, Bikaner | Olacabs |
 | 16 | [siddharth-rout](https://stackoverflow.com/users/1140579) | 147059 | Siddharth Rout | North-Eastern Hill University | Ventura |
