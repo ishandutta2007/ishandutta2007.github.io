@@ -20,10 +20,11 @@ date: 2023-09-23 08:23 +0530
 | 12 | [michael-mrozek](https://stackoverflow.com/users/309308) | 169760 | Michael Mrozek |||
 | 13 | [rahul-tripathi](https://stackoverflow.com/users/1501794) | 168471 | Rahul Tripathi |||
 | 14 | [mr-alien](https://stackoverflow.com/users/1542290) | 153921 | Vaibhav | MKS College of Commerce & Economics | BrowserStack |
-| 15 | [jitendra-vyas](https://stackoverflow.com/users/84201) | 148657 | Jitendra Vyas |||
-| 16 | [siddharth-rout](https://stackoverflow.com/users/1140579) | 147059 | Siddharth Rout |||
-| 17 | [gishu](https://stackoverflow.com/users/1695) | 134520 | Gishu |||
-| 18 | [sourav-ghosh](https://stackoverflow.com/users/2173917) | 133232 | Sourav Ghosh |||
+| 15 | [jitendra-vyas](https://stackoverflow.com/users/84201) | 148657 | Jitendra Vyas | Maharaja Ganaga Singh University, Bikaner | Olacabs |
+| 16 | [siddharth-rout](https://stackoverflow.com/users/1140579) | 147059 | Siddharth Rout | North-Eastern Hill University
+ | Ventura |
+| 17 | [gishu](https://stackoverflow.com/users/1695) | 134520 | Gishu || GE |
+| 18 | [sourav-ghosh](https://stackoverflow.com/users/2173917) | 133232 | Sourav Ghosh | Saroj Mohan Institute Of Technology | HCL Technologies |
 | 19 | [raghunandan](https://stackoverflow.com/users/653856) | 132735 | Raghunandan |||
 | 20 | [satpal](https://stackoverflow.com/users/1668533) | 132292 | Satpal |||
 | 21 | [_](https://stackoverflow.com/users/1202025) | 132256 ||||
