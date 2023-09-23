@@ -15,8 +15,8 @@ date: 2023-09-23 08:23 +0530
 | 7 | [rohit-jain](https://stackoverflow.com/users/1679863) | 209799 | Rohit Jain | Sparta Institute of Technology and Management | Infosys |
 | 8 | [alok-save](https://stackoverflow.com/users/452307) | 202704 | Alok Save | University of Mumbai | Accenture |
 | 9 | [undetected-selenium](https://stackoverflow.com/users/7429447) | 184313 | Debanjan Bhattacharjee | North Maharashtra University | Infosys |
-| 10 | [pranay-rana](https://stackoverflow.com/users/314488) | 175070 | Pranay Rana |||
-| 11 | [avinash-raj](https://stackoverflow.com/users/3297613) | 172493 | Avinash Raj |||
+| 10 | [pranay-rana](https://stackoverflow.com/users/314488) | 175070 | Pranay Rana | Gujarat University | Accenture |
+| 11 | [avinash-raj](https://stackoverflow.com/users/3297613) | 172493 | Avinash Raj | Hindusthan college of engineering and technology | HCL Technologies |
 | 12 | [michael-mrozek](https://stackoverflow.com/users/309308) | 169760 | Michael Mrozek |||
 | 13 | [rahul-tripathi](https://stackoverflow.com/users/1501794) | 168471 | Rahul Tripathi |||
 | 14 | [mr-alien](https://stackoverflow.com/users/1542290) | 153921 | Mr. Alien |||
