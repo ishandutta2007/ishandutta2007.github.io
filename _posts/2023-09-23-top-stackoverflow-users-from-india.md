@@ -13,7 +13,7 @@ SSN College Of Engineering | Thoughtworks |
 | 4 | [thefourtheye](https://stackoverflow.com/users/1903116) | 233860 | Sakthipriyan Vairamani | Kamaraj College of Engineering and Technology | Walmart |
 | 5 | [divakar](https://stackoverflow.com/users/3293881) | 219005 | Divakar Roy | Nagpur University | NOAA |
 | 6 | [dogbert](https://stackoverflow.com/users/320615) | 212947 | dogbert |||
-| 7 | [rohit-jain](https://stackoverflow.com/users/1679863) | 209799 | Rohit Jain |||
+| 7 | [rohit-jain](https://stackoverflow.com/users/1679863) | 209799 | Rohit Jain | Sparta Institute of Technology and Management | Infosys |
 | 8 | [alok-save](https://stackoverflow.com/users/452307) | 202704 | Alok Save |||
 | 9 | [undetected-selenium](https://stackoverflow.com/users/7429447) | 184313 | undetected Selenium |||
 | 10 | [pranay-rana](https://stackoverflow.com/users/314488) | 175070 | Pranay Rana |||
