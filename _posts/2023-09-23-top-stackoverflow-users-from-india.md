@@ -25,8 +25,8 @@ date: 2023-09-23 08:23 +0530
  | Ventura |
 | 17 | [gishu](https://stackoverflow.com/users/1695) | 134520 | Gishu || GE |
 | 18 | [sourav-ghosh](https://stackoverflow.com/users/2173917) | 133232 | Sourav Ghosh | Saroj Mohan Institute Of Technology | HCL Technologies |
-| 19 | [raghunandan](https://stackoverflow.com/users/653856) | 132735 | Raghunandan |||
-| 20 | [satpal](https://stackoverflow.com/users/1668533) | 132292 | Satpal |||
+| 19 | [raghunandan](https://stackoverflow.com/users/653856) | 132735 | Raghunandan Kavi | Acharya Patashala College of Engineering (A.P.S.C.E) | Jio Platforms |
+| 20 | [satpal](https://stackoverflow.com/users/1668533) | 132292 | Satpal Singh | Indira Gandhi National Open University | Excelsoft Technologies |
 | 21 | [_](https://stackoverflow.com/users/1202025) | 132256 ||||
 | 22 | [_](https://stackoverflow.com/users/5866580) | 130564 ||||
 | 23 | [_](https://stackoverflow.com/users/188096) | 128336 ||||
