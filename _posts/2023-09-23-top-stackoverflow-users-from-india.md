@@ -8,8 +8,7 @@ date: 2023-09-23 08:23 +0530
 |---|---|---|---|---|---|
 | 1 | [anubhava](https://stackoverflow.com/users/548225) | 761957 | Anubhava | Madan Mohan Malaviya University of Technology ||
 | 2 | [codaddict](https://stackoverflow.com/users/227665) | 445954 | Abhijit Rao || Microsoft |
-| 3 | [manojlds](https://stackoverflow.com/users/526535) | 290598 | Manoj Mahalingam | 
-SSN College Of Engineering | Thoughtworks |
+| 3 | [manojlds](https://stackoverflow.com/users/526535) | 290598 | Manoj Mahalingam | SSN College Of Engineering | Thoughtworks |
 | 4 | [thefourtheye](https://stackoverflow.com/users/1903116) | 233860 | Sakthipriyan Vairamani | Kamaraj College of Engineering and Technology | Walmart |
 | 5 | [divakar](https://stackoverflow.com/users/3293881) | 219005 | Divakar Roy | Nagpur University | NOAA |
 | 6 | [dogbert](https://stackoverflow.com/users/320615) | 212947 | dogbert |||
