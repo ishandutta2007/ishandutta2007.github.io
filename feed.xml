@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-24T05:23:29+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Stackoverflow Users from USA(Sept2023)</title><link href="/2023/09/24/top-stackoverflow-users-from-usa.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from USA(Sept2023)" /><published>2023-09-24T03:10:00+00:00</published><updated>2023-09-24T03:10:00+00:00</updated><id>/2023/09/24/top-stackoverflow-users-from-usa</id><content type="html" xml:base="/2023/09/24/top-stackoverflow-users-from-usa.html"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-24T05:24:25+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Stackoverflow Users from USA(Sept2023)</title><link href="/2023/09/24/top-stackoverflow-users-from-usa.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from USA(Sept2023)" /><published>2023-09-24T03:10:00+00:00</published><updated>2023-09-24T03:10:00+00:00</updated><id>/2023/09/24/top-stackoverflow-users-from-usa</id><content type="html" xml:base="/2023/09/24/top-stackoverflow-users-from-usa.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>#</th>
@@ -51,7 +51,7 @@
       <td> </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td><a href="https://stackoverflow.com/users/18393">cletus</a></td>
       <td>616403</td>
       <td>cletus</td>
@@ -59,7 +59,7 @@
       <td> </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td><a href="https://stackoverflow.com/users/65863">remy-lebeau</a></td>
       <td>556010</td>
       <td>Remy Lebeau</td>
@@ -67,7 +67,7 @@
       <td>Microsoft</td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td><a href="https://stackoverflow.com/users/65358">reed-copsey</a></td>
       <td>554552</td>
       <td>Reed Copsey</td>
@@ -75,7 +75,7 @@
       <td>F# Software Foundation</td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td><a href="https://stackoverflow.com/users/1126841">chepner</a></td>
       <td>498729</td>
       <td>chepner</td>
@@ -83,7 +83,7 @@
       <td> </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td><a href="https://stackoverflow.com/users/119963">cascabel</a></td>
       <td>479628</td>
       <td>Cascabel</td>
@@ -91,7 +91,7 @@
       <td> </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td><a href="https://stackoverflow.com/users/179910">jerry-coffin</a></td>
       <td>476701</td>
       <td>Jerry Coffin</td>
@@ -99,7 +99,7 @@
       <td>Fuse Integration</td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>12</td>
       <td><a href="https://stackoverflow.com/users/596781">kerrek-sb</a></td>
       <td>464880</td>
       <td>Kerrek SB</td>
@@ -107,7 +107,7 @@
       <td> </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>13</td>
       <td><a href="https://stackoverflow.com/users/771848">alecxe</a></td>
       <td>463093</td>
       <td>alecxe</td>
@@ -115,7 +115,7 @@
       <td> </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td><a href="https://stackoverflow.com/users/95592">matthew-rankin</a></td>
       <td>457527</td>
       <td>Matthew Rankin</td>
@@ -123,7 +123,7 @@
       <td>.</td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>15</td>
       <td><a href="https://stackoverflow.com/users/1256452">torek</a></td>
       <td>449420</td>
       <td>torek</td>
@@ -131,7 +131,7 @@
       <td> </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>16</td>
       <td><a href="https://stackoverflow.com/users/1271826">rob</a></td>
       <td>416375</td>
       <td>Rob</td>
@@ -139,7 +139,7 @@
       <td>Entrepreneur</td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>17</td>
       <td><a href="https://stackoverflow.com/users/182668">pointy</a></td>
       <td>405429</td>
       <td>Pointy</td>
@@ -147,7 +147,7 @@
       <td> </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>18</td>
       <td><a href="https://stackoverflow.com/users/9530">adam-rosenfield</a></td>
       <td>390745</td>
       <td>Adam Rosenfield</td>
@@ -155,7 +155,7 @@
       <td> </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>19</td>
       <td><a href="https://stackoverflow.com/users/104891">crazycoder</a></td>
       <td>389557</td>
       <td>Stas Baranov</td>
@@ -163,7 +163,7 @@
       <td>Google</td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>20</td>
       <td><a href="https://stackoverflow.com/users/114251">114251</a></td>
       <td>384781</td>
       <td> </td>
@@ -216,7 +216,7 @@
       <td> </td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# User Link Reputation Name College(undergrad) Company(most well known) 1 gordon-linoff 1243140 Gordon Linoff MIT Columbia University(professor) 2 commonsware 986856 Mark Murphy Schreyer Honors College at Penn State lululemon 3 jonathan-leffler 731579 Jonathan Leffler University of Cambridge HCL Technologies 4 sergey-kalinichenko 714810 Sergey Kalinichenko National Research University of Electronic Technology (MIET), Moscow Interactive Brokers 5 stephen-c 699128 Stephen C     7 cletus 616403 cletus     9 remy-lebeau 556010 Remy Lebeau   Microsoft 10 reed-copsey 554552 Reed Copsey University of Chicago F# Software Foundation 11 chepner 498729 chepner     12 cascabel 479628 Cascabel     13 jerry-coffin 476701 Jerry Coffin Colorado Technical University Fuse Integration 14 kerrek-sb 464880 Kerrek SB     15 alecxe 463093 alecxe     16 matthew-rankin 457527 Matthew Rankin Missouri . 17 torek 449420 torek     18 rob 416375 Rob Brown University Entrepreneur 21 pointy 405429 Pointy     23 adam-rosenfield 390745 Adam Rosenfield     24 crazycoder 389557 Stas Baranov San Marino Academy of Sciences Google 25 114251 384781      ]]></summary></entry><entry><title type="html">Top Stackoverflow Users from India(Sept2023)</title><link href="/2023/09/23/top-stackoverflow-users-from-india.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from India(Sept2023)" /><published>2023-09-23T02:53:00+00:00</published><updated>2023-09-23T02:53:00+00:00</updated><id>/2023/09/23/top-stackoverflow-users-from-india</id><content type="html" xml:base="/2023/09/23/top-stackoverflow-users-from-india.html"><![CDATA[<table>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# User Link Reputation Name College(undergrad) Company(most well known) 1 gordon-linoff 1243140 Gordon Linoff MIT Columbia University(professor) 2 commonsware 986856 Mark Murphy Schreyer Honors College at Penn State lululemon 3 jonathan-leffler 731579 Jonathan Leffler University of Cambridge HCL Technologies 4 sergey-kalinichenko 714810 Sergey Kalinichenko National Research University of Electronic Technology (MIET), Moscow Interactive Brokers 5 stephen-c 699128 Stephen C     6 cletus 616403 cletus     7 remy-lebeau 556010 Remy Lebeau   Microsoft 8 reed-copsey 554552 Reed Copsey University of Chicago F# Software Foundation 9 chepner 498729 chepner     10 cascabel 479628 Cascabel     11 jerry-coffin 476701 Jerry Coffin Colorado Technical University Fuse Integration 12 kerrek-sb 464880 Kerrek SB     13 alecxe 463093 alecxe     14 matthew-rankin 457527 Matthew Rankin Missouri . 15 torek 449420 torek     16 rob 416375 Rob Brown University Entrepreneur 17 pointy 405429 Pointy     18 adam-rosenfield 390745 Adam Rosenfield     19 crazycoder 389557 Stas Baranov San Marino Academy of Sciences Google 20 114251 384781      ]]></summary></entry><entry><title type="html">Top Stackoverflow Users from India(Sept2023)</title><link href="/2023/09/23/top-stackoverflow-users-from-india.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from India(Sept2023)" /><published>2023-09-23T02:53:00+00:00</published><updated>2023-09-23T02:53:00+00:00</updated><id>/2023/09/23/top-stackoverflow-users-from-india</id><content type="html" xml:base="/2023/09/23/top-stackoverflow-users-from-india.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>#</th>
