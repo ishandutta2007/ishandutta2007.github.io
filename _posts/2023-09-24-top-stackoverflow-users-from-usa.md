@@ -6,8 +6,8 @@ date: 2023-09-24 08:40 +0530
 
 |#|User Link|Reputation|Name|College(undergrad)|Company(most well known)|
 |---|---|---|---|---|---|
-| 1  | [gordon-linoff](https://stackoverflow.com/users/1144035) | 1243140 | Gordon Linoff | | |
-| 2  | [commonsware](https://stackoverflow.com/users/115145) | 986856 | CommonsWare | | |
+| 1  | [gordon-linoff](https://stackoverflow.com/users/1144035) | 1243140 | Gordon Linoff | MIT | Columbia University(professor) |
+| 2  | [commonsware](https://stackoverflow.com/users/115145) | 986856 | Mark Murphy | Schreyer Honors College at Penn State | lululemon |
 | 3  | [jonathan-leffler](https://stackoverflow.com/users/15168) | 731579 | Jonathan Leffler | | |
 | 4  | [sergey-kalinichenko](https://stackoverflow.com/users/335858) | 714810 | Sergey Kalinichenko | | |
 | 5  | [stephen-c](https://stackoverflow.com/users/139985) | 699128 | Stephen C | | |
