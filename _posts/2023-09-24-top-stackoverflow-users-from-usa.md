@@ -21,8 +21,7 @@ date: 2023-09-24 08:40 +0530
 | 13  | [jerry-coffin](https://stackoverflow.com/users/179910) | 476701 | Jerry Coffin | Colorado Technical University | Fuse Integration |
 | 14  | [kerrek-sb](https://stackoverflow.com/users/596781) | 464880 | Kerrek SB | | |
 | 15  | [alecxe](https://stackoverflow.com/users/771848) | 463093 | alecxe | | |
-| 16  | [matthew-rankin](https://stackoverflow.com/users/95592) | 457527 | Matthew Rankin | Charter Oak State College
- | CLA |
+| 16  | [matthew-rankin](https://stackoverflow.com/users/95592) | 457527 | Matthew Rankin | Missouri | . |
 | 17  | [torek](https://stackoverflow.com/users/1256452) | 449420 | torek | | |
 | 18  | [rob](https://stackoverflow.com/users/1271826) | 416375 | Rob | Brown University | Entrepreneur |
 | 19  | [quassnoi](https://stackoverflow.com/users/55159) | 413428 | Quassnoi | Russia | |
