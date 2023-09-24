@@ -14,8 +14,8 @@ date: 2023-09-24 08:40 +0530
 | 6  | [günter-zöchbauer](https://stackoverflow.com/users/217408) | 624948 | Günter Zöchbauer | University of Applied Sciences Upper Austria | Kapsch BusinessCom GmbH |
 | 7  | [cletus](https://stackoverflow.com/users/18393) | 616403 | cletus | | |
 | 8  | [erwin-brandstetter](https://stackoverflow.com/users/939860) | 607167 | Erwin Brandstetter | Austria | |
-| 9  | [remy-lebeau](https://stackoverflow.com/users/65863) | 556010 | Remy Lebeau | | |
-| 10  | [reed-copsey](https://stackoverflow.com/users/65358) | 554552 | Reed Copsey | | |
+| 9  | [remy-lebeau](https://stackoverflow.com/users/65863) | 556010 | Remy Lebeau | | Microsoft |
+| 10  | [reed-copsey](https://stackoverflow.com/users/65358) | 554552 | Reed Copsey | University of Chicago | F# Software Foundation |
 | 11  | [chepner](https://stackoverflow.com/users/1126841) | 498729 | chepner | | |
 | 12  | [cascabel](https://stackoverflow.com/users/119963) | 479628 | Cascabel | | |
 | 13  | [jerry-coffin](https://stackoverflow.com/users/179910) | 476701 | Jerry Coffin | | |
