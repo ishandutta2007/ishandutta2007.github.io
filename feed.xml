@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-24T03:24:18+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Stackoverflow Users from USA(Sept2023)</title><link href="/2023/09/24/top-stackoverflow-users-from-usa.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from USA(Sept2023)" /><published>2023-09-24T03:10:00+00:00</published><updated>2023-09-24T03:10:00+00:00</updated><id>/2023/09/24/top-stackoverflow-users-from-usa</id><content type="html" xml:base="/2023/09/24/top-stackoverflow-users-from-usa.html"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-24T03:33:05+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Stackoverflow Users from USA(Sept2023)</title><link href="/2023/09/24/top-stackoverflow-users-from-usa.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from USA(Sept2023)" /><published>2023-09-24T03:10:00+00:00</published><updated>2023-09-24T03:10:00+00:00</updated><id>/2023/09/24/top-stackoverflow-users-from-usa</id><content type="html" xml:base="/2023/09/24/top-stackoverflow-users-from-usa.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>#</th>
@@ -20,158 +20,158 @@
     </tr>
     <tr>
       <td>2</td>
-      <td><a href="https://stackoverflow.com/users/115145">_</a></td>
+      <td><a href="https://stackoverflow.com/users/115145">commonsware</a></td>
       <td>986856</td>
-      <td> </td>
+      <td>CommonsWare</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>3</td>
-      <td><a href="https://stackoverflow.com/users/15168">_</a></td>
+      <td><a href="https://stackoverflow.com/users/15168">jonathan-leffler</a></td>
       <td>731579</td>
-      <td> </td>
+      <td>Jonathan Leffler</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>4</td>
-      <td><a href="https://stackoverflow.com/users/335858">_</a></td>
+      <td><a href="https://stackoverflow.com/users/335858">sergey-kalinichenko</a></td>
       <td>714810</td>
-      <td> </td>
+      <td>Sergey Kalinichenko</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>5</td>
-      <td><a href="https://stackoverflow.com/users/139985">_</a></td>
+      <td><a href="https://stackoverflow.com/users/139985">stephen-c</a></td>
       <td>699128</td>
-      <td> </td>
+      <td>Stephen C</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>6</td>
-      <td><a href="https://stackoverflow.com/users/217408">_</a></td>
+      <td><a href="https://stackoverflow.com/users/217408">günter-zöchbauer</a></td>
       <td>624948</td>
-      <td> </td>
+      <td>Günter Zöchbauer</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>7</td>
-      <td><a href="https://stackoverflow.com/users/18393">_</a></td>
+      <td><a href="https://stackoverflow.com/users/18393">cletus</a></td>
       <td>616403</td>
-      <td> </td>
+      <td>cletus</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>8</td>
-      <td><a href="https://stackoverflow.com/users/939860">_</a></td>
+      <td><a href="https://stackoverflow.com/users/939860">erwin-brandstetter</a></td>
       <td>607167</td>
-      <td> </td>
+      <td>Erwin Brandstetter</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>9</td>
-      <td><a href="https://stackoverflow.com/users/65863">_</a></td>
+      <td><a href="https://stackoverflow.com/users/65863">remy-lebeau</a></td>
       <td>556010</td>
-      <td> </td>
+      <td>Remy Lebeau</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>10</td>
-      <td><a href="https://stackoverflow.com/users/65358">_</a></td>
+      <td><a href="https://stackoverflow.com/users/65358">reed-copsey</a></td>
       <td>554552</td>
-      <td> </td>
+      <td>Reed Copsey</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>11</td>
-      <td><a href="https://stackoverflow.com/users/1126841">_</a></td>
+      <td><a href="https://stackoverflow.com/users/1126841">chepner</a></td>
       <td>498729</td>
-      <td> </td>
+      <td>chepner</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>12</td>
-      <td><a href="https://stackoverflow.com/users/119963">_</a></td>
+      <td><a href="https://stackoverflow.com/users/119963">cascabel</a></td>
       <td>479628</td>
-      <td> </td>
+      <td>Cascabel</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>13</td>
-      <td><a href="https://stackoverflow.com/users/179910">_</a></td>
+      <td><a href="https://stackoverflow.com/users/179910">jerry-coffin</a></td>
       <td>476701</td>
-      <td> </td>
+      <td>Jerry Coffin</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>14</td>
-      <td><a href="https://stackoverflow.com/users/596781">_</a></td>
+      <td><a href="https://stackoverflow.com/users/596781">kerrek-sb</a></td>
       <td>464880</td>
-      <td> </td>
+      <td>Kerrek SB</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>15</td>
-      <td><a href="https://stackoverflow.com/users/771848">_</a></td>
+      <td><a href="https://stackoverflow.com/users/771848">alecxe</a></td>
       <td>463093</td>
-      <td> </td>
+      <td>alecxe</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>16</td>
-      <td><a href="https://stackoverflow.com/users/95592">_</a></td>
+      <td><a href="https://stackoverflow.com/users/95592">matthew-rankin</a></td>
       <td>457527</td>
-      <td> </td>
+      <td>Matthew Rankin</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>17</td>
-      <td><a href="https://stackoverflow.com/users/1256452">_</a></td>
+      <td><a href="https://stackoverflow.com/users/1256452">torek</a></td>
       <td>449420</td>
-      <td> </td>
+      <td>torek</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>18</td>
-      <td><a href="https://stackoverflow.com/users/1271826">_</a></td>
+      <td><a href="https://stackoverflow.com/users/1271826">rob</a></td>
       <td>416375</td>
-      <td> </td>
+      <td>Rob</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>19</td>
-      <td><a href="https://stackoverflow.com/users/55159">_</a></td>
+      <td><a href="https://stackoverflow.com/users/55159">quassnoi</a></td>
       <td>413428</td>
-      <td> </td>
+      <td>Quassnoi</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>20</td>
-      <td><a href="https://stackoverflow.com/users/256196">_</a></td>
+      <td><a href="https://stackoverflow.com/users/256196">bohemian</a></td>
       <td>413028</td>
-      <td> </td>
+      <td>Bohemian</td>
       <td> </td>
       <td> </td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# User Link Reputation Name College(undergrad) Company(most well known) 1 gordon-linoff 1243140 Gordon Linoff     2 _ 986856       3 _ 731579       4 _ 714810       5 _ 699128       6 _ 624948       7 _ 616403       8 _ 607167       9 _ 556010       10 _ 554552       11 _ 498729       12 _ 479628       13 _ 476701       14 _ 464880       15 _ 463093       16 _ 457527       17 _ 449420       18 _ 416375       19 _ 413428       20 _ 413028      ]]></summary></entry><entry><title type="html">Top Stackoverflow Users from India(Sept2023)</title><link href="/2023/09/23/top-stackoverflow-users-from-india.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from India(Sept2023)" /><published>2023-09-23T02:53:00+00:00</published><updated>2023-09-23T02:53:00+00:00</updated><id>/2023/09/23/top-stackoverflow-users-from-india</id><content type="html" xml:base="/2023/09/23/top-stackoverflow-users-from-india.html"><![CDATA[<table>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# User Link Reputation Name College(undergrad) Company(most well known) 1 gordon-linoff 1243140 Gordon Linoff     2 commonsware 986856 CommonsWare     3 jonathan-leffler 731579 Jonathan Leffler     4 sergey-kalinichenko 714810 Sergey Kalinichenko     5 stephen-c 699128 Stephen C     6 günter-zöchbauer 624948 Günter Zöchbauer     7 cletus 616403 cletus     8 erwin-brandstetter 607167 Erwin Brandstetter     9 remy-lebeau 556010 Remy Lebeau     10 reed-copsey 554552 Reed Copsey     11 chepner 498729 chepner     12 cascabel 479628 Cascabel     13 jerry-coffin 476701 Jerry Coffin     14 kerrek-sb 464880 Kerrek SB     15 alecxe 463093 alecxe     16 matthew-rankin 457527 Matthew Rankin     17 torek 449420 torek     18 rob 416375 Rob     19 quassnoi 413428 Quassnoi     20 bohemian 413028 Bohemian    ]]></summary></entry><entry><title type="html">Top Stackoverflow Users from India(Sept2023)</title><link href="/2023/09/23/top-stackoverflow-users-from-india.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from India(Sept2023)" /><published>2023-09-23T02:53:00+00:00</published><updated>2023-09-23T02:53:00+00:00</updated><id>/2023/09/23/top-stackoverflow-users-from-india</id><content type="html" xml:base="/2023/09/23/top-stackoverflow-users-from-india.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>#</th>
