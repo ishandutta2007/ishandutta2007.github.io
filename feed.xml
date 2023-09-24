@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-24T05:24:25+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Stackoverflow Users from USA(Sept2023)</title><link href="/2023/09/24/top-stackoverflow-users-from-usa.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from USA(Sept2023)" /><published>2023-09-24T03:10:00+00:00</published><updated>2023-09-24T03:10:00+00:00</updated><id>/2023/09/24/top-stackoverflow-users-from-usa</id><content type="html" xml:base="/2023/09/24/top-stackoverflow-users-from-usa.html"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-24T05:25:09+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Stackoverflow Users from USA(Sept2023)</title><link href="/2023/09/24/top-stackoverflow-users-from-usa.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from USA(Sept2023)" /><published>2023-09-24T03:10:00+00:00</published><updated>2023-09-24T03:10:00+00:00</updated><id>/2023/09/24/top-stackoverflow-users-from-usa</id><content type="html" xml:base="/2023/09/24/top-stackoverflow-users-from-usa.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>#</th>
@@ -168,51 +168,6 @@
       <td>384781</td>
       <td> </td>
       <td> </td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr>
-      <td>6</td>
-      <td><a href="https://stackoverflow.com/users/217408">günter-zöchbauer</a></td>
-      <td>624948</td>
-      <td>Günter Zöchbauer</td>
-      <td>University of Applied Sciences Upper Austria</td>
-      <td>Kapsch BusinessCom GmbH</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td><a href="https://stackoverflow.com/users/939860">erwin-brandstetter</a></td>
-      <td>607167</td>
-      <td>Erwin Brandstetter</td>
-      <td>Austria</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td><a href="https://stackoverflow.com/users/55159">quassnoi</a></td>
-      <td>413428</td>
-      <td>Quassnoi</td>
-      <td>Russia</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td><a href="https://stackoverflow.com/users/256196">bohemian</a></td>
-      <td>413028</td>
-      <td>Bohemian</td>
-      <td>Australia</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td><a href="https://stackoverflow.com/users/4279">jfs</a></td>
-      <td>400571</td>
-      <td>jfs</td>
-      <td>Russia</td>
       <td> </td>
     </tr>
   </tbody>
