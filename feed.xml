@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-24T03:48:16+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Stackoverflow Users from USA(Sept2023)</title><link href="/2023/09/24/top-stackoverflow-users-from-usa.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from USA(Sept2023)" /><published>2023-09-24T03:10:00+00:00</published><updated>2023-09-24T03:10:00+00:00</updated><id>/2023/09/24/top-stackoverflow-users-from-usa</id><content type="html" xml:base="/2023/09/24/top-stackoverflow-users-from-usa.html"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-24T03:53:35+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Stackoverflow Users from USA(Sept2023)</title><link href="/2023/09/24/top-stackoverflow-users-from-usa.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from USA(Sept2023)" /><published>2023-09-24T03:10:00+00:00</published><updated>2023-09-24T03:10:00+00:00</updated><id>/2023/09/24/top-stackoverflow-users-from-usa</id><content type="html" xml:base="/2023/09/24/top-stackoverflow-users-from-usa.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>#</th>
@@ -47,7 +47,7 @@
       <td><a href="https://stackoverflow.com/users/139985">stephen-c</a></td>
       <td>699128</td>
       <td>Stephen C</td>
-      <td>University of Applied Sciences Upper Austria</td>
+      <td> </td>
       <td> </td>
     </tr>
     <tr>
@@ -55,8 +55,8 @@
       <td><a href="https://stackoverflow.com/users/217408">günter-zöchbauer</a></td>
       <td>624948</td>
       <td>Günter Zöchbauer</td>
-      <td> </td>
-      <td> </td>
+      <td>University of Applied Sciences Upper Austria</td>
+      <td>Kapsch BusinessCom GmbH</td>
     </tr>
     <tr>
       <td>7</td>
@@ -71,7 +71,7 @@
       <td><a href="https://stackoverflow.com/users/939860">erwin-brandstetter</a></td>
       <td>607167</td>
       <td>Erwin Brandstetter</td>
-      <td> </td>
+      <td>Austria</td>
       <td> </td>
     </tr>
     <tr>
@@ -171,7 +171,7 @@
       <td> </td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# User Link Reputation Name College(undergrad) Company(most well known) 1 gordon-linoff 1243140 Gordon Linoff MIT Columbia University(professor) 2 commonsware 986856 Mark Murphy Schreyer Honors College at Penn State lululemon 3 jonathan-leffler 731579 Jonathan Leffler University of Cambridge HCL Technologies 4 sergey-kalinichenko 714810 Sergey Kalinichenko National Research University of Electronic Technology (MIET), Moscow Interactive Brokers 5 stephen-c 699128 Stephen C University of Applied Sciences Upper Austria   6 günter-zöchbauer 624948 Günter Zöchbauer     7 cletus 616403 cletus     8 erwin-brandstetter 607167 Erwin Brandstetter     9 remy-lebeau 556010 Remy Lebeau     10 reed-copsey 554552 Reed Copsey     11 chepner 498729 chepner     12 cascabel 479628 Cascabel     13 jerry-coffin 476701 Jerry Coffin     14 kerrek-sb 464880 Kerrek SB     15 alecxe 463093 alecxe     16 matthew-rankin 457527 Matthew Rankin     17 torek 449420 torek     18 rob 416375 Rob     19 quassnoi 413428 Quassnoi     20 bohemian 413028 Bohemian    ]]></summary></entry><entry><title type="html">Top Stackoverflow Users from India(Sept2023)</title><link href="/2023/09/23/top-stackoverflow-users-from-india.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from India(Sept2023)" /><published>2023-09-23T02:53:00+00:00</published><updated>2023-09-23T02:53:00+00:00</updated><id>/2023/09/23/top-stackoverflow-users-from-india</id><content type="html" xml:base="/2023/09/23/top-stackoverflow-users-from-india.html"><![CDATA[<table>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# User Link Reputation Name College(undergrad) Company(most well known) 1 gordon-linoff 1243140 Gordon Linoff MIT Columbia University(professor) 2 commonsware 986856 Mark Murphy Schreyer Honors College at Penn State lululemon 3 jonathan-leffler 731579 Jonathan Leffler University of Cambridge HCL Technologies 4 sergey-kalinichenko 714810 Sergey Kalinichenko National Research University of Electronic Technology (MIET), Moscow Interactive Brokers 5 stephen-c 699128 Stephen C     6 günter-zöchbauer 624948 Günter Zöchbauer University of Applied Sciences Upper Austria Kapsch BusinessCom GmbH 7 cletus 616403 cletus     8 erwin-brandstetter 607167 Erwin Brandstetter Austria   9 remy-lebeau 556010 Remy Lebeau     10 reed-copsey 554552 Reed Copsey     11 chepner 498729 chepner     12 cascabel 479628 Cascabel     13 jerry-coffin 476701 Jerry Coffin     14 kerrek-sb 464880 Kerrek SB     15 alecxe 463093 alecxe     16 matthew-rankin 457527 Matthew Rankin     17 torek 449420 torek     18 rob 416375 Rob     19 quassnoi 413428 Quassnoi     20 bohemian 413028 Bohemian    ]]></summary></entry><entry><title type="html">Top Stackoverflow Users from India(Sept2023)</title><link href="/2023/09/23/top-stackoverflow-users-from-india.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from India(Sept2023)" /><published>2023-09-23T02:53:00+00:00</published><updated>2023-09-23T02:53:00+00:00</updated><id>/2023/09/23/top-stackoverflow-users-from-india</id><content type="html" xml:base="/2023/09/23/top-stackoverflow-users-from-india.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>#</th>
