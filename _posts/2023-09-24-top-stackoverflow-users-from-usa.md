@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top Stackoverflow Users from USA(Sept2023)
+title: Top Stackoverflow Users from USA (Sept2023)
 date: 2023-09-24 08:40 +0530
 ---
 
@@ -26,6 +26,10 @@ date: 2023-09-24 08:40 +0530
 | 18  | [adam-rosenfield](https://stackoverflow.com/users/9530) |	390745 | Adam Rosenfield | | |
 | 19  | [crazycoder](https://stackoverflow.com/users/104891) |	389557 | Stas Baranov | San Marino Academy of Sciences | Google |
 | 20  | [arun-p-johny](https://stackoverflow.com/users/114251) | 384781 | Arun P Johny | Indiranagar Composite P.U. College | Greytip |
+
+
+Source: [data.stackexchange.com/stackoverflow/query/53058/top-users-by-country](https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country)
+
 
 
 
