@@ -28,8 +28,3 @@ date: 2023-09-24 08:40 +0530
 | 20  | [114251](https://stackoverflow.com/users/114251) | 384781 | | |
 
 
-| 6  | [günter-zöchbauer](https://stackoverflow.com/users/217408) | 624948 | Günter Zöchbauer | University of Applied Sciences Upper Austria | Kapsch BusinessCom GmbH |
-| 8  | [erwin-brandstetter](https://stackoverflow.com/users/939860) | 607167 | Erwin Brandstetter | Austria | |
-| 19  | [quassnoi](https://stackoverflow.com/users/55159) | 413428 | Quassnoi | Russia | |
-| 20  | [bohemian](https://stackoverflow.com/users/256196) | 413028 | Bohemian | Australia | |
-| 22  | [jfs](https://stackoverflow.com/users/4279) |	400571 | jfs | Russia | |
