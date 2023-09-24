@@ -18,7 +18,7 @@ date: 2023-09-24 08:40 +0530
 | 10  | [reed-copsey](https://stackoverflow.com/users/65358) | 554552 | Reed Copsey | University of Chicago | F# Software Foundation |
 | 11  | [chepner](https://stackoverflow.com/users/1126841) | 498729 | chepner | | |
 | 12  | [cascabel](https://stackoverflow.com/users/119963) | 479628 | Cascabel | | |
-| 13  | [jerry-coffin](https://stackoverflow.com/users/179910) | 476701 | Jerry Coffin | | |
+| 13  | [jerry-coffin](https://stackoverflow.com/users/179910) | 476701 | Jerry Coffin | Colorado Technical University | Fuse Integration |
 | 14  | [kerrek-sb](https://stackoverflow.com/users/596781) | 464880 | Kerrek SB | | |
 | 15  | [alecxe](https://stackoverflow.com/users/771848) | 463093 | alecxe | | |
 | 16  | [matthew-rankin](https://stackoverflow.com/users/95592) | 457527 | Matthew Rankin | | |
