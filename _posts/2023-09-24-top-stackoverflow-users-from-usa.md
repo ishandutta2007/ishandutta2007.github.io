@@ -22,13 +22,14 @@ date: 2023-09-24 08:40 +0530
 | 16  | [matthew-rankin](https://stackoverflow.com/users/95592) | 457527 | Matthew Rankin | Missouri | . |
 | 17  | [torek](https://stackoverflow.com/users/1256452) | 449420 | torek | | |
 | 18  | [rob](https://stackoverflow.com/users/1271826) | 416375 | Rob | Brown University | Entrepreneur |
-| 21  | [182668](https://stackoverflow.com/users/182668) | 405429
-| 22  | [4279](https://stackoverflow.com/users/4279) |	400571
-| 23  | [9530](https://stackoverflow.com/users/9530) |	390745
-| 24  | [104891](https://stackoverflow.com/users/104891) |	389557
+| 21  | [pointy](https://stackoverflow.com/users/182668) | 405429 | Pointy | | |
+| 23  | [adam-rosenfield](https://stackoverflow.com/users/9530) |	390745 | Adam Rosenfield | | |
+| 24  | [crazycoder](https://stackoverflow.com/users/104891) |	389557 | Stas Baranov | San Marino Academy of Sciences | Google |
+| 25  | [114251](https://stackoverflow.com/users/114251) | 384781 | | |
 
 
 | 6  | [günter-zöchbauer](https://stackoverflow.com/users/217408) | 624948 | Günter Zöchbauer | University of Applied Sciences Upper Austria | Kapsch BusinessCom GmbH |
 | 8  | [erwin-brandstetter](https://stackoverflow.com/users/939860) | 607167 | Erwin Brandstetter | Austria | |
 | 19  | [quassnoi](https://stackoverflow.com/users/55159) | 413428 | Quassnoi | Russia | |
 | 20  | [bohemian](https://stackoverflow.com/users/256196) | 413028 | Bohemian | Australia | |
+| 22  | [jfs](https://stackoverflow.com/users/4279) |	400571 | jfs | Russia | |
