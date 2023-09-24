@@ -10,7 +10,7 @@ date: 2023-09-24 08:40 +0530
 | 2  | [commonsware](https://stackoverflow.com/users/115145) | 986856 | Mark Murphy | Schreyer Honors College at Penn State | lululemon |
 | 3  | [jonathan-leffler](https://stackoverflow.com/users/15168) | 731579 | Jonathan Leffler | University of Cambridge | HCL Technologies |
 | 4  | [sergey-kalinichenko](https://stackoverflow.com/users/335858) | 714810 | Sergey Kalinichenko | National Research University of Electronic Technology (MIET), Moscow | Interactive Brokers |
-| 5  | [stephen-c](https://stackoverflow.com/users/139985) | 699128 | Stephen C | | |
+| 5  | [stephen-c](https://stackoverflow.com/users/139985) | 699128 | Stephen C | University of Applied Sciences Upper Austria | |
 | 6  | [günter-zöchbauer](https://stackoverflow.com/users/217408) | 624948 | Günter Zöchbauer | | |
 | 7  | [cletus](https://stackoverflow.com/users/18393) | 616403 | cletus | | |
 | 8  | [erwin-brandstetter](https://stackoverflow.com/users/939860) | 607167 | Erwin Brandstetter | | |
