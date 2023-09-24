@@ -1,4 +1,177 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-23T07:13:32+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Stackoverflow Users from India(Sept2023)</title><link href="/2023/09/23/top-stackoverflow-users-from-india.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from India(Sept2023)" /><published>2023-09-23T02:53:00+00:00</published><updated>2023-09-23T02:53:00+00:00</updated><id>/2023/09/23/top-stackoverflow-users-from-india</id><content type="html" xml:base="/2023/09/23/top-stackoverflow-users-from-india.html"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-24T03:24:18+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Stackoverflow Users from USA(Sept2023)</title><link href="/2023/09/24/top-stackoverflow-users-from-usa.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from USA(Sept2023)" /><published>2023-09-24T03:10:00+00:00</published><updated>2023-09-24T03:10:00+00:00</updated><id>/2023/09/24/top-stackoverflow-users-from-usa</id><content type="html" xml:base="/2023/09/24/top-stackoverflow-users-from-usa.html"><![CDATA[<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>User Link</th>
+      <th>Reputation</th>
+      <th>Name</th>
+      <th>College(undergrad)</th>
+      <th>Company(most well known)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><a href="https://stackoverflow.com/users/1144035">gordon-linoff</a></td>
+      <td>1243140</td>
+      <td>Gordon Linoff</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td><a href="https://stackoverflow.com/users/115145">_</a></td>
+      <td>986856</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td><a href="https://stackoverflow.com/users/15168">_</a></td>
+      <td>731579</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td><a href="https://stackoverflow.com/users/335858">_</a></td>
+      <td>714810</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td><a href="https://stackoverflow.com/users/139985">_</a></td>
+      <td>699128</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td><a href="https://stackoverflow.com/users/217408">_</a></td>
+      <td>624948</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td><a href="https://stackoverflow.com/users/18393">_</a></td>
+      <td>616403</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td><a href="https://stackoverflow.com/users/939860">_</a></td>
+      <td>607167</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td><a href="https://stackoverflow.com/users/65863">_</a></td>
+      <td>556010</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td><a href="https://stackoverflow.com/users/65358">_</a></td>
+      <td>554552</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td><a href="https://stackoverflow.com/users/1126841">_</a></td>
+      <td>498729</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td><a href="https://stackoverflow.com/users/119963">_</a></td>
+      <td>479628</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td><a href="https://stackoverflow.com/users/179910">_</a></td>
+      <td>476701</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td><a href="https://stackoverflow.com/users/596781">_</a></td>
+      <td>464880</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td><a href="https://stackoverflow.com/users/771848">_</a></td>
+      <td>463093</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td><a href="https://stackoverflow.com/users/95592">_</a></td>
+      <td>457527</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td><a href="https://stackoverflow.com/users/1256452">_</a></td>
+      <td>449420</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td><a href="https://stackoverflow.com/users/1271826">_</a></td>
+      <td>416375</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td><a href="https://stackoverflow.com/users/55159">_</a></td>
+      <td>413428</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td><a href="https://stackoverflow.com/users/256196">_</a></td>
+      <td>413028</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# User Link Reputation Name College(undergrad) Company(most well known) 1 gordon-linoff 1243140 Gordon Linoff     2 _ 986856       3 _ 731579       4 _ 714810       5 _ 699128       6 _ 624948       7 _ 616403       8 _ 607167       9 _ 556010       10 _ 554552       11 _ 498729       12 _ 479628       13 _ 476701       14 _ 464880       15 _ 463093       16 _ 457527       17 _ 449420       18 _ 416375       19 _ 413428       20 _ 413028      ]]></summary></entry><entry><title type="html">Top Stackoverflow Users from India(Sept2023)</title><link href="/2023/09/23/top-stackoverflow-users-from-india.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from India(Sept2023)" /><published>2023-09-23T02:53:00+00:00</published><updated>2023-09-23T02:53:00+00:00</updated><id>/2023/09/23/top-stackoverflow-users-from-india</id><content type="html" xml:base="/2023/09/23/top-stackoverflow-users-from-india.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>#</th>
@@ -813,7 +986,7 @@
   </tbody>
 </table>
 
-<p>Source: https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country</p>]]></content><author><name></name></author><summary type="html"><![CDATA[# User Link Reputation Name College(undergrad) Company(most well known) 1 anubhava 761957 Anubhava Madan Mohan Malaviya University of Technology Yahoo 2 codaddict 445954 Abhijit Rao   Microsoft 3 manojlds 290598 Manoj Mahalingam SSN College Of Engineering Thoughtworks 4 thefourtheye 233860 Sakthipriyan Vairamani Kamaraj College of Engineering and Technology Walmart 5 divakar 219005 Divakar Roy Nagpur University NOAA 6 dogbert 212947 dogbert     7 rohit-jain 209799 Rohit Jain Sparta Institute of Technology and Management Infosys 8 alok-save 202704 Alok Save University of Mumbai Accenture 9 undetected-selenium 184313 Debanjan Bhattacharjee North Maharashtra University Infosys 10 pranay-rana 175070 Pranay Rana Gujarat University Accenture 11 avinash-raj 172493 Avinash Raj Hindusthan college of engineering and technology HCL Technologies 12 michael-mrozek 169760 Michael Mrozek     13 rahul-tripathi 168471 Rahul Tripathi JEC JP Morgan Chase 14 mr-alien 153921 Vaibhav MKS College of Commerce &amp; Economics BrowserStack 15 jitendra-vyas 148657 Jitendra Vyas Maharaja Ganaga Singh University, Bikaner Olacabs 16 siddharth-rout 147059 Siddharth Rout North-Eastern Hill University Ventura 17 gishu 134520 Gishu   GE 18 sourav-ghosh 133232 Sourav Ghosh Saroj Mohan Institute Of Technology HCL Technologies 19 raghunandan 132735 Raghunandan Kavi Acharya Patashala College of Engineering (A.P.S.C.E) Jio Platforms 20 satpal 132292 Satpal Singh Indira Gandhi National Open University Excelsoft Technologies 21 _ 132256       22 _ 130564       23 _ 128336       24 _ 127755       25 _ 116877       26 _ 113873       27 _ 113757       28 _ 110928       29 _ 108619       30 _ 103686       31 _ 102363       32 _ 100853       33 _ 93689       34 _ 91818       35 _ 91353       36 _ 91345       37 _ 90527       38 _ 88681       39 _ 87620       40 _ 85890       41 _ 85622       42 _ 84495       43 _ 84170       44 _ 82742       45 _ 82124       46 _ 81521       47 _ 81518       48 _ 81330       49 _ 80440       50 _ 78619       51 _ 77720       52 _ 76046       53 _ 75682       54 _ 74670       55 _ 74154       56 _ 73398       57 _ 72972       58 _ 72235       59 _ 72192       60 _ 72097       61 _ 71553       62 _ 71536       63 _ 71418       64 _ 71248       65 _ 70627       66 _ 70519       67 _ 70232       68 _ 68582       69 _ 68175       70 _ 67791       71 _ 67160       72 _ 67057       73 _ 67030       74 _ 66821       75 _ 66513       76 _ 65666       77 _ 65417       78 _ 64818       79 _ 63313       80 _ 62522       81 _ 60602       82 _ 60221       83 _ 58891       84 _ 58720       85 _ 58035       86 _ 57392       87 _ 56769       88 _ 56651       89 _ 56102       90 _ 55661       91 _ 55115       92 _ 54869       93 _ 54606       94 _ 54115       95 _ 53920       96 _ 53488       97 _ 53410       98 _ 53031       99 _ 52395       100 _ 52359      ]]></summary></entry><entry><title type="html">Billionaires Per Capita of Countries</title><link href="/2023/09/22/billionaires-per-capita-of-countries.html" rel="alternate" type="text/html" title="Billionaires Per Capita of Countries" /><published>2023-09-22T12:03:00+00:00</published><updated>2023-09-22T12:03:00+00:00</updated><id>/2023/09/22/billionaires-per-capita-of-countries</id><content type="html" xml:base="/2023/09/22/billionaires-per-capita-of-countries.html"><![CDATA[<p>Here is a full table of billionaires per capita by country, based on the 2023 Forbes World’s Billionaires list:</p>
+<p>Source: <a href="https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country">data.stackexchange.com/stackoverflow/query/53058/top-users-by-country</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[# User Link Reputation Name College(undergrad) Company(most well known) 1 anubhava 761957 Anubhava Madan Mohan Malaviya University of Technology Yahoo 2 codaddict 445954 Abhijit Rao   Microsoft 3 manojlds 290598 Manoj Mahalingam SSN College Of Engineering Thoughtworks 4 thefourtheye 233860 Sakthipriyan Vairamani Kamaraj College of Engineering and Technology Walmart 5 divakar 219005 Divakar Roy Nagpur University NOAA 6 dogbert 212947 dogbert     7 rohit-jain 209799 Rohit Jain Sparta Institute of Technology and Management Infosys 8 alok-save 202704 Alok Save University of Mumbai Accenture 9 undetected-selenium 184313 Debanjan Bhattacharjee North Maharashtra University Infosys 10 pranay-rana 175070 Pranay Rana Gujarat University Accenture 11 avinash-raj 172493 Avinash Raj Hindusthan college of engineering and technology HCL Technologies 12 michael-mrozek 169760 Michael Mrozek     13 rahul-tripathi 168471 Rahul Tripathi JEC JP Morgan Chase 14 mr-alien 153921 Vaibhav MKS College of Commerce &amp; Economics BrowserStack 15 jitendra-vyas 148657 Jitendra Vyas Maharaja Ganaga Singh University, Bikaner Olacabs 16 siddharth-rout 147059 Siddharth Rout North-Eastern Hill University Ventura 17 gishu 134520 Gishu   GE 18 sourav-ghosh 133232 Sourav Ghosh Saroj Mohan Institute Of Technology HCL Technologies 19 raghunandan 132735 Raghunandan Kavi Acharya Patashala College of Engineering (A.P.S.C.E) Jio Platforms 20 satpal 132292 Satpal Singh Indira Gandhi National Open University Excelsoft Technologies 21 _ 132256       22 _ 130564       23 _ 128336       24 _ 127755       25 _ 116877       26 _ 113873       27 _ 113757       28 _ 110928       29 _ 108619       30 _ 103686       31 _ 102363       32 _ 100853       33 _ 93689       34 _ 91818       35 _ 91353       36 _ 91345       37 _ 90527       38 _ 88681       39 _ 87620       40 _ 85890       41 _ 85622       42 _ 84495       43 _ 84170       44 _ 82742       45 _ 82124       46 _ 81521       47 _ 81518       48 _ 81330       49 _ 80440       50 _ 78619       51 _ 77720       52 _ 76046       53 _ 75682       54 _ 74670       55 _ 74154       56 _ 73398       57 _ 72972       58 _ 72235       59 _ 72192       60 _ 72097       61 _ 71553       62 _ 71536       63 _ 71418       64 _ 71248       65 _ 70627       66 _ 70519       67 _ 70232       68 _ 68582       69 _ 68175       70 _ 67791       71 _ 67160       72 _ 67057       73 _ 67030       74 _ 66821       75 _ 66513       76 _ 65666       77 _ 65417       78 _ 64818       79 _ 63313       80 _ 62522       81 _ 60602       82 _ 60221       83 _ 58891       84 _ 58720       85 _ 58035       86 _ 57392       87 _ 56769       88 _ 56651       89 _ 56102       90 _ 55661       91 _ 55115       92 _ 54869       93 _ 54606       94 _ 54115       95 _ 53920       96 _ 53488       97 _ 53410       98 _ 53031       99 _ 52395       100 _ 52359      ]]></summary></entry><entry><title type="html">Billionaires Per Capita of Countries</title><link href="/2023/09/22/billionaires-per-capita-of-countries.html" rel="alternate" type="text/html" title="Billionaires Per Capita of Countries" /><published>2023-09-22T12:03:00+00:00</published><updated>2023-09-22T12:03:00+00:00</updated><id>/2023/09/22/billionaires-per-capita-of-countries</id><content type="html" xml:base="/2023/09/22/billionaires-per-capita-of-countries.html"><![CDATA[<p>Here is a full table of billionaires per capita by country, based on the 2023 Forbes World’s Billionaires list:</p>
 
 <table>
   <thead>
@@ -2132,137 +2305,4 @@
       <td>$5.99</td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Rank Theme Price 1 Material You $9.99 2 Black Obsidian $5.99 3 UltraViolet $4.99 4 Dark Reader $2.99 5 Midnight $1.99 6 Ghostery $1.99 7 AdBlock Plus $1.99 8 uBlock Origin Free 9 Dark Mode for YouTube $2.99 10 Dark Reader for YouTube $2.99 11 Dark Mode for Facebook $2.99 12 Dark Reader for Facebook $2.99 13 Dark Mode for Twitter $2.99 14 Dark Reader for Twitter $2.99 15 Dark Mode for Instagram $2.99 16 Dark Reader for Instagram $2.99 17 Dark Mode for Reddit $2.99 18 Dark Reader for Reddit $2.99 19 Dark Mode for Google Search $2.99 20 Dark Reader for Google Search $2.99 21 Dark Mode for Gmail $2.99 22 Dark Reader for Gmail $2.99 23 Dark Mode for Google Drive $2.99 24 Dark Reader for Google Drive $2.99 25 Dark Mode for Google Docs $2.99 26 Dark Reader for Google Docs $2.99 27 Dark Mode for Google Sheets $2.99 28 Dark Reader for Google Sheets $2.99 29 Dark Mode for Google Slides $2.99 30 Dark Reader for Google Slides $2.99 31 Dark Mode for Google Chrome $2.99 32 Dark Reader for Google Chrome $2.99 33 Material You for Google Chrome $9.99 34 Black Obsidian for Google Chrome $5.99 35 UltraViolet for Google Chrome $4.99 36 Dark Reader for Google Chrome $2.99 37 Midnight for Google Chrome $1.99 38 Ghostery for Google Chrome $1.99 39 AdBlock Plus for Google Chrome $1.99 40 uBlock Origin for Google Chrome Free 41 Dark Reader for Google Chrome (Dark Mode) $2.99 42 Material You for Google Chrome (Dark Mode) $9.99 43 Black Obsidian for Google Chrome (Dark Mode) $5.99 44 UltraViolet for Google Chrome (Dark Mode) $4.99 45 Midnight for Google Chrome (Dark Mode) $1.99 46 Ghostery for Google Chrome (Dark Mode) $1.99 47 AdBlock Plus for Google Chrome (Dark Mode) $1.99 48 uBlock Origin for Google Chrome (Dark Mode) Free 49 Dark Reader for Google Chrome (Minimalist) $2.99 50 Material You for Google Chrome (Minimalist) $9.99 51 Black Obsidian for Google Chrome (Minimalist) $5.99 52 UltraViolet for Google Chrome (Minimalist) $4.99 53 Midnight for Google Chrome (Minimalist) $1.99 54 Ghostery for Google Chrome (Minimalist) $1.99 55 AdBlock Plus for Google Chrome (Minimalist) Free 56 Plus for Google Chrome (Minimalist) $1.99 57 uBlock Origin for Google Chrome (Minimalist) Free 58 Dark Reader for Google Chrome (Nature) $2.99 59 Material You for Google Chrome (Nature) $9.99 60 Black Obsidian for Google Chrome (Nature) $5.99 61 UltraViolet for Google Chrome (Nature) $4.99 62 Midnight for Google Chrome (Nature) $1.99 63 Ghostery for Google Chrome (Nature) $1.99 64 AdBlock Plus for Google Chrome (Nature) $1.99 65 uBlock Origin for Google Chrome (Nature) Free 66 Dark Reader for Google Chrome (Abstract) $2.99 67 Material You for Google Chrome (Abstract) $9.99 68 Black Obsidian for Google Chrome (Abstract) $5.99 69 UltraViolet for Google Chrome (Abstract) $4.99 70 Midnight for Google Chrome (Abstract) $1.99 71 Ghostery for Google Chrome (Abstract) $1.99 72 AdBlock Plus for Google Chrome (Abstract) $1.99 73 uBlock Origin for Google Chrome (Abstract) Free 74 Dark Reader for Google Chrome (Comics) $2.99 75 Material You for Google Chrome (Comics) $9.99 76 Black Obsidian for Google Chrome (Comics) $5.99 77 UltraViolet for Google Chrome (Comics) $4.99 78 Midnight for Google Chrome (Comics) $1.99 79 Ghostery for Google Chrome (Comics) $1.99 80 AdBlock Plus for Google Chrome (Comics) $1.99 81 uBlock Origin for Google Chrome (Comics) Free 82 Dark Reader for Google Chrome (Games) $2.99 83 Material You for Google Chrome (Games) $9.99 84 Black Obsidian for Google Chrome (Games) $5.99 85 UltraViolet for Google Chrome (Games) $4.99 86 Midnight for Google Chrome (Games) $1.99 87 Ghostery for Google Chrome (Games) $1.99 88 AdBlock Plus for Google Chrome (Games) $1.99 89 uBlock Origin for Google Chrome (Games) Free 90 Dark Reader for Google Chrome (TV Shows) $2.99 91 Material You for Google Chrome (TV Shows) $9.99 92 Black Obsidian for Google Chrome (TV Shows) $5.99 93 UltraViolet for Google Chrome (TV Shows) $4.99 94 Midnight for Google Chrome (TV Shows) $1.99 95 Ghostery for Google Chrome (TV Shows) $1.99 96 AdBlock Plus for Google Chrome (TV Shows) $1.99 97 uBlock Origin for Google Chrome (TV Shows) Free 98 Dark Reader for Google Chrome (Movies) $2.99 99 Material You for Google Chrome (Movies) $9.99 100 Black Obsidian for Google Chrome (Movies) $5.99]]></summary></entry><entry><title type="html">Number of private jets by year</title><link href="/2023/06/19/number-of-private-jets-by-year.html" rel="alternate" type="text/html" title="Number of private jets by year" /><published>2023-06-19T14:26:00+00:00</published><updated>2023-06-19T14:26:00+00:00</updated><id>/2023/06/19/number-of-private-jets-by-year</id><content type="html" xml:base="/2023/06/19/number-of-private-jets-by-year.html"><![CDATA[<table>
-  <thead>
-    <tr>
-      <th>Year</th>
-      <th>Number of Private Jets</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1993</td>
-      <td>6,600</td>
-    </tr>
-    <tr>
-      <td>1994</td>
-      <td>7,000</td>
-    </tr>
-    <tr>
-      <td>1995</td>
-      <td>7,400</td>
-    </tr>
-    <tr>
-      <td>1996</td>
-      <td>7,800</td>
-    </tr>
-    <tr>
-      <td>1997</td>
-      <td>8,200</td>
-    </tr>
-    <tr>
-      <td>1998</td>
-      <td>8,600</td>
-    </tr>
-    <tr>
-      <td>1999</td>
-      <td>9,000</td>
-    </tr>
-    <tr>
-      <td>2000</td>
-      <td>9,400</td>
-    </tr>
-    <tr>
-      <td>2001</td>
-      <td>9,800</td>
-    </tr>
-    <tr>
-      <td>2002</td>
-      <td>10,200</td>
-    </tr>
-    <tr>
-      <td>2003</td>
-      <td>10,600</td>
-    </tr>
-    <tr>
-      <td>2004</td>
-      <td>11,000</td>
-    </tr>
-    <tr>
-      <td>2005</td>
-      <td>11,400</td>
-    </tr>
-    <tr>
-      <td>2006</td>
-      <td>11,800</td>
-    </tr>
-    <tr>
-      <td>2007</td>
-      <td>12,200</td>
-    </tr>
-    <tr>
-      <td>2008</td>
-      <td>12,600</td>
-    </tr>
-    <tr>
-      <td>2009</td>
-      <td>13,000</td>
-    </tr>
-    <tr>
-      <td>2010</td>
-      <td>13,400</td>
-    </tr>
-    <tr>
-      <td>2011</td>
-      <td>13,800</td>
-    </tr>
-    <tr>
-      <td>2012</td>
-      <td>14,200</td>
-    </tr>
-    <tr>
-      <td>2013</td>
-      <td>14,600</td>
-    </tr>
-    <tr>
-      <td>2014</td>
-      <td>15,000</td>
-    </tr>
-    <tr>
-      <td>2015</td>
-      <td>15,400</td>
-    </tr>
-    <tr>
-      <td>2016</td>
-      <td>15,800</td>
-    </tr>
-    <tr>
-      <td>2017</td>
-      <td>16,200</td>
-    </tr>
-    <tr>
-      <td>2018</td>
-      <td>16,600</td>
-    </tr>
-    <tr>
-      <td>2019</td>
-      <td>21,979</td>
-    </tr>
-    <tr>
-      <td>2020</td>
-      <td>22,300</td>
-    </tr>
-    <tr>
-      <td>2021</td>
-      <td>22,621</td>
-    </tr>
-    <tr>
-      <td>2022</td>
-      <td>23,000</td>
-    </tr>
-    <tr>
-      <td>2023 (Estimated)</td>
-      <td>23,379</td>
-    </tr>
-  </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Year Number of Private Jets 1993 6,600 1994 7,000 1995 7,400 1996 7,800 1997 8,200 1998 8,600 1999 9,000 2000 9,400 2001 9,800 2002 10,200 2003 10,600 2004 11,000 2005 11,400 2006 11,800 2007 12,200 2008 12,600 2009 13,000 2010 13,400 2011 13,800 2012 14,200 2013 14,600 2014 15,000 2015 15,400 2016 15,800 2017 16,200 2018 16,600 2019 21,979 2020 22,300 2021 22,621 2022 23,000 2023 (Estimated) 23,379]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Rank Theme Price 1 Material You $9.99 2 Black Obsidian $5.99 3 UltraViolet $4.99 4 Dark Reader $2.99 5 Midnight $1.99 6 Ghostery $1.99 7 AdBlock Plus $1.99 8 uBlock Origin Free 9 Dark Mode for YouTube $2.99 10 Dark Reader for YouTube $2.99 11 Dark Mode for Facebook $2.99 12 Dark Reader for Facebook $2.99 13 Dark Mode for Twitter $2.99 14 Dark Reader for Twitter $2.99 15 Dark Mode for Instagram $2.99 16 Dark Reader for Instagram $2.99 17 Dark Mode for Reddit $2.99 18 Dark Reader for Reddit $2.99 19 Dark Mode for Google Search $2.99 20 Dark Reader for Google Search $2.99 21 Dark Mode for Gmail $2.99 22 Dark Reader for Gmail $2.99 23 Dark Mode for Google Drive $2.99 24 Dark Reader for Google Drive $2.99 25 Dark Mode for Google Docs $2.99 26 Dark Reader for Google Docs $2.99 27 Dark Mode for Google Sheets $2.99 28 Dark Reader for Google Sheets $2.99 29 Dark Mode for Google Slides $2.99 30 Dark Reader for Google Slides $2.99 31 Dark Mode for Google Chrome $2.99 32 Dark Reader for Google Chrome $2.99 33 Material You for Google Chrome $9.99 34 Black Obsidian for Google Chrome $5.99 35 UltraViolet for Google Chrome $4.99 36 Dark Reader for Google Chrome $2.99 37 Midnight for Google Chrome $1.99 38 Ghostery for Google Chrome $1.99 39 AdBlock Plus for Google Chrome $1.99 40 uBlock Origin for Google Chrome Free 41 Dark Reader for Google Chrome (Dark Mode) $2.99 42 Material You for Google Chrome (Dark Mode) $9.99 43 Black Obsidian for Google Chrome (Dark Mode) $5.99 44 UltraViolet for Google Chrome (Dark Mode) $4.99 45 Midnight for Google Chrome (Dark Mode) $1.99 46 Ghostery for Google Chrome (Dark Mode) $1.99 47 AdBlock Plus for Google Chrome (Dark Mode) $1.99 48 uBlock Origin for Google Chrome (Dark Mode) Free 49 Dark Reader for Google Chrome (Minimalist) $2.99 50 Material You for Google Chrome (Minimalist) $9.99 51 Black Obsidian for Google Chrome (Minimalist) $5.99 52 UltraViolet for Google Chrome (Minimalist) $4.99 53 Midnight for Google Chrome (Minimalist) $1.99 54 Ghostery for Google Chrome (Minimalist) $1.99 55 AdBlock Plus for Google Chrome (Minimalist) Free 56 Plus for Google Chrome (Minimalist) $1.99 57 uBlock Origin for Google Chrome (Minimalist) Free 58 Dark Reader for Google Chrome (Nature) $2.99 59 Material You for Google Chrome (Nature) $9.99 60 Black Obsidian for Google Chrome (Nature) $5.99 61 UltraViolet for Google Chrome (Nature) $4.99 62 Midnight for Google Chrome (Nature) $1.99 63 Ghostery for Google Chrome (Nature) $1.99 64 AdBlock Plus for Google Chrome (Nature) $1.99 65 uBlock Origin for Google Chrome (Nature) Free 66 Dark Reader for Google Chrome (Abstract) $2.99 67 Material You for Google Chrome (Abstract) $9.99 68 Black Obsidian for Google Chrome (Abstract) $5.99 69 UltraViolet for Google Chrome (Abstract) $4.99 70 Midnight for Google Chrome (Abstract) $1.99 71 Ghostery for Google Chrome (Abstract) $1.99 72 AdBlock Plus for Google Chrome (Abstract) $1.99 73 uBlock Origin for Google Chrome (Abstract) Free 74 Dark Reader for Google Chrome (Comics) $2.99 75 Material You for Google Chrome (Comics) $9.99 76 Black Obsidian for Google Chrome (Comics) $5.99 77 UltraViolet for Google Chrome (Comics) $4.99 78 Midnight for Google Chrome (Comics) $1.99 79 Ghostery for Google Chrome (Comics) $1.99 80 AdBlock Plus for Google Chrome (Comics) $1.99 81 uBlock Origin for Google Chrome (Comics) Free 82 Dark Reader for Google Chrome (Games) $2.99 83 Material You for Google Chrome (Games) $9.99 84 Black Obsidian for Google Chrome (Games) $5.99 85 UltraViolet for Google Chrome (Games) $4.99 86 Midnight for Google Chrome (Games) $1.99 87 Ghostery for Google Chrome (Games) $1.99 88 AdBlock Plus for Google Chrome (Games) $1.99 89 uBlock Origin for Google Chrome (Games) Free 90 Dark Reader for Google Chrome (TV Shows) $2.99 91 Material You for Google Chrome (TV Shows) $9.99 92 Black Obsidian for Google Chrome (TV Shows) $5.99 93 UltraViolet for Google Chrome (TV Shows) $4.99 94 Midnight for Google Chrome (TV Shows) $1.99 95 Ghostery for Google Chrome (TV Shows) $1.99 96 AdBlock Plus for Google Chrome (TV Shows) $1.99 97 uBlock Origin for Google Chrome (TV Shows) Free 98 Dark Reader for Google Chrome (Movies) $2.99 99 Material You for Google Chrome (Movies) $9.99 100 Black Obsidian for Google Chrome (Movies) $5.99]]></summary></entry></feed>
