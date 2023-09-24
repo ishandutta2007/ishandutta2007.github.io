@@ -25,6 +25,7 @@ date: 2023-09-24 08:40 +0530
 | 17  | [pointy](https://stackoverflow.com/users/182668) | 405429 | Pointy | | |
 | 18  | [adam-rosenfield](https://stackoverflow.com/users/9530) |	390745 | Adam Rosenfield | | |
 | 19  | [crazycoder](https://stackoverflow.com/users/104891) |	389557 | Stas Baranov | San Marino Academy of Sciences | Google |
-| 20  | [114251](https://stackoverflow.com/users/114251) | 384781 | | |
+| 20  | [114251](https://stackoverflow.com/users/114251) | 384781 | Arun P Johny | Indiranagar Composite P.U. College | Greytip |
+
 
 
