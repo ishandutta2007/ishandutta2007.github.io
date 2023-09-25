@@ -6,8 +6,8 @@ date: 2023-09-24 12:45 +0530
 
 |#|User Link|Reputation|Name|College(undergrad)|Company(most well known)|
 |---|---|---|---|---|---|
-| 1 | [ _ ](https://math.stackexchange.com/users/33337) | 272358 | coll | comp |
-| 2 | [ _ ](https://math.stackexchange.com/users/72031) | 85042 | coll | comp |
+| 1 | [ lab-bhattacharjee ](https://math.stackexchange.com/users/33337) | 272358 | lab bhattacharjee | coll | comp |
+| 2 | [ _ ](https://math.stackexchange.com/users/72031) | 85042 | IIEST | RS Software |
 | 3 | [ _ ](https://math.stackexchange.com/users/671540) | 42667 | coll | comp |
 | 4 | [ _ ](https://math.stackexchange.com/users/210295) | 37278 | coll | comp |
 | 5 | [ _ ](https://math.stackexchange.com/users/89789) | 31168 | coll | comp |
