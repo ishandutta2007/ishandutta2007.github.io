@@ -13,7 +13,7 @@ date: 2023-09-24 12:45 +0530
 | 5 | [ prahlad-vaidyanathan ](https://math.stackexchange.com/users/89789) | 31168 | Prahlad Vaidyanathan | - | IISER Bhopal(professor) |
 | 6 | [ learnmore ](https://math.stackexchange.com/users/294365) | 30418 | Learnmore | - | - |
 | 7 | [ schrodingerscat ](https://math.stackexchange.com/users/278967) | 24416 | SchrodingersCat | - | - |
-| 8 | [ jaideep-khare ](https://math.stackexchange.com/users/421580) | 19195 | Jaideep Khare | - | - |
+| 8 | [ jaideep-khare ](https://math.stackexchange.com/users/421580) | 19195 | Jaideep Khare | BITS Pilani | AMD |
 | 9 | [ p-vanchinathan ](https://math.stackexchange.com/users/28915) | 19113 | P Vanchinathan | - | VIT Uiversit(professor) |
 | 10 | [ stubbornatom ](https://math.stackexchange.com/users/321264) | 16738 | StubbornAtom | - | - |
 | 11 | [ samrat-mukhopadhyay ](https://math.stackexchange.com/users/83973) | 16199 | Samrat Mukhopadhyay | - | IIT (ISM) Dhanbad(professor) |
