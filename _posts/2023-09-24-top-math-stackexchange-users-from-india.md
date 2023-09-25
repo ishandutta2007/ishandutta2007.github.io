@@ -23,7 +23,7 @@ date: 2023-09-24 12:45 +0530
 | 16 | [ _ ](https://math.stackexchange.com/users/31458) | 12786 | Ekaveera Gouribhatla | - | founder of coaching institue |
 | 17 | [ tattwamasi-amrutam ](https://math.stackexchange.com/users/90328) | 12599 | tattwamasi amrutam | IMA, Bhubaneswar | Ben Gurion University(postdoc) |
 | 18 | [ srijan ](https://math.stackexchange.com/users/30856) | 12356 | Srijan | - | University of Allahabad(prof) |
-| 19 | [ _ ](https://math.stackexchange.com/users/769226) | 11771 | | - | - |
-| 20 | [ _ ](https://math.stackexchange.com/users/378881) | 11457 | | - | - |
+| 19 | [ albus-dumbledore ](https://math.stackexchange.com/users/769226) | 11771 | Albus Dumbledore | IIT Bombay | - |
+| 20 | [ chinnapparaj-r ](https://math.stackexchange.com/users/378881) | 11457 | Chinnapparaj R | - | Arul Anandar College, Madurai(professor) |
 | 21 | [ _ ](https://math.stackexchange.com/users/59380) | 11295 | | - | - |
 
