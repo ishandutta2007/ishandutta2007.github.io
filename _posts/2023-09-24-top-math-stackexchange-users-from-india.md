@@ -9,8 +9,8 @@ date: 2023-09-24 12:45 +0530
 | 1 | [ lab-bhattacharjee ](https://math.stackexchange.com/users/33337) | 272358 | lab bhattacharjee | IIEST | RS Software |
 | 2 | [ paramanand-singh ](https://math.stackexchange.com/users/72031) | 85042 | Paramanand Singh|||
 | 3 | [ z-ahmed ](https://math.stackexchange.com/users/671540) | 42667 | Z Ahmed | - | - |
-| 4 | [ _ ](https://math.stackexchange.com/users/210295) | 37278 | - | coll | comp |
-| 5 | [ _ ](https://math.stackexchange.com/users/89789) | 31168 | coll | comp |
+| 4 | [ _ ](https://math.stackexchange.com/users/210295) | 37278 | Harish Chandra Rajpoot | M.M.M. University of Technology | IITB Phd |
+| 5 | [ prahlad-vaidyanathan ](https://math.stackexchange.com/users/89789) | 31168 | Prahlad Vaidyanathan | IISER Bhopal | IISER Bhopal(professor) |
 | 6 | [ _ ](https://math.stackexchange.com/users/294365) | 30418 | coll | comp |
 | 7 | [ _ ](https://math.stackexchange.com/users/278967) | 24416 | coll | comp |
 | 8 | [ _ ](https://math.stackexchange.com/users/421580) | 19195 | coll | comp |
