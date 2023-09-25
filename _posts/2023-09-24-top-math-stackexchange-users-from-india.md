@@ -25,5 +25,5 @@ date: 2023-09-24 12:45 +0530
 | 18 | [ srijan ](https://math.stackexchange.com/users/30856) | 12356 | Srijan | - | University of Allahabad(prof) |
 | 19 | [ albus-dumbledore ](https://math.stackexchange.com/users/769226) | 11771 | Albus Dumbledore | IIT Bombay | - |
 | 20 | [ chinnapparaj-r ](https://math.stackexchange.com/users/378881) | 11457 | Chinnapparaj R | - | Arul Anandar College, Madurai(professor) |
-| 21 | [ _ ](https://math.stackexchange.com/users/59380) | 11295 | | - | - |
+| 21 | [ shobhit-bhatnagar ](https://math.stackexchange.com/users/59380) | 11295 | Shobhit Bhatnagar | - | - |
 
