@@ -17,16 +17,15 @@ date: 2023-09-23 08:23 +0530
 | 9 | [undetected-selenium](https://stackoverflow.com/users/7429447) | 184313 | Debanjan Bhattacharjee | North Maharashtra University | Infosys |
 | 10 | [pranay-rana](https://stackoverflow.com/users/314488) | 175070 | Pranay Rana | Gujarat University | Accenture |
 | 11 | [avinash-raj](https://stackoverflow.com/users/3297613) | 172493 | Avinash Raj | Hindusthan college of engineering and technology | HCL Technologies |
-| 12 | [michael-mrozek](https://stackoverflow.com/users/309308) | 169760 | Michael Mrozek | - | - |
-| 13 | [rahul-tripathi](https://stackoverflow.com/users/1501794) | 168471 | Rahul Tripathi | JEC | JP Morgan Chase |
-| 14 | [mr-alien](https://stackoverflow.com/users/1542290) | 153921 | Vaibhav | MKS College of Commerce & Economics | BrowserStack |
-| 15 | [jitendra-vyas](https://stackoverflow.com/users/84201) | 148657 | Jitendra Vyas | Maharaja Ganaga Singh University, Bikaner | Olacabs |
-| 16 | [siddharth-rout](https://stackoverflow.com/users/1140579) | 147059 | Siddharth Rout | North-Eastern Hill University | Ventura |
-| 17 | [gishu](https://stackoverflow.com/users/1695) | 134520 | Gishu | - | GE |
-| 18 | [sourav-ghosh](https://stackoverflow.com/users/2173917) | 133232 | Sourav Ghosh | Saroj Mohan Institute Of Technology | HCL Technologies |
-| 19 | [raghunandan](https://stackoverflow.com/users/653856) | 132735 | Raghunandan Kavi | Acharya Patashala College of Engineering (A.P.S.C.E) | Jio Platforms |
-| 20 | [satpal](https://stackoverflow.com/users/1668533) | 132292 | Satpal Singh | Indira Gandhi National Open University | Excelsoft Technologies |
-| 21 | [_](https://stackoverflow.com/users/1202025) | 132256 ||||
+| 12 | [rahul-tripathi](https://stackoverflow.com/users/1501794) | 168471 | Rahul Tripathi | JEC | JP Morgan Chase |
+| 13 | [mr-alien](https://stackoverflow.com/users/1542290) | 153921 | Vaibhav | MKS College of Commerce & Economics | BrowserStack |
+| 14 | [jitendra-vyas](https://stackoverflow.com/users/84201) | 148657 | Jitendra Vyas | Maharaja Ganaga Singh University, Bikaner | Olacabs |
+| 15 | [siddharth-rout](https://stackoverflow.com/users/1140579) | 147059 | Siddharth Rout | North-Eastern Hill University | Ventura |
+| 16 | [gishu](https://stackoverflow.com/users/1695) | 134520 | Gishu | - | GE |
+| 17 | [sourav-ghosh](https://stackoverflow.com/users/2173917) | 133232 | Sourav Ghosh | Saroj Mohan Institute Of Technology | HCL Technologies |
+| 18 | [raghunandan](https://stackoverflow.com/users/653856) | 132735 | Raghunandan Kavi | Acharya Patashala College of Engineering (A.P.S.C.E) | Jio Platforms |
+| 19 | [satpal](https://stackoverflow.com/users/1668533) | 132292 | Satpal Singh | Indira Gandhi National Open University | Excelsoft Technologies |
+| 20 | [ρяσѕρєя-k](https://stackoverflow.com/users/1202025) | 132256 | ρяσѕρєя K | - | - |
 | 22 | [_](https://stackoverflow.com/users/5866580) | 130564 ||||
 | 23 | [_](https://stackoverflow.com/users/188096) | 128336 ||||
 | 24 | [_](https://stackoverflow.com/users/379693) | 127755 ||||
