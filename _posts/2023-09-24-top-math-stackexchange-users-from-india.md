@@ -18,7 +18,7 @@ date: 2023-09-24 12:45 +0530
 | 10 | [ stubbornatom ](https://math.stackexchange.com/users/321264) | 16738 | StubbornAtom | - | - |
 | 11 | [ samrat-mukhopadhyay ](https://math.stackexchange.com/users/83973) | 16199 | Samrat Mukhopadhyay | - | IIT (ISM) Dhanbad(professor) |
 | 12 | [ balarka-sen ](https://math.stackexchange.com/users/117002) | 13760 | Balarka Sen | Indian Statistical Institute, Bangalore | Tata Institute of Fundamental Research, Bombay(phd) |
-| 13 | [ pratik-deoghare ](https://math.stackexchange.com/users/705) | 13333 | Pratik Deoghare | COEP Technological University | Kubermatic |
+| 13 | [ pratik-deoghare ](https://math.stackexchange.com/users/705) | 13333 | Pratik Deoghare | COEP Technological University | Kubermatic(software engg) |
 | 14 | [ empty ](https://math.stackexchange.com/users/174970) | 12810 | Empty | - | - |
 | 15 | [ _ ](https://math.stackexchange.com/users/31458) | 12786 | Ekaveera Gouribhatla | - | founder of coaching institue |
 | 16 | [ tattwamasi-amrutam ](https://math.stackexchange.com/users/90328) | 12599 | tattwamasi amrutam | IMA, Bhubaneswar | Ben Gurion University(postdoc) |
