@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-25T03:34:44+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Math.StackExchange Users from India (Sept2023)</title><link href="/2023/09/24/top-math-stackexchange-users-from-india.html" rel="alternate" type="text/html" title="Top Math.StackExchange Users from India (Sept2023)" /><published>2023-09-24T07:15:00+00:00</published><updated>2023-09-24T07:15:00+00:00</updated><id>/2023/09/24/top-math-stackexchange-users-from-india</id><content type="html" xml:base="/2023/09/24/top-math-stackexchange-users-from-india.html"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-25T03:40:16+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Math.StackExchange Users from India (Sept2023)</title><link href="/2023/09/24/top-math-stackexchange-users-from-india.html" rel="alternate" type="text/html" title="Top Math.StackExchange Users from India (Sept2023)" /><published>2023-09-24T07:15:00+00:00</published><updated>2023-09-24T07:15:00+00:00</updated><id>/2023/09/24/top-math-stackexchange-users-from-india</id><content type="html" xml:base="/2023/09/24/top-math-stackexchange-users-from-india.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>#</th>
@@ -15,32 +15,32 @@
       <td><a href="https://math.stackexchange.com/users/33337"> lab-bhattacharjee </a></td>
       <td>272358</td>
       <td>lab bhattacharjee</td>
-      <td>coll</td>
-      <td>comp</td>
+      <td>IIEST</td>
+      <td>RS Software</td>
     </tr>
     <tr>
       <td>2</td>
-      <td><a href="https://math.stackexchange.com/users/72031"> _ </a></td>
+      <td><a href="https://math.stackexchange.com/users/72031"> paramanand-singh </a></td>
       <td>85042</td>
-      <td>IIEST</td>
-      <td>RS Software</td>
+      <td>Paramanand Singh</td>
+      <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>3</td>
-      <td><a href="https://math.stackexchange.com/users/671540"> _ </a></td>
+      <td><a href="https://math.stackexchange.com/users/671540"> z-ahmed </a></td>
       <td>42667</td>
-      <td>coll</td>
-      <td>comp</td>
-      <td> </td>
+      <td>Z Ahmed</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>4</td>
       <td><a href="https://math.stackexchange.com/users/210295"> _ </a></td>
       <td>37278</td>
+      <td>-</td>
       <td>coll</td>
       <td>comp</td>
-      <td> </td>
     </tr>
     <tr>
       <td>5</td>
@@ -179,7 +179,7 @@
       <td> </td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# User Link Reputation Name College(undergrad) Company(most well known) 1 lab-bhattacharjee 272358 lab bhattacharjee coll comp 2 _ 85042 IIEST RS Software   3 _ 42667 coll comp   4 _ 37278 coll comp   5 _ 31168 coll comp   6 _ 30418 coll comp   7 _ 24416 coll comp   8 _ 19195 coll comp   9 _ 19113 coll comp   10 _ 16738 coll comp   11 _ 16199 coll comp   12 _ 13760 coll comp   13 _ 13483 coll comp   14 _ 13333 coll comp   15 _ 12810 coll comp   16 _ 12786 coll comp   17 _ 12599 coll comp   18 _ 12356 coll comp   19 _ 11771 coll comp   20 _ 11457 coll comp   21 _ 11295 coll comp  ]]></summary></entry><entry><title type="html">Top Stackoverflow Users from USA (Sept2023)</title><link href="/2023/09/24/top-stackoverflow-users-from-usa.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from USA (Sept2023)" /><published>2023-09-24T03:10:00+00:00</published><updated>2023-09-24T03:10:00+00:00</updated><id>/2023/09/24/top-stackoverflow-users-from-usa</id><content type="html" xml:base="/2023/09/24/top-stackoverflow-users-from-usa.html"><![CDATA[<table>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# User Link Reputation Name College(undergrad) Company(most well known) 1 lab-bhattacharjee 272358 lab bhattacharjee IIEST RS Software 2 paramanand-singh 85042 Paramanand Singh     3 z-ahmed 42667 Z Ahmed - - 4 _ 37278 - coll comp 5 _ 31168 coll comp   6 _ 30418 coll comp   7 _ 24416 coll comp   8 _ 19195 coll comp   9 _ 19113 coll comp   10 _ 16738 coll comp   11 _ 16199 coll comp   12 _ 13760 coll comp   13 _ 13483 coll comp   14 _ 13333 coll comp   15 _ 12810 coll comp   16 _ 12786 coll comp   17 _ 12599 coll comp   18 _ 12356 coll comp   19 _ 11771 coll comp   20 _ 11457 coll comp   21 _ 11295 coll comp  ]]></summary></entry><entry><title type="html">Top Stackoverflow Users from USA (Sept2023)</title><link href="/2023/09/24/top-stackoverflow-users-from-usa.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from USA (Sept2023)" /><published>2023-09-24T03:10:00+00:00</published><updated>2023-09-24T03:10:00+00:00</updated><id>/2023/09/24/top-stackoverflow-users-from-usa</id><content type="html" xml:base="/2023/09/24/top-stackoverflow-users-from-usa.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>#</th>
