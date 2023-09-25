@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-25T04:25:37+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Math.StackExchange Users from India (Sept2023)</title><link href="/2023/09/24/top-math-stackexchange-users-from-india.html" rel="alternate" type="text/html" title="Top Math.StackExchange Users from India (Sept2023)" /><published>2023-09-24T07:15:00+00:00</published><updated>2023-09-24T07:15:00+00:00</updated><id>/2023/09/24/top-math-stackexchange-users-from-india</id><content type="html" xml:base="/2023/09/24/top-math-stackexchange-users-from-india.html"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-25T04:27:26+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Math.StackExchange Users from India (Sept2023)</title><link href="/2023/09/24/top-math-stackexchange-users-from-india.html" rel="alternate" type="text/html" title="Top Math.StackExchange Users from India (Sept2023)" /><published>2023-09-24T07:15:00+00:00</published><updated>2023-09-24T07:15:00+00:00</updated><id>/2023/09/24/top-math-stackexchange-users-from-india</id><content type="html" xml:base="/2023/09/24/top-math-stackexchange-users-from-india.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>#</th>
@@ -23,8 +23,8 @@
       <td><a href="https://math.stackexchange.com/users/72031"> paramanand-singh </a></td>
       <td>85042</td>
       <td>Paramanand Singh</td>
-      <td> </td>
-      <td> </td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>3</td>
@@ -112,7 +112,7 @@
       <td>13333</td>
       <td>Pratik Deoghare</td>
       <td>COEP Technological University</td>
-      <td>Kubermatic</td>
+      <td>Kubermatic(software engg)</td>
     </tr>
     <tr>
       <td>14</td>
@@ -171,7 +171,7 @@
       <td>-</td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# User Link Reputation Name College(undergrad) Company(most well known) 1 lab-bhattacharjee 272358 lab bhattacharjee IIEST Kolkata RS Software(software engg) 2 paramanand-singh 85042 Paramanand Singh     3 z-ahmed 42667 Z Ahmed - - 4 harish-chandra-rajpoot 37278 Harish Chandra Rajpoot M.M.M. University of Technology IITB(Phd) 5 prahlad-vaidyanathan 31168 Prahlad Vaidyanathan - IISER Bhopal(professor) 6 learnmore 30418 Learnmore - - 7 schrodingerscat 24416 SchrodingersCat - - 8 jaideep-khare 19195 Jaideep Khare BITS Pilani AMD(electronics engg) 9 p-vanchinathan 19113 P Vanchinathan - VIT Uiversit(professor) 10 stubbornatom 16738 StubbornAtom - - 11 samrat-mukhopadhyay 16199 Samrat Mukhopadhyay - IIT (ISM) Dhanbad(professor) 12 balarka-sen 13760 Balarka Sen Indian Statistical Institute, Bangalore Tata Institute of Fundamental Research, Bombay(phd) 13 pratik-deoghare 13333 Pratik Deoghare COEP Technological University Kubermatic 14 empty 12810 Empty - - 15 _ 12786 Ekaveera Gouribhatla - founder of coaching institue 16 tattwamasi-amrutam 12599 tattwamasi amrutam IMA, Bhubaneswar Ben Gurion University(postdoc) 17 srijan 12356 Srijan - University of Allahabad(professor) 18 albus-dumbledore 11771 Albus Dumbledore IIT Bombay - 19 chinnapparaj-r 11457 Chinnapparaj R - Arul Anandar College, Madurai(professor) 20 shobhit-bhatnagar 11295 Shobhit Bhatnagar - -]]></summary></entry><entry><title type="html">Top Stackoverflow Users from USA (Sept2023)</title><link href="/2023/09/24/top-stackoverflow-users-from-usa.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from USA (Sept2023)" /><published>2023-09-24T03:10:00+00:00</published><updated>2023-09-24T03:10:00+00:00</updated><id>/2023/09/24/top-stackoverflow-users-from-usa</id><content type="html" xml:base="/2023/09/24/top-stackoverflow-users-from-usa.html"><![CDATA[<table>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[# User Link Reputation Name College(undergrad) Company(most well known) 1 lab-bhattacharjee 272358 lab bhattacharjee IIEST Kolkata RS Software(software engg) 2 paramanand-singh 85042 Paramanand Singh - - 3 z-ahmed 42667 Z Ahmed - - 4 harish-chandra-rajpoot 37278 Harish Chandra Rajpoot M.M.M. University of Technology IITB(Phd) 5 prahlad-vaidyanathan 31168 Prahlad Vaidyanathan - IISER Bhopal(professor) 6 learnmore 30418 Learnmore - - 7 schrodingerscat 24416 SchrodingersCat - - 8 jaideep-khare 19195 Jaideep Khare BITS Pilani AMD(electronics engg) 9 p-vanchinathan 19113 P Vanchinathan - VIT Uiversit(professor) 10 stubbornatom 16738 StubbornAtom - - 11 samrat-mukhopadhyay 16199 Samrat Mukhopadhyay - IIT (ISM) Dhanbad(professor) 12 balarka-sen 13760 Balarka Sen Indian Statistical Institute, Bangalore Tata Institute of Fundamental Research, Bombay(phd) 13 pratik-deoghare 13333 Pratik Deoghare COEP Technological University Kubermatic(software engg) 14 empty 12810 Empty - - 15 _ 12786 Ekaveera Gouribhatla - founder of coaching institue 16 tattwamasi-amrutam 12599 tattwamasi amrutam IMA, Bhubaneswar Ben Gurion University(postdoc) 17 srijan 12356 Srijan - University of Allahabad(professor) 18 albus-dumbledore 11771 Albus Dumbledore IIT Bombay - 19 chinnapparaj-r 11457 Chinnapparaj R - Arul Anandar College, Madurai(professor) 20 shobhit-bhatnagar 11295 Shobhit Bhatnagar - -]]></summary></entry><entry><title type="html">Top Stackoverflow Users from USA (Sept2023)</title><link href="/2023/09/24/top-stackoverflow-users-from-usa.html" rel="alternate" type="text/html" title="Top Stackoverflow Users from USA (Sept2023)" /><published>2023-09-24T03:10:00+00:00</published><updated>2023-09-24T03:10:00+00:00</updated><id>/2023/09/24/top-stackoverflow-users-from-usa</id><content type="html" xml:base="/2023/09/24/top-stackoverflow-users-from-usa.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>#</th>
