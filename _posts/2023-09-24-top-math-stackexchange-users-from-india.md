@@ -6,10 +6,10 @@ date: 2023-09-24 12:45 +0530
 
 |#|User Link|Reputation|Name|College(undergrad)|Company(most well known)|
 |---|---|---|---|---|---|
-| 1 | [ lab-bhattacharjee ](https://math.stackexchange.com/users/33337) | 272358 | lab bhattacharjee | coll | comp |
-| 2 | [ _ ](https://math.stackexchange.com/users/72031) | 85042 | IIEST | RS Software |
-| 3 | [ _ ](https://math.stackexchange.com/users/671540) | 42667 | coll | comp |
-| 4 | [ _ ](https://math.stackexchange.com/users/210295) | 37278 | coll | comp |
+| 1 | [ lab-bhattacharjee ](https://math.stackexchange.com/users/33337) | 272358 | lab bhattacharjee | IIEST | RS Software |
+| 2 | [ paramanand-singh ](https://math.stackexchange.com/users/72031) | 85042 | Paramanand Singh|||
+| 3 | [ z-ahmed ](https://math.stackexchange.com/users/671540) | 42667 | Z Ahmed | - | - |
+| 4 | [ _ ](https://math.stackexchange.com/users/210295) | 37278 | - | coll | comp |
 | 5 | [ _ ](https://math.stackexchange.com/users/89789) | 31168 | coll | comp |
 | 6 | [ _ ](https://math.stackexchange.com/users/294365) | 30418 | coll | comp |
 | 7 | [ _ ](https://math.stackexchange.com/users/278967) | 24416 | coll | comp |
