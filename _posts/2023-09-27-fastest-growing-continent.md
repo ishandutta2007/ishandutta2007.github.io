@@ -16,3 +16,5 @@ date: 2023-09-27 06:52 +0530
 |--------------------------------------------|----------|------------|-----------------------|
 
 
+Source : [data.worldbank](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?end=2022&locations=4E-EU-US-ZJ-ZF&start=1999)
+
