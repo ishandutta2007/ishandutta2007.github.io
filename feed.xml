@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-25T04:45:59+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Math.StackExchange Users from India (Sept2023)</title><link href="/2023/09/24/top-math-stackexchange-users-from-india.html" rel="alternate" type="text/html" title="Top Math.StackExchange Users from India (Sept2023)" /><published>2023-09-24T07:15:00+00:00</published><updated>2023-09-24T07:15:00+00:00</updated><id>/2023/09/24/top-math-stackexchange-users-from-india</id><content type="html" xml:base="/2023/09/24/top-math-stackexchange-users-from-india.html"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-27T01:35:04+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Fastest Growing Continent</title><link href="/2023/09/27/fastest-growing-continent.html" rel="alternate" type="text/html" title="Fastest Growing Continent" /><published>2023-09-27T01:22:00+00:00</published><updated>2023-09-27T01:22:00+00:00</updated><id>/2023/09/27/fastest-growing-continent</id><content type="html" xml:base="/2023/09/27/fastest-growing-continent.html"><![CDATA[<table>
+  <thead>
+    <tr>
+      <th>GDP per capita</th>
+      <th>2002</th>
+      <th>2022</th>
+      <th>Growth in 20 years</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>East Asia &amp; Pacific (excluding high income)</td>
+      <td>1,104.5</td>
+      <td>9,952.2</td>
+      <td>9.01x</td>
+    </tr>
+    <tr>
+      <td>Sub-Saharan Africa (excluding high income)</td>
+      <td>625.3</td>
+      <td>1,689.2</td>
+      <td>2.70x</td>
+    </tr>
+    <tr>
+      <td>Latin America &amp; Caribbean</td>
+      <td>3,758.8</td>
+      <td>9,474.5</td>
+      <td>2.52x</td>
+    </tr>
+    <tr>
+      <td>United States</td>
+      <td>37,997.8</td>
+      <td>76,398.6</td>
+      <td>2.01x</td>
+    </tr>
+    <tr>
+      <td>European Union</td>
+      <td>18,760.2</td>
+      <td>37,149.6</td>
+      <td>1.98x</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[GDP per capita 2002 2022 Growth in 20 years East Asia &amp; Pacific (excluding high income) 1,104.5 9,952.2 9.01x Sub-Saharan Africa (excluding high income) 625.3 1,689.2 2.70x Latin America &amp; Caribbean 3,758.8 9,474.5 2.52x United States 37,997.8 76,398.6 2.01x European Union 18,760.2 37,149.6 1.98x]]></summary></entry><entry><title type="html">Top Math.StackExchange Users from India (Sept2023)</title><link href="/2023/09/24/top-math-stackexchange-users-from-india.html" rel="alternate" type="text/html" title="Top Math.StackExchange Users from India (Sept2023)" /><published>2023-09-24T07:15:00+00:00</published><updated>2023-09-24T07:15:00+00:00</updated><id>/2023/09/24/top-math-stackexchange-users-from-india</id><content type="html" xml:base="/2023/09/24/top-math-stackexchange-users-from-india.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>#</th>
@@ -1853,113 +1894,4 @@
       <td><strong>Approximately 42.5 million</strong></td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[No matter how I do the math I am coming up with number around 5% of population]]></summary></entry><entry><title type="html">Indian Billionaires by profession in 2023</title><link href="/2023/06/20/indian-billionaires-by-profession-in-2023.html" rel="alternate" type="text/html" title="Indian Billionaires by profession in 2023" /><published>2023-06-20T14:30:00+00:00</published><updated>2023-06-20T14:30:00+00:00</updated><id>/2023/06/20/indian-billionaires-by-profession-in-2023</id><content type="html" xml:base="/2023/06/20/indian-billionaires-by-profession-in-2023.html"><![CDATA[<table>
-  <thead>
-    <tr>
-      <th>Profession</th>
-      <th>Number of Billionaires</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Engineers</strong></td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>* Electrical engineering</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>* Computer science</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>* Mechanical engineering</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td><strong>Doctors</strong></td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>* Pharmaceuticals</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>* Healthcare</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td><strong>Lawyers</strong></td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>* Corporate law</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>* Intellectual property law</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td><strong>CAs</strong></td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>* Auditing</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>* Tax consulting</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td><strong>Other</strong></td>
-      <td>107</td>
-    </tr>
-    <tr>
-      <td>* Retail</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>* Manufacturing</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>* Infrastructure</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>* Real estate</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>* Media</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>* Telecom</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>* Education</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>* Energy</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>* Airlines</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>* Technology</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>* Others</td>
-      <td>20</td>
-    </tr>
-  </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Profession Number of Billionaires Engineers 10 * Electrical engineering 3 * Computer science 5 * Mechanical engineering 2 Doctors 3 * Pharmaceuticals 2 * Healthcare 1 Lawyers 4 * Corporate law 2 * Intellectual property law 1 CAs 5 * Auditing 2 * Tax consulting 2 Other 107 * Retail 20 * Manufacturing 15 * Infrastructure 10 * Real estate 10 * Media 10 * Telecom 5 * Education 5 * Energy 5 * Airlines 4 * Technology 4 * Others 20]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[No matter how I do the math I am coming up with number around 5% of population]]></summary></entry></feed>
