@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-27T01:37:08+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Fastest Growing Continent</title><link href="/2023/09/27/fastest-growing-continent.html" rel="alternate" type="text/html" title="Fastest Growing Continent" /><published>2023-09-27T01:22:00+00:00</published><updated>2023-09-27T01:22:00+00:00</updated><id>/2023/09/27/fastest-growing-continent</id><content type="html" xml:base="/2023/09/27/fastest-growing-continent.html"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-27T01:57:38+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Fastest Growing Continent</title><link href="/2023/09/27/fastest-growing-continent.html" rel="alternate" type="text/html" title="Fastest Growing Continent" /><published>2023-09-27T01:22:00+00:00</published><updated>2023-09-27T01:22:00+00:00</updated><id>/2023/09/27/fastest-growing-continent</id><content type="html" xml:base="/2023/09/27/fastest-growing-continent.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>GDP per capita</th>
       <th>2002</th>
       <th>2022</th>
       <th>Growth in 20 years</th>
+      <th>2042(Projected at same rate)</th>
     </tr>
   </thead>
   <tbody>
@@ -13,35 +14,40 @@
       <td>1,104.5</td>
       <td>9,952.2</td>
       <td>9.01x</td>
+      <td>89,669.3</td>
     </tr>
     <tr>
       <td>Sub-Saharan Africa (excluding high income)</td>
       <td>625.3</td>
       <td>1,689.2</td>
       <td>2.70x</td>
+      <td>4,560.8</td>
     </tr>
     <tr>
       <td>Latin America &amp; Caribbean</td>
       <td>3,758.8</td>
       <td>9,474.5</td>
       <td>2.52x</td>
+      <td>23,875.7</td>
     </tr>
     <tr>
       <td>United States</td>
       <td>37,997.8</td>
       <td>76,398.6</td>
       <td>2.01x</td>
+      <td>153,561.2</td>
     </tr>
     <tr>
       <td>European Union</td>
       <td>18,760.2</td>
       <td>37,149.6</td>
       <td>1.98x</td>
+      <td>73,556.2</td>
     </tr>
   </tbody>
 </table>
 
-<p>Source : <a href="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?end=2022&amp;locations=4E-EU-US-ZJ-ZF&amp;start=1999">data.worldbank</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[GDP per capita 2002 2022 Growth in 20 years East Asia &amp; Pacific (excluding high income) 1,104.5 9,952.2 9.01x Sub-Saharan Africa (excluding high income) 625.3 1,689.2 2.70x Latin America &amp; Caribbean 3,758.8 9,474.5 2.52x United States 37,997.8 76,398.6 2.01x European Union 18,760.2 37,149.6 1.98x]]></summary></entry><entry><title type="html">Top Math.StackExchange Users from India (Sept2023)</title><link href="/2023/09/24/top-math-stackexchange-users-from-india.html" rel="alternate" type="text/html" title="Top Math.StackExchange Users from India (Sept2023)" /><published>2023-09-24T07:15:00+00:00</published><updated>2023-09-24T07:15:00+00:00</updated><id>/2023/09/24/top-math-stackexchange-users-from-india</id><content type="html" xml:base="/2023/09/24/top-math-stackexchange-users-from-india.html"><![CDATA[<table>
+<p>Source : <a href="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?end=2022&amp;locations=4E-EU-US-ZJ-ZF&amp;start=1999">data.worldbank</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[GDP per capita 2002 2022 Growth in 20 years 2042(Projected at same rate) East Asia &amp; Pacific (excluding high income) 1,104.5 9,952.2 9.01x 89,669.3 Sub-Saharan Africa (excluding high income) 625.3 1,689.2 2.70x 4,560.8 Latin America &amp; Caribbean 3,758.8 9,474.5 2.52x 23,875.7 United States 37,997.8 76,398.6 2.01x 153,561.2 European Union 18,760.2 37,149.6 1.98x 73,556.2]]></summary></entry><entry><title type="html">Top Math.StackExchange Users from India (Sept2023)</title><link href="/2023/09/24/top-math-stackexchange-users-from-india.html" rel="alternate" type="text/html" title="Top Math.StackExchange Users from India (Sept2023)" /><published>2023-09-24T07:15:00+00:00</published><updated>2023-09-24T07:15:00+00:00</updated><id>/2023/09/24/top-math-stackexchange-users-from-india</id><content type="html" xml:base="/2023/09/24/top-math-stackexchange-users-from-india.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>#</th>
