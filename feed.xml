@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-27T01:57:38+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Fastest Growing Continent</title><link href="/2023/09/27/fastest-growing-continent.html" rel="alternate" type="text/html" title="Fastest Growing Continent" /><published>2023-09-27T01:22:00+00:00</published><updated>2023-09-27T01:22:00+00:00</updated><id>/2023/09/27/fastest-growing-continent</id><content type="html" xml:base="/2023/09/27/fastest-growing-continent.html"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-10-17T07:52:24+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Cost to fine tune GPT4</title><link href="/2023/10/05/cost-to-fine-tune-gpt4.html" rel="alternate" type="text/html" title="Cost to fine tune GPT4" /><published>2023-10-05T08:10:00+00:00</published><updated>2023-10-05T08:10:00+00:00</updated><id>/2023/10/05/cost-to-fine-tune-gpt4</id><content type="html" xml:base="/2023/10/05/cost-to-fine-tune-gpt4.html"><![CDATA[<p>The cost to fine-tune the Palmyra Model can vary depending on several factors, including the size of the dataset, the complexity of the task, and the computational resources required. Fine-tuning a large language model like Palmyra typically requires significant computational power and time.</p>
+
+<p>The cost can be estimated based on the number of GPU hours required for training. Training a model like Palmyra can take weeks or even months, depending on the scale of the task and the available resources. The cost of GPU usage can vary depending on the cloud provider or infrastructure used.</p>
+
+<p>Additionally, there may be costs associated with data preprocessing, storage, and other infrastructure requirements. These costs can vary depending on the specific needs of the project.</p>
+
+<p>It’s important to note that the exact cost of fine-tuning Palmyra cannot be determined without specific details about the project requirements and the infrastructure being used. It is recommended to consult with experts or cloud service providers to get a more accurate estimate based on your specific needs.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[The cost to fine-tune the Palmyra Model can vary depending on several factors, including the size of the dataset, the complexity of the task, and the computational resources required. Fine-tuning a large language model like Palmyra typically requires significant computational power and time.]]></summary></entry><entry><title type="html">Fastest Growing Continent</title><link href="/2023/09/27/fastest-growing-continent.html" rel="alternate" type="text/html" title="Fastest Growing Continent" /><published>2023-09-27T01:22:00+00:00</published><updated>2023-09-27T01:22:00+00:00</updated><id>/2023/09/27/fastest-growing-continent</id><content type="html" xml:base="/2023/09/27/fastest-growing-continent.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>GDP per capita</th>
@@ -1521,385 +1527,46 @@
   </tbody>
 </table>
 
-<p>It is important to note that this table is based on population estimates from the World Bank, and the number of billionaires in each country is based on the Forbes World’s Billionaires list. Both of these data sources are subject to some degree of error. Additionally, the table does not take into account the distribution of wealth within each country, meaning that it is possible for a country with a high number of billionaires per capita to also have a high level of poverty.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Here is a full table of billionaires per capita by country, based on the 2023 Forbes World’s Billionaires list:]]></summary></entry><entry><title type="html">How much do senior software engineers make at Facebook, Microsoft and Google as per levels.fyi?</title><link href="/2023/07/15/how-much-do-senior-software-engineers-make-at-facebook-microsoft-and-google-as-per-levels-fyi.html" rel="alternate" type="text/html" title="How much do senior software engineers make at Facebook, Microsoft and Google as per levels.fyi?" /><published>2023-07-15T07:16:00+00:00</published><updated>2023-07-15T07:16:00+00:00</updated><id>/2023/07/15/how-much-do-senior-software-engineers-make-at-facebook-microsoft-and-google-as-per-levels-fyi</id><content type="html" xml:base="/2023/07/15/how-much-do-senior-software-engineers-make-at-facebook-microsoft-and-google-as-per-levels-fyi.html"><![CDATA[<p>According to levels.fyi, the median yearly total compensation for a senior software engineer at Facebook is $345,000. The highest paying salary package reported for a senior software engineer at Facebook sits at a yearly total compensation of $2,534,190. This includes base salary as well as any potential stock compensation and bonuses.</p>
+<p>It is important to note that this table is based on population estimates from the World Bank, and the number of billionaires in each country is based on the Forbes World’s Billionaires list. Both of these data sources are subject to some degree of error. Additionally, the table does not take into account the distribution of wealth within each country, meaning that it is possible for a country with a high number of billionaires per capita to also have a high level of poverty.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Here is a full table of billionaires per capita by country, based on the 2023 Forbes World’s Billionaires list:]]></summary></entry><entry><title type="html">Chrome extensions Marketshare</title><link href="/2023/09/07/chrome-extensions-marketshare.html" rel="alternate" type="text/html" title="Chrome extensions Marketshare" /><published>2023-09-07T06:48:00+00:00</published><updated>2023-09-07T06:48:00+00:00</updated><id>/2023/09/07/chrome-extensions-marketshare</id><content type="html" xml:base="/2023/09/07/chrome-extensions-marketshare.html"><![CDATA[<p>The latest number of extensions for each of the major browsers as of September 7, 2023:</p>
 
-<p>The median yearly total compensation for a senior software engineer at Microsoft is $201,500. The highest paying salary package reported for a senior software engineer at Microsoft sits at a yearly total compensation of $1,179,000. This includes base salary as well as any potential stock compensation and bonuses.</p>
+<ul>
+  <li>Google Chrome: 137,345</li>
+  <li>Mozilla Firefox: 47,425</li>
+  <li>Microsoft Edge: 34,430</li>
+  <li>Safari: 13,000</li>
+  <li>Opera: 8,200</li>
+  <li>Brave: 6,400</li>
+</ul>
 
-<p>The median yearly total compensation for a senior software engineer at Google is $292,000. The highest paying salary package reported for a senior software engineer at Google sits at a yearly total compensation of $418,000. This includes base salary as well as any potential stock compensation and bonuses.</p>
+<p>As you can see, Google Chrome has the most extensions, followed by Firefox, Edge, Safari, Opera, and Brave. The number of extensions for each browser can vary depending on the platform and the version of the browser.</p>
 
-<p>It is important to note that these are just median salaries. The actual salary that a senior software engineer makes will vary depending on their experience, skills, and location.</p>
+<p>Here are some of the factors that can affect the number of extensions for a browser:</p>
 
-<p>Here is a table showing the median yearly total compensation for senior software engineers at Facebook, Microsoft, and Google:</p>
+<ul>
+  <li>The popularity of the browser: The more popular a browser is, the more developers will create extensions for it.</li>
+  <li>The openness of the browser: Browsers that are more open to third-party extensions will have more extensions available.</li>
+  <li>The features of the browser: Browsers with more features will have more extensions available to add additional functionality.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[The latest number of extensions for each of the major browsers as of September 7, 2023:]]></summary></entry><entry><title type="html">How to add chatgpt in whatsapp?</title><link href="/2023/07/25/how-to-add-chatgpt-in-whatsapp.html" rel="alternate" type="text/html" title="How to add chatgpt in whatsapp?" /><published>2023-07-25T06:27:00+00:00</published><updated>2023-07-25T06:27:00+00:00</updated><id>/2023/07/25/how-to-add-chatgpt-in-whatsapp</id><content type="html" xml:base="/2023/07/25/how-to-add-chatgpt-in-whatsapp.html"><![CDATA[<p>As of my last update in September 2021, it was not possible to directly add Chatbot models like GPT-3 or ChatGPT into WhatsApp. WhatsApp is primarily designed for person-to-person communication and does not have native support for running custom chatbot models.</p>
 
-<table>
-  <thead>
-    <tr>
-      <th>Company</th>
-      <th>Median Yearly Total Compensation</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Facebook</td>
-      <td>$345,000</td>
-    </tr>
-    <tr>
-      <td>Microsoft</td>
-      <td>$201,500</td>
-    </tr>
-    <tr>
-      <td>Google</td>
-      <td>$292,000</td>
-    </tr>
-  </tbody>
-</table>
+<p>However, there are alternative ways to integrate chatbots with WhatsApp-like platforms. Here are some possible insights:</p>
 
-<p>As you can see, the median yearly total compensation for senior software engineers at these companies is quite high. This is because these companies are some of the most well-known and successful technology companies in the world. They are also known for their generous compensation packages.</p>
+<ol>
+  <li>
+    <p><strong>Third-party Chatbot Platforms</strong>: There are third-party chatbot development platforms that allow you to build chatbots and integrate them with WhatsApp using WhatsApp Business API. These platforms often provide user-friendly interfaces to create, train, and manage chatbots without requiring extensive coding knowledge.</p>
+  </li>
+  <li>
+    <p><strong>Twilio API</strong>: Twilio is a popular cloud communications platform that offers APIs for integrating messaging and other communication services, including WhatsApp. You can use Twilio’s APIs to create and deploy chatbots that interact with users on WhatsApp.</p>
+  </li>
+  <li>
+    <p><strong>Using WhatsApp Business API</strong>: WhatsApp provides a Business API that allows businesses to communicate with customers on the platform. While the API itself does not support direct integration with GPT-3 or ChatGPT, you can build a middleware service that takes messages from WhatsApp, sends them to the GPT-3 or ChatGPT API for processing, and then sends the response back to the user through the WhatsApp Business API.</p>
+  </li>
+  <li>
+    <p><strong>Custom Chatbot Development</strong>: If you have access to a GPT-3 or ChatGPT API and are experienced in software development, you can create a custom chatbot application that interfaces with the WhatsApp API. This approach requires more technical knowledge but provides greater flexibility and control over the chatbot’s behavior.</p>
+  </li>
+</ol>
 
-<p>If you are interested in becoming a senior software engineer at one of these companies, you should be prepared to compete with some of the best and brightest engineers in the world. However, if you are successful, you could be rewarded with a very lucrative career.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[According to levels.fyi, the median yearly total compensation for a senior software engineer at Facebook is $345,000. The highest paying salary package reported for a senior software engineer at Facebook sits at a yearly total compensation of $2,534,190. This includes base salary as well as any potential stock compensation and bonuses.]]></summary></entry><entry><title type="html">Number of Nobel Prizes in Science by Country in last 10 Years</title><link href="/2023/06/30/number-of-nobel-prizes-in-science-by-country-in-last-10-years.html" rel="alternate" type="text/html" title="Number of Nobel Prizes in Science by Country in last 10 Years" /><published>2023-06-30T09:02:00+00:00</published><updated>2023-06-30T09:02:00+00:00</updated><id>/2023/06/30/number-of-nobel-prizes-in-science-by-country-in-last-10-years</id><content type="html" xml:base="/2023/06/30/number-of-nobel-prizes-in-science-by-country-in-last-10-years.html"><![CDATA[<table>
-  <thead>
-    <tr>
-      <th>Country</th>
-      <th>Number of prizes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>United States</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>Germany</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>United Kingdom</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>Switzerland</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>France</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>Japan</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>China</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>Sweden</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>Netherlands</td>
-      <td>4</td>
-    </tr>
-  </tbody>
-</table>
+<p>Remember that the technology landscape is continuously evolving, and new tools or integrations might have emerged since my last update. It’s essential to check for the latest updates and documentation from WhatsApp and relevant chatbot platforms or APIs to see if there have been any changes or new possibilities in integrating chatbots with WhatsApp.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[As of my last update in September 2021, it was not possible to directly add Chatbot models like GPT-3 or ChatGPT into WhatsApp. WhatsApp is primarily designed for person-to-person communication and does not have native support for running custom chatbot models.]]></summary></entry><entry><title type="html">Scientists Created an Artificial Neuron That Actually Retains Electronic Memories</title><link href="/2023/07/20/scientists-created-an-artificial-neuron-that-actually-retains-electronic-memories.html" rel="alternate" type="text/html" title="Scientists Created an Artificial Neuron That Actually Retains Electronic Memories" /><published>2023-07-20T17:47:00+00:00</published><updated>2023-07-20T17:47:00+00:00</updated><id>/2023/07/20/scientists-created-an-artificial-neuron-that-actually-retains-electronic-memories</id><content type="html" xml:base="/2023/07/20/scientists-created-an-artificial-neuron-that-actually-retains-electronic-memories.html"><![CDATA[<p>A team of researchers has created a prototype artificial neuron that rivals the brain’s immense efficiency. The neuron uses ions, not electrons, to carry information, which is similar to how the brain works. This could lead to the development of more energy-efficient and powerful artificial intelligence systems.</p>
 
-<p><strong>Breakdown by discipline:</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Discipline</th>
-      <th>Number of prizes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Physics</td>
-      <td>45</td>
-    </tr>
-    <tr>
-      <td>Chemistry</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>Physiology or Medicine</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>Economic Sciences</td>
-      <td>5</td>
-    </tr>
-  </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Country Number of prizes United States 28 Germany 13 United Kingdom 12 Switzerland 10 France 9 Japan 8 China 6 Sweden 5 Netherlands 4]]></summary></entry><entry><title type="html">Number of Fortune500 CEOs by country</title><link href="/2023/06/29/number-of-fortune500-ceos-by-country.html" rel="alternate" type="text/html" title="Number of Fortune500 CEOs by country" /><published>2023-06-29T17:35:00+00:00</published><updated>2023-06-29T17:35:00+00:00</updated><id>/2023/06/29/number-of-fortune500-ceos-by-country</id><content type="html" xml:base="/2023/06/29/number-of-fortune500-ceos-by-country.html"><![CDATA[<table>
-  <thead>
-    <tr>
-      <th>Country</th>
-      <th>Number of CEOs</th>
-      <th>Number of Founder CEOs</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>United States</td>
-      <td>253</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>India</td>
-      <td>60</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Canada</td>
-      <td>27</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>United Kingdom</td>
-      <td>26</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>China</td>
-      <td>25</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>France</td>
-      <td>7</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Germany</td>
-      <td>6</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>South Africa</td>
-      <td>5</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Other countries</td>
-      <td>17</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Total</td>
-      <td>407</td>
-      <td>28</td>
-    </tr>
-  </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Country Number of CEOs Number of Founder CEOs United States 253 18 India 60 0 Canada 27 0 United Kingdom 26 1 China 25 1 France 7 0 Germany 6 1 South Africa 5 0 Other countries 17 2 Total 407 28]]></summary></entry><entry><title type="html">Top countries by Quantum Computing Research Investments</title><link href="/2023/06/29/top-countries-by-quantum-computing-research-investments.html" rel="alternate" type="text/html" title="Top countries by Quantum Computing Research Investments" /><published>2023-06-29T06:26:00+00:00</published><updated>2023-06-29T06:26:00+00:00</updated><id>/2023/06/29/top-countries-by-quantum-computing-research-investments</id><content type="html" xml:base="/2023/06/29/top-countries-by-quantum-computing-research-investments.html"><![CDATA[<table>
-  <thead>
-    <tr>
-      <th>Rank</th>
-      <th>Country</th>
-      <th>Investment</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>China</td>
-      <td>$12.8 billion+</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Japan</td>
-      <td>$5.3 billion</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>South Korea</td>
-      <td>$1.3 billion</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>European Union</td>
-      <td>$1.2 billion</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>United States</td>
-      <td>$1.4 billion</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Canada</td>
-      <td>$1.2 billion</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>Netherlands</td>
-      <td>$890 million</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>India</td>
-      <td>$770 million</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>Australia</td>
-      <td>$330 million</td>
-    </tr>
-  </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Rank Country Investment 1 China $12.8 billion+ 2 Japan $5.3 billion 3 South Korea $1.3 billion 4 European Union $1.2 billion 5 United States $1.4 billion 6 Canada $1.2 billion 7 Netherlands $890 million 8 India $770 million 9 Australia $330 million]]></summary></entry><entry><title type="html">What percent of Indian population live on costal cities</title><link href="/2023/06/23/what-percent-of-indian-population-live-on-costal-cities.html" rel="alternate" type="text/html" title="What percent of Indian population live on costal cities" /><published>2023-06-23T18:03:00+00:00</published><updated>2023-06-23T18:03:00+00:00</updated><id>/2023/06/23/what-percent-of-indian-population-live-on-costal-cities</id><content type="html" xml:base="/2023/06/23/what-percent-of-indian-population-live-on-costal-cities.html"><![CDATA[<p>No matter how I do the math I am coming up with number around 5% of population</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>City/Town</th>
-      <th>State</th>
-      <th>Coast</th>
-      <th>Approximate Population</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Mumbai</td>
-      <td>Maharashtra</td>
-      <td>West Coast</td>
-      <td>20+ million</td>
-    </tr>
-    <tr>
-      <td>Chennai</td>
-      <td>Tamil Nadu</td>
-      <td>East Coast</td>
-      <td>8 million</td>
-    </tr>
-    <tr>
-      <td>Kochi</td>
-      <td>Kerala</td>
-      <td>Southwest</td>
-      <td>2.1 million</td>
-    </tr>
-    <tr>
-      <td>Vishakhapatnam</td>
-      <td>Andhra Pradesh</td>
-      <td>East Coast</td>
-      <td>2+ million</td>
-    </tr>
-    <tr>
-      <td>Goa (Panaji, Vasco da Gama, Margao, etc.)</td>
-      <td>Goa</td>
-      <td>West Coast</td>
-      <td>Around 1 million</td>
-    </tr>
-    <tr>
-      <td>Mangalore</td>
-      <td>Karnataka</td>
-      <td>West Coast</td>
-      <td>Around 600,000</td>
-    </tr>
-    <tr>
-      <td>Kanyakumari</td>
-      <td>Tamil Nadu</td>
-      <td>Southern tip</td>
-      <td>Around 22,000</td>
-    </tr>
-    <tr>
-      <td>Puducherry (Pondicherry)</td>
-      <td>Puducherry</td>
-      <td>East Coast</td>
-      <td>Around 950,000</td>
-    </tr>
-    <tr>
-      <td>Kollam</td>
-      <td>Kerala</td>
-      <td>West Coast</td>
-      <td>Around 360,000</td>
-    </tr>
-    <tr>
-      <td>Thiruvananthapuram</td>
-      <td>Kerala</td>
-      <td>West Coast</td>
-      <td>Around 950,000</td>
-    </tr>
-    <tr>
-      <td>Vizianagaram</td>
-      <td>Andhra Pradesh</td>
-      <td>East Coast</td>
-      <td>Around 300,000</td>
-    </tr>
-    <tr>
-      <td>Daman and Diu</td>
-      <td>Union Territory</td>
-      <td>West Coast</td>
-      <td>Around 220,000</td>
-    </tr>
-    <tr>
-      <td>Alibag</td>
-      <td>Maharashtra</td>
-      <td>West Coast</td>
-      <td>Around 20,000</td>
-    </tr>
-    <tr>
-      <td>Paradeep</td>
-      <td>Odisha</td>
-      <td>East Coast</td>
-      <td>Around 130,000</td>
-    </tr>
-    <tr>
-      <td>Ratnagiri</td>
-      <td>Maharashtra</td>
-      <td>West Coast</td>
-      <td>Around 76,000</td>
-    </tr>
-    <tr>
-      <td>Karaikal</td>
-      <td>Puducherry</td>
-      <td>East Coast</td>
-      <td>Around 70,000</td>
-    </tr>
-    <tr>
-      <td>Rameswaram</td>
-      <td>Tamil Nadu</td>
-      <td>East Coast</td>
-      <td>Around 40,000</td>
-    </tr>
-    <tr>
-      <td>Surat</td>
-      <td>Gujarat</td>
-      <td>West Coast</td>
-      <td>Around 6 million</td>
-    </tr>
-    <tr>
-      <td>Veraval</td>
-      <td>Gujarat</td>
-      <td>West Coast</td>
-      <td>Around 46,000</td>
-    </tr>
-    <tr>
-      <td>Vengurla</td>
-      <td>Maharashtra</td>
-      <td>West Coast</td>
-      <td>Around 12,000</td>
-    </tr>
-    <tr>
-      <td>Mahabalipuram</td>
-      <td>Tamil Nadu</td>
-      <td>East Coast</td>
-      <td>Around 12,000</td>
-    </tr>
-    <tr>
-      <td>Karwar</td>
-      <td>Karnataka</td>
-      <td>West Coast</td>
-      <td>Around 30,000</td>
-    </tr>
-    <tr>
-      <td>Ganpatipule</td>
-      <td>Maharashtra</td>
-      <td>West Coast</td>
-      <td>Around 2,000</td>
-    </tr>
-    <tr>
-      <td><strong>Total Population</strong></td>
-      <td> </td>
-      <td> </td>
-      <td><strong>Approximately 42.5 million</strong></td>
-    </tr>
-  </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[No matter how I do the math I am coming up with number around 5% of population]]></summary></entry></feed>
+<ul>
+  <li>https://interestingengineering.com/innovation/artificial-neuron-retains-electronic-memories?utm_source=Facebook&amp;utm_medium=content&amp;utm_campaign=organic&amp;utm_content=Jul19</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[A team of researchers has created a prototype artificial neuron that rivals the brain’s immense efficiency. The neuron uses ions, not electrons, to carry information, which is similar to how the brain works. This could lead to the development of more energy-efficient and powerful artificial intelligence systems.]]></summary></entry><entry><title type="html">Do you know about first robot-human press conference ?</title><link href="/2023/07/18/do-you-know-about-first-robot-human-press-conference.html" rel="alternate" type="text/html" title="Do you know about first robot-human press conference ?" /><published>2023-07-18T08:57:00+00:00</published><updated>2023-07-18T08:57:00+00:00</updated><id>/2023/07/18/do-you-know-about-first-robot-human-press-conference</id><content type="html" xml:base="/2023/07/18/do-you-know-about-first-robot-human-press-conference.html"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
