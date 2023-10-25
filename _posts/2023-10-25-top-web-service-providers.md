@@ -8,12 +8,13 @@ date: 2023-10-25 16:31 +0530
 |----------- 	| -------| -------| -------| -------|
 |AWS 	 		| 200 | 1 million requests per month and 400,000 GB-seconds of compute time per month| -------| -------|
 |Azure 	 		| 100 | 1 million requests per month and 400,000 GB-seconds of compute time per month| -------| -------|
-|Cloudflare 	| -------| -------| -------| -------|
+|Zoho 	 		| 20 | 1 million requests per month and 400,000 GB-seconds of compute time per month| -------| -------|
+|Cloudflare 	| 20 | 1 million requests per month and 400,000 GB-seconds of compute time per month| -------| -------|
 |Oracle Cloud 	| -------| -------| -------| -------|
 |Alibaba Cloud 	| -------| -------| -------| -------|
 |Google Cloud/Firebase 	| -------| -------| -------| -------|
 |Google App Engine 	| -------| -------| -------| -------|
-|netlify 		| 2 | -------| 500 Apps < | -------|
+|netlify 		| 2 | -------| 500 Apps < 100GB /month| -------|
 |vercel 		| 2.5 | -------| 3 Apps/github ac| -------|
 |epizy			| -------| -------| -------| -------|
 |appspot 		| -------| -------| -------| -------|
