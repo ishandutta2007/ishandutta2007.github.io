@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-10-25T11:15:53+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Web Service Providers</title><link href="/2023/10/25/top-web-service-providers.html" rel="alternate" type="text/html" title="Top Web Service Providers" /><published>2023-10-25T11:01:00+00:00</published><updated>2023-10-25T11:01:00+00:00</updated><id>/2023/10/25/top-web-service-providers</id><content type="html" xml:base="/2023/10/25/top-web-service-providers.html"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-10-25T13:17:08+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Web Service Providers</title><link href="/2023/10/25/top-web-service-providers.html" rel="alternate" type="text/html" title="Top Web Service Providers" /><published>2023-10-25T11:01:00+00:00</published><updated>2023-10-25T11:01:00+00:00</updated><id>/2023/10/25/top-web-service-providers</id><content type="html" xml:base="/2023/10/25/top-web-service-providers.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>Type</th>
-      <th>Billions of USD</th>
+      <th>Valuation in Billions of USD</th>
       <th>Cloud Function Freetier</th>
       <th>Cloud Hosting Freetier</th>
       <th>Cloud DB Freetier</th>
@@ -11,15 +11,15 @@
   <tbody>
     <tr>
       <td>AWS</td>
-      <td>——-</td>
-      <td>——-</td>
+      <td>200</td>
+      <td>1 million requests per month and 400,000 GB-seconds of compute time per month</td>
       <td>——-</td>
       <td>——-</td>
     </tr>
     <tr>
       <td>Azure</td>
-      <td>——-</td>
-      <td>——-</td>
+      <td>100</td>
+      <td>1 million requests per month and 400,000 GB-seconds of compute time per month</td>
       <td>——-</td>
       <td>——-</td>
     </tr>
@@ -60,16 +60,16 @@
     </tr>
     <tr>
       <td>netlify</td>
+      <td>2</td>
       <td>——-</td>
-      <td>——-</td>
-      <td>——-</td>
+      <td>500 Apps &lt;</td>
       <td>——-</td>
     </tr>
     <tr>
       <td>vercel</td>
+      <td>2.5</td>
       <td>——-</td>
-      <td>——-</td>
-      <td>——-</td>
+      <td>3 Apps/github ac</td>
       <td>——-</td>
     </tr>
     <tr>
@@ -94,7 +94,7 @@
       <td>——-</td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Type Billions of USD Cloud Function Freetier Cloud Hosting Freetier Cloud DB Freetier AWS ——- ——- ——- ——- Azure ——- ——- ——- ——- Cloudflare ——- ——- ——- ——- Oracle Cloud ——- ——- ——- ——- Alibaba Cloud ——- ——- ——- ——- Google Cloud/Firebase ——- ——- ——- ——- Google App Engine ——- ——- ——- ——- netlify ——- ——- ——- ——- vercel ——- ——- ——- ——- epizy ——- ——- ——- ——- appspot ——- ——- ——- ——- herokuapp ——- ——- ——- ——-]]></summary></entry><entry><title type="html">Cost to fine tune GPT4</title><link href="/2023/10/05/cost-to-fine-tune-gpt4.html" rel="alternate" type="text/html" title="Cost to fine tune GPT4" /><published>2023-10-05T08:10:00+00:00</published><updated>2023-10-05T08:10:00+00:00</updated><id>/2023/10/05/cost-to-fine-tune-gpt4</id><content type="html" xml:base="/2023/10/05/cost-to-fine-tune-gpt4.html"><![CDATA[<p>The cost to fine-tune the Palmyra Model can vary depending on several factors, including the size of the dataset, the complexity of the task, and the computational resources required. Fine-tuning a large language model like Palmyra typically requires significant computational power and time.</p>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Type Valuation in Billions of USD Cloud Function Freetier Cloud Hosting Freetier Cloud DB Freetier AWS 200 1 million requests per month and 400,000 GB-seconds of compute time per month ——- ——- Azure 100 1 million requests per month and 400,000 GB-seconds of compute time per month ——- ——- Cloudflare ——- ——- ——- ——- Oracle Cloud ——- ——- ——- ——- Alibaba Cloud ——- ——- ——- ——- Google Cloud/Firebase ——- ——- ——- ——- Google App Engine ——- ——- ——- ——- netlify 2 ——- 500 Apps &lt; ——- vercel 2.5 ——- 3 Apps/github ac ——- epizy ——- ——- ——- ——- appspot ——- ——- ——- ——- herokuapp ——- ——- ——- ——-]]></summary></entry><entry><title type="html">Cost to fine tune GPT4</title><link href="/2023/10/05/cost-to-fine-tune-gpt4.html" rel="alternate" type="text/html" title="Cost to fine tune GPT4" /><published>2023-10-05T08:10:00+00:00</published><updated>2023-10-05T08:10:00+00:00</updated><id>/2023/10/05/cost-to-fine-tune-gpt4</id><content type="html" xml:base="/2023/10/05/cost-to-fine-tune-gpt4.html"><![CDATA[<p>The cost to fine-tune the Palmyra Model can vary depending on several factors, including the size of the dataset, the complexity of the task, and the computational resources required. Fine-tuning a large language model like Palmyra typically requires significant computational power and time.</p>
 
 <p>The cost can be estimated based on the number of GPU hours required for training. Training a model like Palmyra can take weeks or even months, depending on the scale of the task and the available resources. The cost of GPU usage can vary depending on the cloud provider or infrastructure used.</p>
 
