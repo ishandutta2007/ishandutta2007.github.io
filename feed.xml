@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-10-17T07:52:24+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Cost to fine tune GPT4</title><link href="/2023/10/05/cost-to-fine-tune-gpt4.html" rel="alternate" type="text/html" title="Cost to fine tune GPT4" /><published>2023-10-05T08:10:00+00:00</published><updated>2023-10-05T08:10:00+00:00</updated><id>/2023/10/05/cost-to-fine-tune-gpt4</id><content type="html" xml:base="/2023/10/05/cost-to-fine-tune-gpt4.html"><![CDATA[<p>The cost to fine-tune the Palmyra Model can vary depending on several factors, including the size of the dataset, the complexity of the task, and the computational resources required. Fine-tuning a large language model like Palmyra typically requires significant computational power and time.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-10-25T11:05:30+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Web Service Providers</title><link href="/2023/10/25/top-web-service-providers.html" rel="alternate" type="text/html" title="Top Web Service Providers" /><published>2023-10-25T11:01:00+00:00</published><updated>2023-10-25T11:01:00+00:00</updated><id>/2023/10/25/top-web-service-providers</id><content type="html" xml:base="/2023/10/25/top-web-service-providers.html"><![CDATA[<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Billions of USD</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AWS</td>
+      <td>——-</td>
+    </tr>
+    <tr>
+      <td>Azure</td>
+      <td>——-</td>
+    </tr>
+    <tr>
+      <td>Cloudflare</td>
+      <td>——-</td>
+    </tr>
+    <tr>
+      <td>Oracle Cloud</td>
+      <td>——-</td>
+    </tr>
+    <tr>
+      <td>Alibaba Cloud</td>
+      <td>——-</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Type Billions of USD AWS ——- Azure ——- Cloudflare ——- Oracle Cloud ——- Alibaba Cloud ——-]]></summary></entry><entry><title type="html">Cost to fine tune GPT4</title><link href="/2023/10/05/cost-to-fine-tune-gpt4.html" rel="alternate" type="text/html" title="Cost to fine tune GPT4" /><published>2023-10-05T08:10:00+00:00</published><updated>2023-10-05T08:10:00+00:00</updated><id>/2023/10/05/cost-to-fine-tune-gpt4</id><content type="html" xml:base="/2023/10/05/cost-to-fine-tune-gpt4.html"><![CDATA[<p>The cost to fine-tune the Palmyra Model can vary depending on several factors, including the size of the dataset, the complexity of the task, and the computational resources required. Fine-tuning a large language model like Palmyra typically requires significant computational power and time.</p>
 
 <p>The cost can be estimated based on the number of GPU hours required for training. Training a model like Palmyra can take weeks or even months, depending on the scale of the task and the available resources. The cost of GPU usage can vary depending on the cloud provider or infrastructure used.</p>
 
@@ -1569,4 +1598,4 @@
 
 <ul>
   <li>https://interestingengineering.com/innovation/artificial-neuron-retains-electronic-memories?utm_source=Facebook&amp;utm_medium=content&amp;utm_campaign=organic&amp;utm_content=Jul19</li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[A team of researchers has created a prototype artificial neuron that rivals the brain’s immense efficiency. The neuron uses ions, not electrons, to carry information, which is similar to how the brain works. This could lead to the development of more energy-efficient and powerful artificial intelligence systems.]]></summary></entry><entry><title type="html">Do you know about first robot-human press conference ?</title><link href="/2023/07/18/do-you-know-about-first-robot-human-press-conference.html" rel="alternate" type="text/html" title="Do you know about first robot-human press conference ?" /><published>2023-07-18T08:57:00+00:00</published><updated>2023-07-18T08:57:00+00:00</updated><id>/2023/07/18/do-you-know-about-first-robot-human-press-conference</id><content type="html" xml:base="/2023/07/18/do-you-know-about-first-robot-human-press-conference.html"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[A team of researchers has created a prototype artificial neuron that rivals the brain’s immense efficiency. The neuron uses ions, not electrons, to carry information, which is similar to how the brain works. This could lead to the development of more energy-efficient and powerful artificial intelligence systems.]]></summary></entry></feed>
