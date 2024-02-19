@@ -1,4 +1,104 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-10-25T13:24:08+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">Top Web Service Providers</title><link href="/2023/10/25/top-web-service-providers.html" rel="alternate" type="text/html" title="Top Web Service Providers" /><published>2023-10-25T11:01:00+00:00</published><updated>2023-10-25T11:01:00+00:00</updated><id>/2023/10/25/top-web-service-providers</id><content type="html" xml:base="/2023/10/25/top-web-service-providers.html"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-02-19T03:42:43+00:00</updated><id>/feed.xml</id><title type="html">Ishan’s Apps</title><subtitle>Ishan is an Entrepreneur, ex-FAANG with interests in Generative AI, Blockchain, RPA, Chrome Exts..</subtitle><entry><title type="html">G7 vs BRICS talent comparison</title><link href="/2024/02/19/g7-vs-brics-talent-comparison.html" rel="alternate" type="text/html" title="G7 vs BRICS talent comparison" /><published>2024-02-19T02:47:00+00:00</published><updated>2024-02-19T02:47:00+00:00</updated><id>/2024/02/19/g7-vs-brics-talent-comparison</id><content type="html" xml:base="/2024/02/19/g7-vs-brics-talent-comparison.html"><![CDATA[<p>IMO</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Country</th>
+      <th>Gold in Last 10 Contests (updated till 2023)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>China</td>
+      <td>51</td>
+    </tr>
+    <tr>
+      <td>United States</td>
+      <td>46</td>
+    </tr>
+    <tr>
+      <td>South Korea</td>
+      <td>38</td>
+    </tr>
+    <tr>
+      <td>Russia</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>Hungary</td>
+      <td>9</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>IPhO</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Rank</th>
+      <th>Country</th>
+      <th>Gold</th>
+      <th>Silver</th>
+      <th>Bronze</th>
+      <th>Total</th>
+      <th>Honorable mentions</th>
+      <th>Gold in Last 10 Contests (updated till 2023)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>China</td>
+      <td>146</td>
+      <td>21</td>
+      <td>9</td>
+      <td>176</td>
+      <td>2</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>South Korea</td>
+      <td>88</td>
+      <td>27</td>
+      <td>24</td>
+      <td>139</td>
+      <td>7</td>
+      <td>47</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Taiwan</td>
+      <td>80</td>
+      <td>34</td>
+      <td>18</td>
+      <td>132</td>
+      <td>8</td>
+      <td>35</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Russia</td>
+      <td>82</td>
+      <td>46</td>
+      <td>10</td>
+      <td>138</td>
+      <td>4</td>
+      <td>33</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>United States</td>
+      <td>78</td>
+      <td>51</td>
+      <td>29</td>
+      <td>158</td>
+      <td>11</td>
+      <td>32</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[IMO]]></summary></entry><entry><title type="html">Top Web Service Providers</title><link href="/2023/10/25/top-web-service-providers.html" rel="alternate" type="text/html" title="Top Web Service Providers" /><published>2023-10-25T11:01:00+00:00</published><updated>2023-10-25T11:01:00+00:00</updated><id>/2023/10/25/top-web-service-providers</id><content type="html" xml:base="/2023/10/25/top-web-service-providers.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>Type</th>
@@ -1668,8 +1768,4 @@
   </li>
 </ol>
 
-<p>Remember that the technology landscape is continuously evolving, and new tools or integrations might have emerged since my last update. It’s essential to check for the latest updates and documentation from WhatsApp and relevant chatbot platforms or APIs to see if there have been any changes or new possibilities in integrating chatbots with WhatsApp.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[As of my last update in September 2021, it was not possible to directly add Chatbot models like GPT-3 or ChatGPT into WhatsApp. WhatsApp is primarily designed for person-to-person communication and does not have native support for running custom chatbot models.]]></summary></entry><entry><title type="html">Scientists Created an Artificial Neuron That Actually Retains Electronic Memories</title><link href="/2023/07/20/scientists-created-an-artificial-neuron-that-actually-retains-electronic-memories.html" rel="alternate" type="text/html" title="Scientists Created an Artificial Neuron That Actually Retains Electronic Memories" /><published>2023-07-20T17:47:00+00:00</published><updated>2023-07-20T17:47:00+00:00</updated><id>/2023/07/20/scientists-created-an-artificial-neuron-that-actually-retains-electronic-memories</id><content type="html" xml:base="/2023/07/20/scientists-created-an-artificial-neuron-that-actually-retains-electronic-memories.html"><![CDATA[<p>A team of researchers has created a prototype artificial neuron that rivals the brain’s immense efficiency. The neuron uses ions, not electrons, to carry information, which is similar to how the brain works. This could lead to the development of more energy-efficient and powerful artificial intelligence systems.</p>
-
-<ul>
-  <li>https://interestingengineering.com/innovation/artificial-neuron-retains-electronic-memories?utm_source=Facebook&amp;utm_medium=content&amp;utm_campaign=organic&amp;utm_content=Jul19</li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[A team of researchers has created a prototype artificial neuron that rivals the brain’s immense efficiency. The neuron uses ions, not electrons, to carry information, which is similar to how the brain works. This could lead to the development of more energy-efficient and powerful artificial intelligence systems.]]></summary></entry></feed>
+<p>Remember that the technology landscape is continuously evolving, and new tools or integrations might have emerged since my last update. It’s essential to check for the latest updates and documentation from WhatsApp and relevant chatbot platforms or APIs to see if there have been any changes or new possibilities in integrating chatbots with WhatsApp.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[As of my last update in September 2021, it was not possible to directly add Chatbot models like GPT-3 or ChatGPT into WhatsApp. WhatsApp is primarily designed for person-to-person communication and does not have native support for running custom chatbot models.]]></summary></entry></feed>
