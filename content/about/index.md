@@ -22,7 +22,7 @@ interesting or had the most trouble articulating.
 
 - Read my [blog posts](/blog).
 - View my projects [here](/works) or on [my GitHub](//github.com/ishandutta2007).
-- My setup and programs are available on [my dotfiles](//github.com/ziap/dotfiles).
+- My setup and programs are available on [my dotfiles](//github.com/ishandutta2007/dotfiles).
 
 </div>
 

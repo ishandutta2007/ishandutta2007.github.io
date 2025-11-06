@@ -95,7 +95,7 @@ appealing to me.
     </figcaption>
 </figure>
 
-Eventually, I settled to the [setup](//github.com/ziap/dotfiles) that I used to
+Eventually, I settled to the [setup](//github.com/ishandutta2007/dotfiles) that I used to
 this day. It was configured from the ground up, gives me lots of control and
 feels lightweight and fast. At this point, I have learned a bit about
 programming and was comfortable with text-based configuration. This type of
