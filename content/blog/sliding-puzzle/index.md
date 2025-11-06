@@ -33,7 +33,7 @@ embarked on a journey to solve this puzzle. It turns out that the challenge was
 more than just a priority queue, so this post documents the process of
 designing and implementing the solver. Before reading on, I recommend trying
 out the final result hosted as a website:
-<https://ziap.github.io/sliding-puzzle>.
+<https://ishandutta2007.github.io/sliding-puzzle>.
 
 # Tech stack
 
@@ -292,7 +292,7 @@ small.
 # Conclusion
 
 That's all there is to how I created a solver for the 15-puzzle. If you haven't
-already, check it out [here](//ziap.github.io/sliding-puzzle). This has been a
+already, check it out [here](//ishandutta2007.github.io/sliding-puzzle). This has been a
 fun journey, and I haven't even gone in depth into how Zig made it so much more
 enjoyable (especially for programming the pattern database heuristic). I
 glossed over many parts of the process, because I think that either those are

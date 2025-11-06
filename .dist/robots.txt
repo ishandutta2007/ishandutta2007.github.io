@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://ziap.github.io/sitemap.xml
+Sitemap: https://ishandutta2007.github.io/sitemap.xml

@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Zap&#x27;s website</title>
-      <link>https://ziap.github.io</link>
+      <link>https://ishandutta2007.github.io</link>
       <description>Bui Huy Giap&#x27;s personal website and blog</description>
       <generator>Zola</generator>
       <language>en</language>
-      <atom:link href="https://ziap.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://ishandutta2007.github.io/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate>
       <item>
           <title>Fast BPE tokenizer - Overview and arena allocated decoding</title>
           <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
           <author>Zap</author>
-          <link>https://ziap.github.io/blog/bpe-1/</link>
-          <guid>https://ziap.github.io/blog/bpe-1/</guid>
-          <description xml:base="https://ziap.github.io/blog/bpe-1/">&lt;p&gt;This is the first entry of a series of articles about designing an efficient
+          <link>https://ishandutta2007.github.io/blog/bpe-1/</link>
+          <guid>https://ishandutta2007.github.io/blog/bpe-1/</guid>
+          <description xml:base="https://ishandutta2007.github.io/blog/bpe-1/">&lt;p&gt;This is the first entry of a series of articles about designing an efficient
 byte pair encoder (BPE) tokenizer. The tokenized text is then used to train an
 n-gram model for the task of synthesizing placeholder text. These articles are
 for sharing the design decisions and optimization techniques I applied. For the
@@ -26,9 +26,9 @@ efficient decoder implementation.&lt;&#x2F;p&gt;
           <title>Struct of Arrays (SoA) in TypeScript with metaprogramming</title>
           <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
           <author>Zap</author>
-          <link>https://ziap.github.io/blog/parallel-array/</link>
-          <guid>https://ziap.github.io/blog/parallel-array/</guid>
-          <description xml:base="https://ziap.github.io/blog/parallel-array/">&lt;p&gt;Struct of Arrays (SoA) is the bread and butter and textbook example of
+          <link>https://ishandutta2007.github.io/blog/parallel-array/</link>
+          <guid>https://ishandutta2007.github.io/blog/parallel-array/</guid>
+          <description xml:base="https://ishandutta2007.github.io/blog/parallel-array/">&lt;p&gt;Struct of Arrays (SoA) is the bread and butter and textbook example of
 &lt;a href=&quot;&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Data-oriented_design&quot;&gt;Data-oriented design&lt;&#x2F;a&gt;. It’s
 mostly popular in &lt;a href=&quot;&#x2F;&#x2F;unity.com&#x2F;dots&quot;&gt;game development&lt;&#x2F;a&gt; due to enhanced
 performance in many gamedev specific operations. You might also encounter SoAs
@@ -43,9 +43,9 @@ for trying out TypeScript’s type-level metaprogramming.&lt;&#x2F;p&gt;
           <title>Implementing a 64-bit Pseudo-random number generator</title>
           <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
           <author>Zap</author>
-          <link>https://ziap.github.io/blog/prng/</link>
-          <guid>https://ziap.github.io/blog/prng/</guid>
-          <description xml:base="https://ziap.github.io/blog/prng/">&lt;p&gt;Let’s face it, determinism is boring. I’ve been using Pseudo-random number
+          <link>https://ishandutta2007.github.io/blog/prng/</link>
+          <guid>https://ishandutta2007.github.io/blog/prng/</guid>
+          <description xml:base="https://ishandutta2007.github.io/blog/prng/">&lt;p&gt;Let’s face it, determinism is boring. I’ve been using Pseudo-random number
 generators (PRNGs) for as long as I can remember. My usual PRNG is PCG-32 with
 a fixed increment, but it’s time for me to pick a larger PRNG for 64-bit output
 and multithreaded generation.&lt;&#x2F;p&gt;
@@ -55,9 +55,9 @@ and multithreaded generation.&lt;&#x2F;p&gt;
           <title>Writing a 15-puzzle solver</title>
           <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
           <author>Zap</author>
-          <link>https://ziap.github.io/blog/sliding-puzzle/</link>
-          <guid>https://ziap.github.io/blog/sliding-puzzle/</guid>
-          <description xml:base="https://ziap.github.io/blog/sliding-puzzle/">&lt;p&gt;In computer science, the problems that captivate me the most are the ones that
+          <link>https://ishandutta2007.github.io/blog/sliding-puzzle/</link>
+          <guid>https://ishandutta2007.github.io/blog/sliding-puzzle/</guid>
+          <description xml:base="https://ishandutta2007.github.io/blog/sliding-puzzle/">&lt;p&gt;In computer science, the problems that captivate me the most are the ones that
 are just a bit more difficult to optimally solve with current hardware
 limitations. They often require careful engineering and strategic trade-off
 considerations to come up with suboptimal, but good-enough solutions.&lt;&#x2F;p&gt;
@@ -73,9 +73,9 @@ random instances pretty quickly.&lt;&#x2F;p&gt;
           <title>Setting up a reproducible cross-compiling environment in NixOS</title>
           <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
           <author>Zap</author>
-          <link>https://ziap.github.io/blog/nixos-cross-compilation/</link>
-          <guid>https://ziap.github.io/blog/nixos-cross-compilation/</guid>
-          <description xml:base="https://ziap.github.io/blog/nixos-cross-compilation/">&lt;p&gt;NixOS makes it very hard to run dynamically linked application, to the point
+          <link>https://ishandutta2007.github.io/blog/nixos-cross-compilation/</link>
+          <guid>https://ishandutta2007.github.io/blog/nixos-cross-compilation/</guid>
+          <description xml:base="https://ishandutta2007.github.io/blog/nixos-cross-compilation/">&lt;p&gt;NixOS makes it very hard to run dynamically linked application, to the point
 where packaging is the path of least resistance. I don’t consider this a
 problem of NixOS, but rather a problem of dynamic linking. This is why when I
 distribute a compiled application to a NixOS system, I usually do one of the
@@ -92,9 +92,9 @@ article documents my process of setting that up for Rust, Zig, C, and C++.&lt;&#
           <title>What I learned in 2024</title>
           <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
           <author>Zap</author>
-          <link>https://ziap.github.io/blog/2024-wrap-up/</link>
-          <guid>https://ziap.github.io/blog/2024-wrap-up/</guid>
-          <description xml:base="https://ziap.github.io/blog/2024-wrap-up/">&lt;p&gt;Usually, people write this kind of post somewhere at the end of the year. But I
+          <link>https://ishandutta2007.github.io/blog/2024-wrap-up/</link>
+          <guid>https://ishandutta2007.github.io/blog/2024-wrap-up/</guid>
+          <description xml:base="https://ishandutta2007.github.io/blog/2024-wrap-up/">&lt;p&gt;Usually, people write this kind of post somewhere at the end of the year. But I
 had another deadline and haven’t collected my thoughts yet, so this post came
 quite late. Nonetheless, I really wanted to look back at 2024 because it’s been
 quite an interesting year for me.&lt;&#x2F;p&gt;
@@ -104,9 +104,9 @@ quite an interesting year for me.&lt;&#x2F;p&gt;
           <title>My desktop customization journey</title>
           <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
           <author>Zap</author>
-          <link>https://ziap.github.io/blog/customization/</link>
-          <guid>https://ziap.github.io/blog/customization/</guid>
-          <description xml:base="https://ziap.github.io/blog/customization/">&lt;p&gt;I’m a massive tinkerer, I love breaking things to see why it broke and how to
+          <link>https://ishandutta2007.github.io/blog/customization/</link>
+          <guid>https://ishandutta2007.github.io/blog/customization/</guid>
+          <description xml:base="https://ishandutta2007.github.io/blog/customization/">&lt;p&gt;I’m a massive tinkerer, I love breaking things to see why it broke and how to
 fix them. I prefer breaking software because if it goes too far, I can just
 reinstall everything. It was a great learning experience, and I’m glad that I
 had the time and opportunity to do it. As I grow up, messing with software is
@@ -118,9 +118,9 @@ my workflow, to be more in tune with technology.&lt;&#x2F;p&gt;
           <title>String matching with compile time hash tables</title>
           <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
           <author>Zap</author>
-          <link>https://ziap.github.io/blog/string-matching/</link>
-          <guid>https://ziap.github.io/blog/string-matching/</guid>
-          <description xml:base="https://ziap.github.io/blog/string-matching/">&lt;p&gt;I use switch statements a lot in C and even C++. The syntax sucks, but the
+          <link>https://ishandutta2007.github.io/blog/string-matching/</link>
+          <guid>https://ishandutta2007.github.io/blog/string-matching/</guid>
+          <description xml:base="https://ishandutta2007.github.io/blog/string-matching/">&lt;p&gt;I use switch statements a lot in C and even C++. The syntax sucks, but the
 alternatives are either too verbose (table of function pointers) or don’t
 express the intention well (if-else chain). It was sad, but I accepted long ago
 that switch statements only work on numeric types and usually use the
@@ -133,9 +133,9 @@ solution for it.&lt;&#x2F;p&gt;
           <title>Approximating sin(2πx)</title>
           <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
           <author>Zap</author>
-          <link>https://ziap.github.io/blog/sin-approx/</link>
-          <guid>https://ziap.github.io/blog/sin-approx/</guid>
-          <description xml:base="https://ziap.github.io/blog/sin-approx/">&lt;p&gt;I use trigonometric functions extremely often, ever since I started doing
+          <link>https://ishandutta2007.github.io/blog/sin-approx/</link>
+          <guid>https://ishandutta2007.github.io/blog/sin-approx/</guid>
+          <description xml:base="https://ishandutta2007.github.io/blog/sin-approx/">&lt;p&gt;I use trigonometric functions extremely often, ever since I started doing
 programming. They show up everywhere, especially in graphics, and while they’re
 not the most efficient operation, they are widely available in programming
 languages. This is not the case if you’re programming in embedded systems or
@@ -146,9 +146,9 @@ languages. This is not the case if you’re programming in embedded systems or
           <title>Introduction to freestanding WebAssembly</title>
           <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
           <author>Zap</author>
-          <link>https://ziap.github.io/blog/wasm/</link>
-          <guid>https://ziap.github.io/blog/wasm/</guid>
-          <description xml:base="https://ziap.github.io/blog/wasm/">&lt;p&gt;I’ve been using WebAssembly (WASM) for quite a while, and the learning
+          <link>https://ishandutta2007.github.io/blog/wasm/</link>
+          <guid>https://ishandutta2007.github.io/blog/wasm/</guid>
+          <description xml:base="https://ishandutta2007.github.io/blog/wasm/">&lt;p&gt;I’ve been using WebAssembly (WASM) for quite a while, and the learning
 resources are sparse and incomplete. This is especially true for freestanding
 WASM, or using WASM directly without using tools that make interacting with the
 web easier. This is an attempt for me to reflect on what I discovered and
@@ -160,9 +160,9 @@ programming and web development.&lt;&#x2F;p&gt;
           <title>I switched to Fish as my interactive shell</title>
           <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
           <author>Zap</author>
-          <link>https://ziap.github.io/blog/fish-shell/</link>
-          <guid>https://ziap.github.io/blog/fish-shell/</guid>
-          <description xml:base="https://ziap.github.io/blog/fish-shell/">&lt;p&gt;ZSH has been my shell of choice since I started my command-line-centric
+          <link>https://ishandutta2007.github.io/blog/fish-shell/</link>
+          <guid>https://ishandutta2007.github.io/blog/fish-shell/</guid>
+          <description xml:base="https://ishandutta2007.github.io/blog/fish-shell/">&lt;p&gt;ZSH has been my shell of choice since I started my command-line-centric
 workflow. It’s a popular shell with a &lt;a href=&quot;&#x2F;&#x2F;github.com&#x2F;zsh-users&quot;&gt;large&lt;&#x2F;a&gt;
 &lt;a href=&quot;&#x2F;&#x2F;ohmyz.sh&#x2F;&quot;&gt;community&lt;&#x2F;a&gt; and an unprecedented level of customizability. ZSH is
 also POSIX-compliant, which was very important to me for some reason. However,
@@ -174,9 +174,9 @@ this is why.&lt;&#x2F;p&gt;
           <title>My personal strategies for arena allocation</title>
           <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
           <author>Zap</author>
-          <link>https://ziap.github.io/blog/arena/</link>
-          <guid>https://ziap.github.io/blog/arena/</guid>
-          <description xml:base="https://ziap.github.io/blog/arena/">&lt;p&gt;A drawback that people often mention when programming in C is the lack of RAII.
+          <link>https://ishandutta2007.github.io/blog/arena/</link>
+          <guid>https://ishandutta2007.github.io/blog/arena/</guid>
+          <description xml:base="https://ishandutta2007.github.io/blog/arena/">&lt;p&gt;A drawback that people often mention when programming in C is the lack of RAII.
 This is sometimes good as it causes me to avoid small, random allocations and
 incentivize grouping data into large, contiguous memory regions to make them
 faster and more manageable. However, small, random allocations are sometimes
@@ -189,9 +189,9 @@ this is where the “arena” allocator comes in.&lt;&#x2F;p&gt;
           <title>A game I made as a course project</title>
           <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
           <author>Zap</author>
-          <link>https://ziap.github.io/blog/programming-techniques-project/</link>
-          <guid>https://ziap.github.io/blog/programming-techniques-project/</guid>
-          <description xml:base="https://ziap.github.io/blog/programming-techniques-project/">&lt;p&gt;I recently programmed a large chunk of the game from scratch for a university
+          <link>https://ishandutta2007.github.io/blog/programming-techniques-project/</link>
+          <guid>https://ishandutta2007.github.io/blog/programming-techniques-project/</guid>
+          <description xml:base="https://ishandutta2007.github.io/blog/programming-techniques-project/">&lt;p&gt;I recently programmed a large chunk of the game from scratch for a university
 course project. This is one of a few projects that I delivered with enough
 quality and presentability. So I wanted to document my process of making it,
 what I learned, and how I applied my knowledge from and outside the course.&lt;&#x2F;p&gt;
@@ -201,9 +201,9 @@ what I learned, and how I applied my knowledge from and outside the course.&lt;&
           <title>Easy, efficient, and practical queue implementation</title>
           <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
           <author>Zap</author>
-          <link>https://ziap.github.io/blog/queue/</link>
-          <guid>https://ziap.github.io/blog/queue/</guid>
-          <description xml:base="https://ziap.github.io/blog/queue/">&lt;p&gt;From breadth-first search to task scheduling, queues are extremely useful in
+          <link>https://ishandutta2007.github.io/blog/queue/</link>
+          <guid>https://ishandutta2007.github.io/blog/queue/</guid>
+          <description xml:base="https://ishandutta2007.github.io/blog/queue/">&lt;p&gt;From breadth-first search to task scheduling, queues are extremely useful in
 computer programming. Although &lt;a href=&quot;&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Double-ended_queue#Operations&quot;&gt;many programming
 languages&lt;&#x2F;a&gt; support them,
 I think that it’s important to understand and know how to implement them. I
@@ -216,9 +216,9 @@ JavaScript doesn’t have an efficient queue implementation.&lt;&#x2F;p&gt;
           <title>A faster, more flexible alternative to run-time polymorphism in C++ feat. Rust</title>
           <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
           <author>Zap</author>
-          <link>https://ziap.github.io/blog/polymorphism/</link>
-          <guid>https://ziap.github.io/blog/polymorphism/</guid>
-          <description xml:base="https://ziap.github.io/blog/polymorphism/">&lt;p&gt;When I first heard about run-time polymorphism in C++ using virtual methods, my
+          <link>https://ishandutta2007.github.io/blog/polymorphism/</link>
+          <guid>https://ishandutta2007.github.io/blog/polymorphism/</guid>
+          <description xml:base="https://ishandutta2007.github.io/blog/polymorphism/">&lt;p&gt;When I first heard about run-time polymorphism in C++ using virtual methods, my
 first thoughts were like, “This is cool and all, but why would I ever use
 this?” Then I continued to ignore it because I could always just work around it
 instead of using it. Until recently, my college lecturer told me that using
@@ -231,9 +231,9 @@ polymorphism is, and why I still think that I don’t need it.&lt;&#x2F;p&gt;
           <title>Rewriting my website and starting a blog</title>
           <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
           <author>Zap</author>
-          <link>https://ziap.github.io/blog/new-website/</link>
-          <guid>https://ziap.github.io/blog/new-website/</guid>
-          <description xml:base="https://ziap.github.io/blog/new-website/">&lt;p&gt;I already have a website hosted on GitHub pages. It was built around 2 years
+          <link>https://ishandutta2007.github.io/blog/new-website/</link>
+          <guid>https://ishandutta2007.github.io/blog/new-website/</guid>
+          <description xml:base="https://ishandutta2007.github.io/blog/new-website/">&lt;p&gt;I already have a website hosted on GitHub pages. It was built around 2 years
 ago as a way to quickly browse and access my web projects. Basically, it was
 just a grid of project thumbnails, which is pretty boring. During the last 2
 years, I changed bits and pieces of it, but it’s still the same boring layout

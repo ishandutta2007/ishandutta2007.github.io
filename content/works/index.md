@@ -11,4 +11,4 @@ new concepts and techniques.
 
 {{ projects() }}
 
-For more of my projects, check out my [GitHub](//github.com/ziap).
+For more of my projects, check out my [GitHub](//github.com/ishandutta2007).
