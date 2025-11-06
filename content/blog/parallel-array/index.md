@@ -787,7 +787,7 @@ We'll test the following operations:
 I tested with 1 million random items. For the read tests, I tested both random
 access and sequential access patterns. For more information about the test
 procedure, take a look at the [benchmark
-file](//github.com/ziap/parallel-array/blob/master/src/bench.ts).
+file](//github.com/ishandutta2007/parallel-array/blob/master/src/bench.ts).
 
 | Benchmark                | Array of Objects (AoS) | Parallel Array (SoA) | Difference |
 | ------------------------ | ---------------------- | -------------------- | ---------- | 
@@ -822,4 +822,4 @@ metaprogramming for constructing types on the fly, and there's the challenge of
 balancing between convenience and abstraction overhead. In the next articles,
 I'll write about using this data representation to optimize two problems: a
 typical game/simulation scenario and a state-space search algorithm. The full
-implementation is available [here](//github.com/ziap/parallel-array/).
+implementation is available [here](//github.com/ishandutta2007/parallel-array/).

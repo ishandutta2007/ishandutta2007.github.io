@@ -504,7 +504,7 @@ with 128 bits of state the output's period is less than 2^64. Also, it was
 
 I’m not saying by any means that the FMC-256 is perfect, but it strikes a good
 balance for what I want need from a PRNG. The full source code is available
-[here](//github.com/ziap/fmc-prng), but if you need a small C version, here it
+[here](//github.com/ishandutta2007/fmc-prng), but if you need a small C version, here it
 is:
 
 ```c

@@ -39,7 +39,7 @@ linked Linux binaries.
 # Rust
 
 Let's start with Rust, I wrote and cross-compiled [a web
-server](//github.com/ziap/ninja) a while ago on a "normal" Linux distribution
+server](//github.com/ishandutta2007/ninja) a while ago on a "normal" Linux distribution
 (Fedora), so I have a rough idea on how to perform cross-compilation with Rust:
 
 - Install the system packages required for cross-compiling to your target
@@ -489,7 +489,7 @@ fact that they managed to pull this off is baffling to be. This means that we
 can just use our Zig environment for C and C++ development. The build script is
 different, but it's project-dependent anyway, so I won't show it here.
 
-If you want an example project, here's [one](//github.com/ziap/svgv). Although
+If you want an example project, here's [one](//github.com/ishandutta2007/svgv). Although
 the project requires Gdi+, I can comfortably develop it on Linux, run it with
 Wine or send it to my Windows VM. There was no `flake.nix` because I used to
 just create an ad-hoc shell every time I need Wine and the Zig compiler.
