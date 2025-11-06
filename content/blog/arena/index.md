@@ -229,4 +229,4 @@ useful. I'm still experimenting with this method to see if it's stable and
 actually reduces the complexity of memory management.
 
 **Edit:** The allocator's implementation is available
-[here](//github.com/ziap/arena).
+[here](//github.com/ishandutta2007/arena).
