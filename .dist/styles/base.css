@@ -1,0 +1,84 @@
+*, ::before, ::after {
+  box-sizing: border-box;
+}
+
+:root {
+  --body-width: 1120px;
+  --accent-color: #1aa8f4;
+  --secondary-color: #033451;
+  --text-color: #363a3e;
+  --bg-color1: #a3d2f4;
+  --bg-color2: #e8eef4;
+  --accent-hover-color: #0784c3;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: clamp(1rem, 0.8rem + 1vw, 1.5rem);
+  color: var(--text-color);
+  line-height: 1.5;
+}
+
+/*
+  Fallback system font stack selected from:
+  - <https://tailwindcss.com/docs/font-family>
+  - <https://modernfontstacks.com>
+*/
+
+body {
+  font-family: "Open Sans", ui-sans-serif, system-ui, Inter, Roboto, "Helvetica Neue", "Arial Nova", "Nimbus Sans", Arial, sans-serif;
+  font-weight: 400;
+}
+
+pre, code {
+  font-family: "Fira Code",ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-weight: 500;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Merriweather Sans", Seravek, "Gill Sans Nova", Ubuntu, Calibri, "DejaVu Sans", source-sans-pro, sans-serif; 
+  font-weight: 700;
+}
+
+strong, b {
+  font-weight: 700;
+}
+
+@media print {
+  html {
+    font-size: 1rem;
+  }
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  color: var(--text-color);
+  text-decoration: underline 0.125rem var(--accent-color);
+}
+
+ul, ol {
+  padding-left: 1.25rem;
+}
+
+.container {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.content {
+  width: 100%;
+  flex: 1;
+}
+
+.title {
+  color: var(--secondary-color);
+  font-size: 2rem;
+  margin: 1rem 0 0 0;
+}

@@ -1,0 +1,3 @@
+.dist/** linguist-generated
+static/styles/fonts.css linguist-vendored
+static/fonts/** linguist-vendored

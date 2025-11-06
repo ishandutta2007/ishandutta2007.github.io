@@ -1,0 +1,44 @@
+{% macro icon(name) %}
+  {{ load_data(path="assets/icons/" ~ name ~ ".svg") | safe }}
+{% endmacro %}
+
+{% macro reading_time(word_count) %}
+  {% set wpm = config.extra.reading_speed %}
+  {% set time = word_count / wpm | round(method="ceil") %}
+
+  <abbr title="{{word_count}} words">
+    {{ time }}
+    {% if time == 1 %}
+      minute
+    {% else %}
+      minutes
+    {% endif %}
+    read
+  </abbr>
+{% endmacro %}
+
+{% macro post_header(page, link=false) %}
+  <header class="post-header">
+    {% if link %}
+      <a href="{{ page.permalink }}" class="post-header__link">
+    {% endif %}
+    <h1 class="post-header__title title">{{ page.title }}</h1>
+    {% if link %}
+      </a>
+    {% endif %}
+    {% if page.date %}
+      <div class="post-header__meta">
+        <div class="post-header__data">
+          {{ macros::icon(name="calendar") }}
+          {{ page.date | date(format="%a, %b %d %Y") }}
+        </div>
+
+        <div class="post-header__data">
+          {{ self::icon(name="clock") }}
+          {{ self::reading_time(word_count=page.word_count) }}
+        </div>
+      </div>
+    {% endif %}
+  </header>
+{% endmacro %}
+

@@ -1,0 +1,100 @@
+{% extends "base.html" %}
+
+{% import "macros.html" as macros %}
+
+{# Disable sticky navigation bar #}
+{% block navigation %}
+{% endblock %}
+
+{% block head %}
+  <link rel="stylesheet" href="/styles/home/intro.css">
+  <link rel="stylesheet" href="/styles/home/works.css">
+  <link rel="stylesheet" href="/styles/home/posts.css">
+  <script type="module" src="/js/slider.js"></script>
+{% endblock %}
+
+{% block content %}
+  <div class="intro__bg">
+    <div class="intro__container">
+      {% include "nav-content.html" %}
+
+      <section class="intro">
+        <div class="intro__left">
+          <h1 class="title">Hi, I&rsquo;m Zap</h1>
+          <p>I work with graphics, AI, web technologies, and performance.</p>
+
+          <p>This website is where I share things that I'm interested in, mostly but not exclusively, about the topics above.</p>
+
+          <div class="intro__cta__container">
+            <a class="intro__cta intro__cta2" href="#posts">My blog {{ macros::icon(name="pen") }}</a>
+            <a class="intro__cta intro__cta1" href="#works">My projects {{ macros::icon(name="tools") }}</a>
+          </div>
+        </div>
+
+        <div class="intro__right">
+          {% for _ in range(end=8) %}
+            <div class="intro__tile__container">
+              <div class="intro__tile"></div>
+            </div>
+          {% endfor %}
+          <div class="intro__tile__container"></div>
+          {{ load_data(path="assets/home/blob.svg") | safe }}
+        </div>
+      </section>
+
+    </div>
+  </div>
+
+  {{ load_data(path="assets/home/split1.svg") | safe }}
+  <div class="works__bg">
+    <section id="works">
+      <header class="works__header">
+        <h2 class="works__title">Recent works</h2>
+        <a href="/works" class="works__link">All works {{ macros::icon(name="arrow") }}</a>
+      </header>
+      <div class="works__card__container">
+        {% set works = load_data(path="projects.toml") %}
+        {% for work in works.projects | filter(attribute="web_demo") | slice(end=3) %}
+          <div class="works__card">
+            <div class="works__card__desc">
+            <img class="works__card__img" src="/images/projects/{{ work.id }}.png" alt="Preview of the {{ work.name }} project">
+              <h3>{{ work.name }}</h3>
+              {{ work.description | markdown | safe }}
+            </div>
+            <div class="works__card__menu">
+              <a class="works__card__btn" href="//github.com/ziap/{{ work.id }}">
+                Code {{ macros::icon(name="github") }}
+              </a>
+              <a class="works__card__btn" href="//ziap.github.io/{{ work.id }}">
+                Demo {{ macros::icon(name="play") }}
+              </a>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </section>
+  </div>
+  {{ load_data(path="assets/home/split2.svg") | safe }}
+
+  <div class="posts__bg">
+    {# Add tags #}
+    <section id="posts">
+      <h2 class="posts__title">Latest posts</h2>
+        
+      {% set section = get_section(path="blog/_index.md") %}
+      <ul class="posts__list">
+        {% for post in section.pages | slice(end=4) %}
+          <li>
+            <div>{{ post.date | date(format="%b %d, %Y") }}</div>
+            <a href="{{ post.permalink }}">
+              <h3 class="posts__item__title">{{ post.title }}</h3>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+
+      <a href="/blog" class="posts__link">All posts {{ macros::icon(name="arrow") }}</a>
+    </section>
+  </div>
+
+{% endblock %}

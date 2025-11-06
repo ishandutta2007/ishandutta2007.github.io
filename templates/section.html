@@ -1,0 +1,26 @@
+{% import "macros.html" as macros %}
+
+{% extends "base.html" %}
+
+{% block head %}
+  <link rel="stylesheet" href="/styles/section.css">
+  <link rel="stylesheet" href="/styles/page.css">
+{% endblock %}
+
+{% block content %}
+  <div class="posts">
+    {% for post in section.pages %}
+      <div class="post">
+        {{ macros::post_header(page=post, link=true) }}
+
+        <article class="content__body">
+          {{ post.summary | safe }}
+        </article>
+
+        <a class="post__read-more" href="{{ post.permalink | safe }}">Read more {{ macros::icon(name="arrow") }}</a>
+      </div>
+    {% endfor %}
+  </div>
+
+  {# TODO: Add pagination #}
+{% endblock %}

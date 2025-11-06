@@ -1,0 +1,287 @@
+<!doctype html><html lang=en><head><meta charset=UTF-8><meta content="width=device-width,initial-scale=1.0" name=viewport><meta content="Bui Huy Giap's personal website and blog" name=description><link rel="shortcut icon" href=/images/favicon.ico type=image/x-icon><title>
+      
+        
+          String matching with compile time hash tables | Zap's website
+        
+      
+    </title><link href=/styles/fonts.css rel=stylesheet><style>h1{font-size:1.682rem}h2{font-size:1.414rem}h3{font-size:1.189rem}h4{font-size:1rem}h5{font-size:.841rem}h6{font-size:.707rem}</style><link href=/styles/base.css rel=stylesheet><link href=/styles/nav.css rel=stylesheet><link href=/styles/footer.css rel=stylesheet><link href=/rss.xml rel=alternate title=RSS type=application/rss+xml><link href=/styles/page.css rel=stylesheet><body><div class=nav__bg><div class=nav__container><nav class=nav><h3 class=nav__title><a class=nav__title__link href=/>Zap</a></h3><ul class=nav__links><li><a class=nav__link href=/works>Works</a><li><a class=nav__link href=/blog>Blog</a><li><a class=nav__link href=/about>About</a></ul></nav></div></div><div class=container><main class=content><header class=post-header><h1 class="post-header__title title">String matching with compile time hash tables</h1><div class=post-header__meta><div class=post-header__data><svg viewbox="0 0 448 512" height=1em xmlns=http://www.w3.org/2000/svg><path d="M128 0c17.7 0 32 14.3 32 32V64H288V32c0-17.7 14.3-32 32-32s32 14.3 32 32V64h48c26.5 0 48 21.5 48 48v48H0V112C0 85.5 21.5 64 48 64H96V32c0-17.7 14.3-32 32-32zM0 192H448V464c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V192zm64 80v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V272c0-8.8-7.2-16-16-16H80c-8.8 0-16 7.2-16 16zm128 0v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V272c0-8.8-7.2-16-16-16H208c-8.8 0-16 7.2-16 16zm144-16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V272c0-8.8-7.2-16-16-16H336zM64 400v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V400c0-8.8-7.2-16-16-16H80c-8.8 0-16 7.2-16 16zm144-16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V400c0-8.8-7.2-16-16-16H208zm112 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V400c0-8.8-7.2-16-16-16H336c-8.8 0-16 7.2-16 16z"/></svg> Fri, Nov 29 2024</div><div class=post-header__data><svg viewbox="0 0 512 512" height=1em xmlns=http://www.w3.org/2000/svg><path d="M256 0a256 256 0 1 1 0 512A256 256 0 1 1 256 0zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z"/></svg><abbr title="1667 words"> 7 minutes read </abbr></div></div></header><article class=content__body><p>I use switch statements a lot in C and even C++. The syntax sucks, but the alternatives are either too verbose (table of function pointers) or don’t express the intention well (if-else chain). It was sad, but I accepted long ago that switch statements only work on numeric types and usually use the alternatives on strings and arrays. But switching on a string has become a common operation for me, and I recently ended up with a reasonably good solution for it.</p><span id=continue-reading></span><h1 id=the-problem>The problem</h1><p>Suppose we need to run some code based on the current weekday. We actually have two problems: representing the weekday and performing matching on the representation. The most straightforward way to do this is to use strings to represent weekdays and use one of the switch statement alternatives that I mentioned above. For example:<pre class=language-cpp data-lang=cpp style=color:#dcdfe4;background-color:#282c34><code class=language-cpp data-lang=cpp><span>std::string current_weekday </span><span style=color:#c678dd>= </span><span style=color:#98c379>"monday"</span><span>;
+</span><span>
+</span><span style=color:#5c6370>// if-else chain
+</span><span style=color:#c678dd>if </span><span>(current_weekday </span><span style=color:#c678dd>== </span><span style=color:#98c379>"monday"</span><span>) {
+</span><span>    </span><span style=color:#e06c75>process_monday</span><span>();
+</span><span>} </span><span style=color:#c678dd>else if </span><span>(current_weekday </span><span style=color:#c678dd>== </span><span style=color:#98c379>"tuesday"</span><span>) {
+</span><span>    </span><span style=color:#e06c75>process_tuesday</span><span>();
+</span><span>} </span><span style=color:#c678dd>else if </span><span>(current_weekday </span><span style=color:#c678dd>== </span><span style=color:#98c379>"wednesday"</span><span>) {
+</span><span>    </span><span style=color:#e06c75>process_wednesday</span><span>();
+</span><span>} </span><span style=color:#c678dd>else if </span><span>(current_weekday </span><span style=color:#c678dd>== </span><span style=color:#98c379>"thursday"</span><span>) {
+</span><span>    </span><span style=color:#e06c75>process_thursday</span><span>();
+</span><span>} </span><span style=color:#c678dd>else if </span><span>(current_weekday </span><span style=color:#c678dd>== </span><span style=color:#98c379>"friday"</span><span>) {
+</span><span>    </span><span style=color:#e06c75>process_friday</span><span>();
+</span><span>} </span><span style=color:#c678dd>else if </span><span>(current_weekday </span><span style=color:#c678dd>== </span><span style=color:#98c379>"saturday"</span><span>) {
+</span><span>    </span><span style=color:#e06c75>process_saturday</span><span>();
+</span><span>} </span><span style=color:#c678dd>else if </span><span>(current_weekday </span><span style=color:#c678dd>== </span><span style=color:#98c379>"sunday"</span><span>) {
+</span><span>    </span><span style=color:#e06c75>process_sunday</span><span>();
+</span><span>} </span><span style=color:#c678dd>else </span><span>{
+</span><span>    </span><span style=color:#61afef>fprintf</span><span>(stderr, </span><span style=color:#98c379>"Invalid weekday: `</span><span style=color:#e5c07b>%s</span><span style=color:#98c379>`</span><span style=color:#56b6c2>\n</span><span style=color:#98c379>"</span><span>, current_weekday);
+</span><span>}
+</span><span>
+</span><span style=color:#5c6370>// table of function pointers
+</span><span style=color:#c678dd>using </span><span>WeekdayMap </span><span style=color:#c678dd>=</span><span> std::unordered_map&LTstd::string_view, </span><span style=color:#c678dd>void</span><span> process(</span><span style=color:#c678dd>void</span><span>)>;
+</span><span>WeekdayMap weekday_map {
+</span><span>    {</span><span style=color:#98c379>"monday"</span><span>, process_monday},
+</span><span>    {</span><span style=color:#98c379>"tuesday"</span><span>, process_tuesday},
+</span><span>    {</span><span style=color:#98c379>"wednesday"</span><span>, process_wednesday},
+</span><span>    {</span><span style=color:#98c379>"thursday"</span><span>, process_thursday},
+</span><span>    {</span><span style=color:#98c379>"friday"</span><span>, process_friday},
+</span><span>    {</span><span style=color:#98c379>"saturday"</span><span>, process_saturday},
+</span><span>    {</span><span style=color:#98c379>"sunday"</span><span>, process_sunday},
+</span><span>};
+</span><span>
+</span><span>WeekdayMap::iterator it </span><span style=color:#c678dd>=</span><span> weekday_map.</span><span style=color:#e06c75>find</span><span>(current_weekday);
+</span><span style=color:#c678dd>if </span><span>(it </span><span style=color:#c678dd>!=</span><span> weekday_map.</span><span style=color:#e06c75>end</span><span>()) {
+</span><span>    it-></span><span style=color:#e06c75>second</span><span>();
+</span><span>}
+</span></code></pre><p>There are several problems with this, but let’s address the representation first. Strings can contain more than just the valid values. Our <code>current_weekday</code> string can contain random gibberish or even nothing at all. This is why the matching code needs to have a code path that handles invalid inputs. It’s the same as the <a href=//www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/>billion-dollar mistake</a>, just even worse because storing and matching on strings are more expensive than null pointers. Before going through the solution for this, let’s take a look at the two methods of string matching first.<p>As mentioned in the introduction, if-else chains doesn’t convey the intention of matching on a set of values, at least in my opinion. For me, if-elses are for checking on conditions, not values, and even if expressiveness isn’t a problem, then performance is. The time complexity of this method is <code>O(mn)</code> where <code>m</code> is the number of strings to match against and <code>n</code> is the average length. Also the amount of syntax noise is insane if there isn’t enough reason not to use it.<p>The function table approach is a bit better in terms of performance as it uses an <code>std::unordered_map</code>, which is a stupid name for a hash table. Still, <code>std::unordered_map</code> store its data on the heap, so this method doesn’t work when heap allocation is expensive or unavailable. And the fact that it uses function pointers means that you can’t capture the stack without explicitly setting them as function arguments. We can get around this by using <code>std::function</code> which is a polymorphic function type that supports lambdas, which in turn supports stack capturing. But using <code>std::function</code> means that you are using dynamic dispatch, which introduces even more performance overhead.<h1 id=representation>Representation</h1><p>While the code above demonstrated a big problem with string matching in C++, that problem actually comes from using strings in general. Strings are horrible ways to represent a set of values, like a set of card suits ♦ ♣ ♥ ♠, a set of people, or a set of days of the week. A better way to represent them is with <code>enum</code>:<pre class=language-cpp data-lang=cpp style=color:#dcdfe4;background-color:#282c34><code class=language-cpp data-lang=cpp><span style=color:#c678dd>enum </span><span>Weekday {
+</span><span>    WEEKDAY_MONDAY </span><span style=color:#c678dd>= </span><span style=color:#e5c07b>0</span><span>,
+</span><span>    WEEKDAY_TUESDAY,
+</span><span>    WEEKDAY_WEDNESDAY,
+</span><span>    WEEKDAY_THURSDAY,
+</span><span>    WEEKDAY_FRIDAY,
+</span><span>    WEEKDAY_SATURDAY,
+</span><span>    WEEKDAY_SUNDAY,
+</span><span>    WEEKDAY_COUNT,
+</span><span>};
+</span></code></pre><p>They are compact, and can only represent the valid values unless you explicitly cast an integer into them. More importantly, you can use switch statements to match on them.<pre class=language-cpp data-lang=cpp style=color:#dcdfe4;background-color:#282c34><code class=language-cpp data-lang=cpp><span>Weekday current_weekday </span><span style=color:#c678dd>=</span><span> WEEKDAY_MONDAY;
+</span><span>
+</span><span style=color:#c678dd>switch </span><span>(current_weekday) {
+</span><span>    </span><span style=color:#c678dd>case</span><span> WEEKDAY_MONDAY: {
+</span><span>        </span><span style=color:#e06c75>process_monday</span><span>();
+</span><span>    } </span><span style=color:#c678dd>break</span><span>;
+</span><span>    </span><span style=color:#c678dd>case</span><span> WEEKDAY_TUESDAY: {
+</span><span>        </span><span style=color:#e06c75>process_tuesday</span><span>();
+</span><span>    } </span><span style=color:#c678dd>break</span><span>;
+</span><span>    </span><span style=color:#c678dd>case</span><span> WEEKDAY_WEDNESDAY: {
+</span><span>        </span><span style=color:#e06c75>process_wednesday</span><span>();
+</span><span>    } </span><span style=color:#c678dd>break</span><span>;
+</span><span>    </span><span style=color:#c678dd>case</span><span> WEEKDAY_THURSDAY: {
+</span><span>        </span><span style=color:#e06c75>process_thursday</span><span>();
+</span><span>    } </span><span style=color:#c678dd>break</span><span>;
+</span><span>    </span><span style=color:#c678dd>case</span><span> WEEKDAY_FRIDAY: {
+</span><span>        </span><span style=color:#e06c75>process_friday</span><span>();
+</span><span>    } </span><span style=color:#c678dd>break</span><span>;
+</span><span>    </span><span style=color:#c678dd>case</span><span> WEEKDAY_SATURDAY: {
+</span><span>        </span><span style=color:#e06c75>process_saturday</span><span>();
+</span><span>    } </span><span style=color:#c678dd>break</span><span>;
+</span><span>    </span><span style=color:#c678dd>case</span><span> WEEKDAY_SUNDAY: {
+</span><span>        </span><span style=color:#e06c75>process_sunday</span><span>();
+</span><span>    } </span><span style=color:#c678dd>break</span><span>;
+</span><span>    </span><span style=color:#c678dd>case</span><span> WEEKDAY_COUNT: {
+</span><span>        </span><span style=color:#e06c75>__builtin_unreachable</span><span>();
+</span><span>    } </span><span style=color:#c678dd>break</span><span>;
+</span><span>}
+</span></code></pre><p>Using switch statements on strings is extremely convenient. The compiler will warn you if you forgot to handle an enumerant, so adding new values is trivial. Also notice how I add a <code>_COUNT</code> enumerant then in the switch case I have to mark it as unreachable. The <code>_COUNT</code> enumerant is for determining the number of elements in the enum, which is useful for iterating over all values or creating static arrays.<h1 id=string-matching-with-enums>String matching with enums</h1><p>But if enums are so useful, then why do we still need string matching? The problem is that what if the inputs are specified as strings? In the original problem, if <code>current_weekday</code> is of type <code>std::string</code>, how do we match over them? If we want to keep the convenience and simplicity of using enums, then you need to convert strings into them.<pre class=language-cpp data-lang=cpp style=color:#dcdfe4;background-color:#282c34><code class=language-cpp data-lang=cpp><span>std::string current_weekday </span><span style=color:#c678dd>= </span><span style=color:#98c379>"monday"</span><span>;
+</span><span>Weekday current_weekday_enum </span><span style=color:#c678dd>= ...</span><span>;
+</span><span>
+</span><span style=color:#c678dd>switch </span><span>(current_weekday) {
+</span><span>    </span><span style=color:#5c6370>// ...
+</span><span>}
+</span></code></pre><p>And how do we convert strings into enums? with string matching! So we transformed a string matching problem into another problem; what’s the point? Well, this problem is very specific, unlike arbitrary code execution based on a value, so we can construct a reusable solution.<pre class=language-cpp data-lang=cpp style=color:#dcdfe4;background-color:#282c34><code class=language-cpp data-lang=cpp><span style=color:#c678dd>template</span><span><</span><span style=color:#c678dd>typename</span><span> T, uint32_t N>
+</span><span>std::unordered_map&LTstd::string_view, T> </span><span style=color:#61afef>generate_map</span><span>(</span><span style=color:#c678dd>const </span><span>std::</span><span style=color:#e06c75>string_view </span><span>(</span><span style=color:#c678dd>*</span><span>string_table)[N]) {
+</span><span>  std::unordered_map&LTstd::string_view, T> map;
+</span><span>  </span><span style=color:#c678dd>for </span><span>(uint32_t i </span><span style=color:#c678dd>= </span><span style=color:#e5c07b>0</span><span>; i </span><span style=color:#c678dd><</span><span> N; </span><span style=color:#c678dd>++</span><span>i) {
+</span><span>    map.</span><span style=color:#e06c75>insert</span><span>({(</span><span style=color:#c678dd>*</span><span>string_table)[i], (T)i});
+</span><span>  }
+</span><span>  </span><span style=color:#c678dd>return</span><span> map;
+</span><span>}
+</span><span>
+</span><span style=color:#c678dd>constexpr</span><span> std::string_view Weekday_str[WEEKDAY_COUNT] </span><span style=color:#c678dd>= </span><span>{
+</span><span>  </span><span style=color:#98c379>"monday"</span><span>,
+</span><span>  </span><span style=color:#98c379>"tuesday"</span><span>,
+</span><span>  </span><span style=color:#98c379>"wednesday"</span><span>,
+</span><span>  </span><span style=color:#98c379>"thursday"</span><span>,
+</span><span>  </span><span style=color:#98c379>"friday"</span><span>,
+</span><span>  </span><span style=color:#98c379>"saturday"</span><span>,
+</span><span>  </span><span style=color:#98c379>"sunday"
+</span><span>};
+</span><span>
+</span><span style=color:#c678dd>using </span><span>WeekdayMap </span><span style=color:#c678dd>=</span><span> std::unordered_map&LTstd::string_view, Weekday>;
+</span><span>WeekdayMap map </span><span style=color:#c678dd>=</span><span> generate_map&LTWeekday>(</span><span style=color:#c678dd>&</span><span>Weekday_str);
+</span><span>
+</span><span>std::string current_weekday </span><span style=color:#c678dd>= </span><span style=color:#98c379>"monday"</span><span>;
+</span><span>
+</span><span>WeekdayMap::iterator it </span><span style=color:#c678dd>=</span><span> map.</span><span style=color:#e06c75>find</span><span>(current_weekday);
+</span><span style=color:#c678dd>if </span><span>(it </span><span style=color:#c678dd>==</span><span> map.</span><span style=color:#e06c75>end</span><span>) {
+</span><span>    </span><span style=color:#61afef>fprintf</span><span>(stderr, </span><span style=color:#98c379>"Invalid weekday: `</span><span style=color:#e5c07b>%s</span><span style=color:#98c379>`</span><span style=color:#56b6c2>\n</span><span style=color:#98c379>"</span><span>, current_weekday);
+</span><span>} </span><span style=color:#c678dd>else </span><span>{
+</span><span>    </span><span style=color:#c678dd>switch </span><span>(it-></span><span style=color:#e06c75>second</span><span>) {
+</span><span>        </span><span style=color:#5c6370>// ...
+</span><span>    }
+</span><span>}
+</span></code></pre><p>While this solved the problem of converting from strings to enums, it’s a bit sluggish for general-purpose string matching. Also, this implementation still has some problems:<ul><li>Problems related to the function table approach.<li>It might be better to handle invalid input in the switch case instead of checking for iterator validity.<li>It might be better if using enums is not required.</ul><p>The first two problems require creating a custom hash table, so let’s solve the third one first. To do that, instead of creating a map from string to enum value, we can instead create a map from string to integer and type-cast it to enum values later.<pre class=language-diff data-lang=diff style=color:#dcdfe4;background-color:#282c34><code class=language-diff data-lang=diff><span style=color:#e06c75>-template&LTtypename T, uint32_t N>
+</span><span style=color:#98c379>+template&LTuint32_t N>
+</span><span style=color:#e06c75>-std::unordered_map&LTstd::string_view, T> generate_map(const std::string_view (*string_table)[N]) {
+</span><span style=color:#98c379>+std::unordered_map&LTstd::string_view> generate_map(const std::string_view (*string_table)[N]) {
+</span><span style=color:#e06c75>- std::unordered_map&LTstd::string_view, T> map;
+</span><span style=color:#98c379>+ std::unordered_map&LTstd::string_view, uint32_t> map;
+</span><span>  for (uint32_t i = 0; i < N; ++i) {
+</span><span style=color:#e06c75>-   map.insert({(*string_table)[i], (T)i});
+</span><span style=color:#98c379>+   map.insert({(*string_table)[i], i});
+</span><span>  }
+</span><span>  return map;
+</span><span>}
+</span><span>
+</span><span>...
+</span><span style=color:#e06c75>-WeekdayMap map = generate_map&LTWeekday>(&Weekday_str);
+</span><span style=color:#98c379>+WeekdayMap map = generate_map(&Weekday_str);
+</span><span>...
+</span><span>
+</span><span>
+</span><span>if (it == map.end) {
+</span><span>    fprintf(stderr, "Invalid weekday: `%s`\n", current_weekday);
+</span><span>} else {
+</span><span style=color:#e06c75>-   switch (it->second) {
+</span><span style=color:#98c379>+   switch ((Weekday)it->second) {
+</span><span>        // ...
+</span><span>    }
+</span><span>}
+</span></code></pre><p>Creating map to enums and map to integer both have their pros and cons, but for the sake of generality, I decided to go with the map to integer configuration. So in theory, we should be able to do something like this, right?<pre class=language-cpp data-lang=cpp style=color:#dcdfe4;background-color:#282c34><code class=language-cpp data-lang=cpp><span style=color:#c678dd>constexpr</span><span> std::string_view Weekday_str[] </span><span style=color:#c678dd>= </span><span>{
+</span><span>  </span><span style=color:#98c379>"monday"</span><span>,
+</span><span>  </span><span style=color:#98c379>"tuesday"</span><span>,
+</span><span>  </span><span style=color:#98c379>"wednesday"</span><span>,
+</span><span>  </span><span style=color:#98c379>"thursday"</span><span>,
+</span><span>  </span><span style=color:#98c379>"friday"</span><span>,
+</span><span>  </span><span style=color:#98c379>"saturday"</span><span>,
+</span><span>  </span><span style=color:#98c379>"sunday"
+</span><span>};
+</span><span>
+</span><span>std::unordered_map&LTstd::string_view, uint32_t> map </span><span style=color:#c678dd>= </span><span style=color:#e06c75>generate_map</span><span>(</span><span style=color:#c678dd>&</span><span>Weekday_str);
+</span><span>
+</span><span>std::string current_weekday </span><span style=color:#c678dd>= </span><span style=color:#98c379>"monday"</span><span>;
+</span><span style=color:#c678dd>switch </span><span>(map[current_weekday]) {
+</span><span>  </span><span style=color:#c678dd>case</span><span> map[</span><span style=color:#98c379>"monday"</span><span>]: {
+</span><span>    </span><span style=color:#e06c75>process_monday</span><span>();
+</span><span>  } </span><span style=color:#c678dd>break</span><span>;
+</span><span>  </span><span style=color:#5c6370>// ...
+</span><span>}
+</span></code></pre><p>Compiling this with Clang 18.1.8, I got:<pre style=color:#dcdfe4;background-color:#282c34><code><span>test.cpp:29:10: error: case value is not a constant expression
+</span><span>   29 |     case map["monday"]: {
+</span><span>      |          ^~~~~~~~~~~~~
+</span><span>test.cpp:29:10: note: non-constexpr function 'operator[]' cannot be used in a constant expression
+</span><span>/usr/bin/../lib/gcc/x86_64-redhat-linux/14/../../../../include/c++/14/bits/unordered_map.h:991:7: note: declared here
+</span><span>  991 |       operator[](key_type&& __k)
+</span><span>      |       ^
+</span><span>1 error generated.
+</span></code></pre><p>Case values needing to be known as compile time is something obvious but wasn’t considered before. I needed a custom, compile time hash table. Compile time hash tables effectively solves the problem of memory allocation and table creation overhead. And a custom hash table allows me to configure it to return invalid input as a separate, special value instead of a default value like with <code>std::unordered_map</code>.<h1 id=implementing-a-hash-table>Implementing a hash table</h1><p>Dynamic arrays and hash tables are pretty ubiquitous in programming, but unlike arrays, which have a <a href=//en.wikipedia.org/wiki/Dynamic_array>universally acceptable implementation</a>, hash tables are surprisingly complex and diverse, with new <a href="//www.youtube.com/watch?v=ncHmEUmJZf4&t=3s">breakthroughs</a> and <a href=//engineering.fb.com/2019/04/25/developer-tools/f14/>innovations</a> popping up now and then. Picking the hash function alone is an entire problem of its own; do you want good performance, uniform distribution, or cryptographic security? I decided to go with the FNV-1A hash function, which has decent performance and quality. But most importantly, it’s extremely simple and <code>constexpr</code> compatible.<pre class=language-cpp data-lang=cpp style=color:#dcdfe4;background-color:#282c34><code class=language-cpp data-lang=cpp><span style=color:#c678dd>template</span><span><</span><span style=color:#c678dd>typename</span><span> T, </span><span style=color:#c678dd>const</span><span> T PRIME, </span><span style=color:#c678dd>const</span><span> T BASIS>
+</span><span style=color:#c678dd>constexpr</span><span> T </span><span style=color:#61afef>fnv_1a</span><span>(</span><span style=color:#c678dd>const char *</span><span style=color:#e06c75>str</span><span>, uint32_t </span><span style=color:#e06c75>len</span><span>) {
+</span><span>    T h </span><span style=color:#c678dd>=</span><span> BASIS;
+</span><span>
+</span><span>    </span><span style=color:#c678dd>for </span><span>(uint32_t i </span><span style=color:#c678dd>= </span><span style=color:#e5c07b>0</span><span>; i </span><span style=color:#c678dd><</span><span> len; </span><span style=color:#c678dd>++</span><span>i) h </span><span style=color:#c678dd>= </span><span>(h </span><span style=color:#c678dd>^ </span><span>(uint8_t)str[i]) </span><span style=color:#c678dd>*</span><span> PRIME;
+</span><span>    </span><span style=color:#c678dd>for </span><span>(uint32_t t </span><span style=color:#c678dd>=</span><span> len; t; t </span><span style=color:#c678dd>>>= </span><span style=color:#e5c07b>8</span><span>) h </span><span style=color:#c678dd>= </span><span>(h </span><span style=color:#c678dd>^ </span><span>(t </span><span style=color:#c678dd>& </span><span style=color:#e5c07b>0xff</span><span>)) </span><span style=color:#c678dd>*</span><span> PRIME;
+</span><span>
+</span><span>    </span><span style=color:#c678dd>return</span><span> h;
+</span><span>}
+</span><span>
+</span><span style=color:#c678dd>constexpr </span><span>uint64_t </span><span style=color:#61afef>hash64</span><span>(</span><span style=color:#c678dd>const char *</span><span style=color:#e06c75>str</span><span>, uint32_t </span><span style=color:#e06c75>len</span><span>) {
+</span><span>    </span><span style=color:#c678dd>constexpr </span><span>uint64_t prime </span><span style=color:#c678dd>= </span><span style=color:#e5c07b>0x100000001b3</span><span>;
+</span><span>    </span><span style=color:#c678dd>constexpr </span><span>uint64_t basis </span><span style=color:#c678dd>= </span><span style=color:#e06c75>fnv_1a</span><span>&LTuint64_t, prime, </span><span style=color:#e5c07b>0</span><span>>(</span><span style=color:#98c379>"some random seed"</span><span>, </span><span style=color:#e5c07b>16</span><span>);
+</span><span>    </span><span style=color:#c678dd>return </span><span style=color:#e06c75>fnv_1a</span><span>&LTuint64_t, prime, basis>(str, len);
+</span><span>}
+</span><span>
+</span><span style=color:#c678dd>constexpr </span><span>uint32_t </span><span style=color:#61afef>hash32</span><span>(</span><span style=color:#c678dd>const char *</span><span style=color:#e06c75>str</span><span>, uint32_t </span><span style=color:#e06c75>len</span><span>) {
+</span><span>    uint64_t h </span><span style=color:#c678dd>= </span><span style=color:#e06c75>hash64</span><span>(str, len);
+</span><span>    </span><span style=color:#c678dd>return</span><span> h </span><span style=color:#c678dd>- </span><span>(h </span><span style=color:#c678dd>>> </span><span style=color:#e5c07b>32</span><span>);
+</span><span>}
+</span></code></pre><p>There are some modifications to the hash function that I’ve made: - The function also hashes the bits of the length for slightly better hash quality. The function computes its own offset basis from a given random seed string. On 64-bit machines, the difference in 32-bit and 64-bit operations is negligible, so to compute a 32-bit hash, I computed a 64-bit hash, then combined the 32-bit parts of the hash with a subtraction for better diffusion.<p>Is this the best hash function for this purpose? Absolutely not. The best hash function is unique for every set of strings, called a <a href=//en.wikipedia.org/wiki/Perfect_hash_function>perfect hash function</a>. Generating perfect hash functions at compile time is an interesting problem that I’m sure to investigate, but for now I’m just going to use my modified FNV-1A hash function and focus more on the “table” part of hash tables. I’m just going to show the code, then explain it later.<pre class=language-cpp data-lang=cpp style=color:#dcdfe4;background-color:#282c34><code class=language-cpp data-lang=cpp><span style=color:#c678dd>constexpr </span><span>uint32_t </span><span style=color:#61afef>compute_shift</span><span>(uint32_t </span><span style=color:#e06c75>x</span><span>) {
+</span><span>    uint32_t res </span><span style=color:#c678dd>= </span><span style=color:#e5c07b>1</span><span>;
+</span><span>    uint32_t shift </span><span style=color:#c678dd>= </span><span style=color:#e5c07b>31</span><span>;
+</span><span>    </span><span style=color:#c678dd>while </span><span>(res </span><span style=color:#c678dd><</span><span> x) {
+</span><span>        res </span><span style=color:#c678dd><<= </span><span style=color:#e5c07b>1</span><span>;
+</span><span>        </span><span style=color:#c678dd>--</span><span>shift;
+</span><span>    }
+</span><span>    </span><span style=color:#c678dd>return</span><span> shift;
+</span><span>}
+</span><span>
+</span><span style=color:#c678dd>template</span><span><</span><span style=color:#c678dd>const </span><span>size_t N>
+</span><span style=color:#c678dd>class </span><span style=color:#e5c07b>IndexMap {
+</span><span style=color:#c678dd>public</span><span style=color:#e5c07b>:
+</span><span style=color:#e5c07b>    </span><span style=color:#c678dd>constexpr </span><span style=color:#61afef>IndexMap</span><span style=color:#e5c07b>(</span><span style=color:#c678dd>const </span><span style=color:#e5c07b>std::</span><span style=color:#e06c75>string_view </span><span style=color:#e5c07b>(</span><span style=color:#c678dd>*</span><span style=color:#e5c07b>map)[N]) : </span><span style=color:#e06c75>map</span><span style=color:#e5c07b>{map}, </span><span style=color:#e06c75>keys</span><span style=color:#e5c07b>{} {
+</span><span style=color:#e5c07b>        </span><span style=color:#c678dd>for </span><span style=color:#e5c07b>(uint32_t i </span><span style=color:#c678dd>= </span><span style=color:#e5c07b>0; i </span><span style=color:#c678dd><</span><span style=color:#e5c07b> N; </span><span style=color:#c678dd>++</span><span style=color:#e5c07b>i) {
+</span><span style=color:#e5c07b>            std::string_view sv </span><span style=color:#c678dd>= </span><span style=color:#e5c07b>(</span><span style=color:#c678dd>*</span><span style=color:#e5c07b>map)[i];
+</span><span style=color:#e5c07b>            uint32_t h </span><span style=color:#c678dd>= </span><span style=color:#e06c75>hash32</span><span style=color:#e5c07b>(sv.</span><span style=color:#e06c75>data</span><span style=color:#e5c07b>(), sv.</span><span style=color:#e06c75>size</span><span style=color:#e5c07b>()) </span><span style=color:#c678dd>>></span><span style=color:#e5c07b> IndexMap::ht_shift;
+</span><span style=color:#e5c07b>            </span><span style=color:#c678dd>while </span><span style=color:#e5c07b>(</span><span style=color:#e06c75>this</span><span style=color:#e5c07b>-></span><span style=color:#e06c75>keys</span><span style=color:#e5c07b>[h]) {
+</span><span style=color:#e5c07b>                h </span><span style=color:#c678dd>= </span><span style=color:#e5c07b>(h </span><span style=color:#c678dd>+ </span><span style=color:#e5c07b>1) </span><span style=color:#c678dd>& </span><span style=color:#e5c07b>(ht_size </span><span style=color:#c678dd>- </span><span style=color:#e5c07b>1);
+</span><span style=color:#e5c07b>            }
+</span><span style=color:#e5c07b>            </span><span style=color:#e06c75>this</span><span style=color:#e5c07b>-></span><span style=color:#e06c75>keys</span><span style=color:#e5c07b>[h] </span><span style=color:#c678dd>=</span><span style=color:#e5c07b> i </span><span style=color:#c678dd>+ </span><span style=color:#e5c07b>1;
+</span><span style=color:#e5c07b>        }
+</span><span style=color:#e5c07b>    }
+</span><span style=color:#e5c07b>
+</span><span style=color:#e5c07b>    </span><span style=color:#c678dd>constexpr </span><span style=color:#e5c07b>uint32_t </span><span style=color:#61afef>operator[]</span><span style=color:#e5c07b>(std::string_view </span><span style=color:#e06c75>key</span><span style=color:#e5c07b>) </span><span style=color:#c678dd>const </span><span style=color:#e5c07b>{
+</span><span style=color:#e5c07b>        uint32_t h </span><span style=color:#c678dd>= </span><span style=color:#e06c75>hash32</span><span style=color:#e5c07b>(key.</span><span style=color:#e06c75>data</span><span style=color:#e5c07b>(), key.</span><span style=color:#e06c75>size</span><span style=color:#e5c07b>()) </span><span style=color:#c678dd>>></span><span style=color:#e5c07b> IndexMap::ht_shift;
+</span><span style=color:#e5c07b>        </span><span style=color:#c678dd>while </span><span style=color:#e5c07b>(</span><span style=color:#e06c75>this</span><span style=color:#e5c07b>-></span><span style=color:#e06c75>keys</span><span style=color:#e5c07b>[h] </span><span style=color:#c678dd>&& </span><span style=color:#e5c07b>(</span><span style=color:#c678dd>*</span><span style=color:#e06c75>this</span><span style=color:#e5c07b>-></span><span style=color:#e06c75>map</span><span style=color:#e5c07b>)[</span><span style=color:#e06c75>this</span><span style=color:#e5c07b>-></span><span style=color:#e06c75>keys</span><span style=color:#e5c07b>[h] </span><span style=color:#c678dd>- </span><span style=color:#e5c07b>1] </span><span style=color:#c678dd>!=</span><span style=color:#e5c07b> key) {
+</span><span style=color:#e5c07b>            h </span><span style=color:#c678dd>= </span><span style=color:#e5c07b>(h </span><span style=color:#c678dd>+ </span><span style=color:#e5c07b>1) </span><span style=color:#c678dd>& </span><span style=color:#e5c07b>(ht_size </span><span style=color:#c678dd>- </span><span style=color:#e5c07b>1);
+</span><span style=color:#e5c07b>        }
+</span><span style=color:#e5c07b>        </span><span style=color:#c678dd>return </span><span style=color:#e06c75>this</span><span style=color:#e5c07b>-></span><span style=color:#e06c75>keys</span><span style=color:#e5c07b>[h] </span><span style=color:#c678dd>- </span><span style=color:#e5c07b>1;
+</span><span style=color:#e5c07b>    }
+</span><span style=color:#e5c07b>
+</span><span style=color:#e5c07b>    </span><span style=color:#c678dd>static constexpr </span><span style=color:#e5c07b>uint32_t invalid </span><span style=color:#c678dd>= -</span><span style=color:#e5c07b>1;
+</span><span style=color:#c678dd>private</span><span style=color:#e5c07b>:
+</span><span style=color:#e5c07b>    </span><span style=color:#c678dd>static constexpr </span><span style=color:#e5c07b>uint32_t ht_shift </span><span style=color:#c678dd>= </span><span style=color:#e06c75>compute_shift</span><span style=color:#e5c07b>(N);
+</span><span style=color:#e5c07b>    </span><span style=color:#c678dd>static constexpr </span><span style=color:#e5c07b>uint32_t ht_size </span><span style=color:#c678dd>= </span><span style=color:#e5c07b>1 </span><span style=color:#c678dd><< </span><span style=color:#e5c07b>(32 </span><span style=color:#c678dd>-</span><span style=color:#e5c07b> IndexMap::ht_shift);
+</span><span style=color:#e5c07b>
+</span><span style=color:#e5c07b>    </span><span style=color:#c678dd>const </span><span style=color:#61afef>std::string_view </span><span style=color:#e5c07b>(</span><span style=color:#c678dd>*</span><span style=color:#e06c75>map</span><span style=color:#e5c07b>)[N];
+</span><span style=color:#e5c07b>    uint32_t keys[IndexMap::ht_size];
+</span><span style=color:#e5c07b>}</span><span>;
+</span></code></pre><p>The hash table is rather simple. FNV-1A has higher-quality high bits, so I shifted the initial hash value. The table size is a power of two with values ranging between 2N + 2 and 4N - 4, so the load factor is between 50% and 25%. To make up for its low load factor, the hash table only references the strings, so it can’t live longer than the original array. So the extra memory usage is <code>4 * sizeof(uint32_t)</code> — or 16 — bytes per string, which is the same as an unoptimized binary search tree (left and right pointers). So the hash table is actually quite memory-efficient, and the reduced load factor means that probing performance is also great.<p>The stored indices are incremented by one, so that invalid keys are mapped to zero, and subtracting them by one gives -1, which will be our special invalid value. Also, you can seed that all functions, including the constructor, are marked <code>constexpr</code>, so the hash table can be generated at compile time. However, both the hash table and the array of strings must be stored in <a href=//en.cppreference.com/w/cpp/language/storage_duration>static storage</a> in order to use them at compile time, such as for switch statements.<h1 id=using-the-new-hash-table>Using the new hash table</h1><h2 id=general-string-matching>General string matching</h2><p>This is what using the static hash table for general string matching looks like. Notice that the template parameters are automatically inferred, which is quite convenient, but also unclear.<pre class=language-cpp data-lang=cpp style=color:#dcdfe4;background-color:#282c34><code class=language-cpp data-lang=cpp><span style=color:#c678dd>static constexpr</span><span> std::string_view Weekday_str[] </span><span style=color:#c678dd>= </span><span>{
+</span><span>  </span><span style=color:#98c379>"case 1"</span><span>,
+</span><span>  </span><span style=color:#98c379>"case 2"</span><span>,
+</span><span>  </span><span style=color:#98c379>"case 3"</span><span>,
+</span><span>};
+</span><span>
+</span><span style=color:#c678dd>static constexpr</span><span> IndexMap map {</span><span style=color:#c678dd>&</span><span>Weekday_str};
+</span><span>
+</span><span>std::string input </span><span style=color:#c678dd>= </span><span style=color:#98c379>"case 2"</span><span>;
+</span><span>
+</span><span style=color:#c678dd>switch </span><span>(map[input]) {
+</span><span>    </span><span style=color:#c678dd>case</span><span> map[</span><span style=color:#98c379>"case 1"</span><span>]: {
+</span><span>        </span><span style=color:#e06c75>handle_case_1</span><span>();
+</span><span>    } </span><span style=color:#c678dd>break</span><span>;
+</span><span>    </span><span style=color:#c678dd>case</span><span> map[</span><span style=color:#98c379>"case 2"</span><span>]: {
+</span><span>        </span><span style=color:#e06c75>handle_case_2</span><span>();
+</span><span>    } </span><span style=color:#c678dd>break</span><span>;
+</span><span>    </span><span style=color:#c678dd>case</span><span> map[</span><span style=color:#98c379>"case 3"</span><span>]: {
+</span><span>        </span><span style=color:#e06c75>handle_case_3</span><span>();
+</span><span>    } </span><span style=color:#c678dd>break</span><span>;
+</span><span>    </span><span style=color:#c678dd>case</span><span> map.</span><span style=color:#e06c75>invalid</span><span>: {
+</span><span>        </span><span style=color:#61afef>fprintf</span><span>(stderr, </span><span style=color:#98c379>"Invalid input: `</span><span style=color:#e5c07b>%s</span><span style=color:#98c379>`</span><span style=color:#56b6c2>\n</span><span style=color:#98c379>"</span><span>, input);
+</span><span>    } </span><span style=color:#c678dd>break</span><span>;
+</span><span>}
+</span></code></pre><p>This simple hash table, while not the most efficient, satisfied all of our requirements. It’s generated at compile time, usable as a general string matching construct, and handling invalid input is more streamlined. However, C++’s compile time evaluation isn’t flexible enough to do stuff such as check if the switch cases are actually valid without doing severe metaprogramming mental gymnastics.<h2 id=string-to-enum-conversion>String to enum conversion</h2><p>Using the hash table for our smaller problem of string to enum conversion is similar, even better as you also get the benefit of compiler warning when you missed a value. But you need to add an <code>_INVALID</code> enumerant to your enum so that you can handle that in the switch case as well (and get warnings if you forgot to).<pre class=language-cpp data-lang=cpp style=color:#dcdfe4;background-color:#282c34><code class=language-cpp data-lang=cpp><span style=color:#c678dd>enum </span><span>Weekday {
+</span><span>    WEEKDAY_INVALID </span><span style=color:#c678dd>= -</span><span style=color:#e5c07b>1</span><span>,
+</span><span>    WEEKDAY_MONDAY,
+</span><span>    WEEKDAY_TUESDAY,
+</span><span>    WEEKDAY_WEDNESDAY,
+</span><span>    WEEKDAY_THURSDAY,
+</span><span>    WEEKDAY_FRIDAY,
+</span><span>    WEEKDAY_SATURDAY,
+</span><span>    WEEKDAY_SUNDAY,
+</span><span>    WEEKDAY_COUNT,
+</span><span>};
+</span><span>
+</span><span style=color:#c678dd>static constexpr</span><span> IndexMap&LTWEEKDAY_COUNT> map {</span><span style=color:#c678dd>&</span><span>Weekday_str};
+</span><span>
+</span><span style=color:#c678dd>switch </span><span>(map[current_weekday]) {
+</span><span>    </span><span style=color:#c678dd>case</span><span> WEEKDAY_MONDAY: {
+</span><span>        </span><span style=color:#e06c75>process_monday</span><span>();
+</span><span>    } </span><span style=color:#c678dd>break</span><span>;
+</span><span>    </span><span style=color:#c678dd>case</span><span> WEEKDAY_TUESDAY: {
+</span><span>        </span><span style=color:#e06c75>process_tuesday</span><span>();
+</span><span>    } </span><span style=color:#c678dd>break</span><span>;
+</span><span>    </span><span style=color:#5c6370>// ... 
+</span><span>    </span><span style=color:#c678dd>case</span><span> WEEKDAY_INVALID: {
+</span><span>        </span><span style=color:#61afef>fprintf</span><span>(stderr, </span><span style=color:#98c379>"Invalid weekday: `</span><span style=color:#e5c07b>%s</span><span style=color:#98c379>`</span><span style=color:#56b6c2>\n</span><span style=color:#98c379>"</span><span>, current_weekday);
+</span><span>    } </span><span style=color:#c678dd>break</span><span>;
+</span><span>    </span><span style=color:#c678dd>case</span><span> WEEKDAY_COUNT: {
+</span><span>        </span><span style=color:#e06c75>__builtin_unreachable</span><span>();
+</span><span>    }
+</span><span>}
+</span></code></pre><h1 id=conclusion>Conclusion</h1><p>This post showcased my new approach to string matching and string to enum conversion. I’m pretty happy with the solution I came up with, but there are lots to improve upon. Some of which are:<ul><li>Compile time hash function generation<li>Robin Hood hashing<li>SIMD probing<li>C code generation</ul><p>Generalizing the hash table to enable dynamic insertion and removal at run time might be beneficial to solve some problems. Also, I find the technique of string to index mapping interesting; it might be useful for creating dense associative arrays with low memory footprints and fast iteration.</article></main><footer class=footer__container><svg viewbox="0 352.5 960 188.5" class=footer__split preserveaspectratio=none version=1.1 xmlns=http://www.w3.org/2000/svg xmlns:xlink=http://www.w3.org/1999/xlink><path d="M0 441L22.8 424.5C45.7 408 91.3 375 137 360.8C182.7 346.7 228.3 351.3 274 369.3C319.7 387.3 365.3 418.7 411.2 414.2C457 409.7 503 369.3 548.8 368C594.7 366.7 640.3 404.3 686 421.7C731.7 439 777.3 436 823 429.8C868.7 423.7 914.3 414.3 937.2 409.7L960 405L960 541L937.2 541C914.3 541 868.7 541 823 541C777.3 541 731.7 541 686 541C640.3 541 594.7 541 548.8 541C503 541 457 541 411.2 541C365.3 541 319.7 541 274 541C228.3 541 182.7 541 137 541C91.3 541 45.7 541 22.8 541L0 541Z" fill=#f7f9fb /><path d="M0 477L22.8 467C45.7 457 91.3 437 137 423.8C182.7 410.7 228.3 404.3 274 401.7C319.7 399 365.3 400 411.2 413.5C457 427 503 453 548.8 464.2C594.7 475.3 640.3 471.7 686 456.5C731.7 441.3 777.3 414.7 823 404.5C868.7 394.3 914.3 400.7 937.2 403.8L960 407L960 541L937.2 541C914.3 541 868.7 541 823 541C777.3 541 731.7 541 686 541C640.3 541 594.7 541 548.8 541C503 541 457 541 411.2 541C365.3 541 319.7 541 274 541C228.3 541 182.7 541 137 541C91.3 541 45.7 541 22.8 541L0 541Z" fill=#eff3f7 /><path d="M0 459L22.8 456.2C45.7 453.3 91.3 447.7 137 456.7C182.7 465.7 228.3 489.3 274 494.8C319.7 500.3 365.3 487.7 411.2 476C457 464.3 503 453.7 548.8 451.7C594.7 449.7 640.3 456.3 686 462.5C731.7 468.7 777.3 474.3 823 473.2C868.7 472 914.3 464 937.2 460L960 456L960 541L937.2 541C914.3 541 868.7 541 823 541C777.3 541 731.7 541 686 541C640.3 541 594.7 541 548.8 541C503 541 457 541 411.2 541C365.3 541 319.7 541 274 541C228.3 541 182.7 541 137 541C91.3 541 45.7 541 22.8 541L0 541Z" fill=#e8eef4 stroke=#e8eef4 /></svg><div class=footer__bg><div class=footer>© 2024 Zap (Huy-Giap Bui). Content on this site is licensed under <a href=//creativecommons.org/licenses/by-sa/4.0/>CC BY-SA 4.0</a>.</div></div></footer></div>

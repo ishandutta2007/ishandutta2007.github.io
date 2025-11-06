@@ -1,0 +1,86 @@
+# TODO: Refactor this into a section
+
+[[projects]]
+id          = "sliding-puzzle"
+name        = "Sliding puzzle solver"
+description = """
+An A* based search algorithm to solve the 4x4 tile-sliding puzzle.
+"""
+web_demo    = true
+
+[[projects]]
+id          = "repalette"
+name        = "Repalette"
+description = """
+A website and command line utility that allows you to theme an image to a
+certain color palette.
+"""
+web_demo    = true
+
+[[projects]]
+id          = "uttt"
+name        = "Ultimate tic-tac-toe"
+description = """
+A browser-based [Ultimate
+tic-tac-toe](//en.wikipedia.org/wiki/Ultimate_tic-tac-toe) game with a powerful
+Monte Carlo tree
+search AI adversary."""
+web_demo    = true
+
+[[projects]]
+id          = "2048-ai"
+name        = "2048 AI"
+description = """
+A very efficient expectimax 2048 AI algorithm.
+"""
+web_demo    = true
+
+[[projects]]
+id          = "tetris"
+name        = "Tetris clone"
+description = """
+A simple Tetris implementation in C and OpenGL.
+"""
+web_demo    = true
+
+[[projects]]
+id          = "dotfiles"
+name        = "My dotfiles"
+description = """
+A custom Wayland desktop environment fine-tuned to my development workflow and
+daily usage.
+"""
+
+[[projects]]
+id          = "raycasting"
+name        = "Raycaster"
+description = """
+A native and web Wolfenstein-style ray-casting pseudo-3D renderer in C++.
+"""
+web_demo    = true
+
+[[projects]]
+id          = "pathtracer"
+name        = "Path tracer"
+description = """
+A real-time, GPU accelerated, interactive path tracing engine written in C and
+OpenGL.
+"""
+
+[[projects]]
+id          = "voronoi"
+name        = "Voronoi diagram"
+description = """
+A Real-time, dynamic [Voronoi diagram](//en.wikipedia.org/wiki/Voronoi_diagram)
+renderer on the GPU with C and OpenGL.
+"""
+web_demo    = true
+
+[[projects]]
+id          = "mandelbrot"
+name        = "Mandelbrot"
+description = """
+A native and mobile-friendly web application for rendering and viewing the
+[Mandelbrot set](//en.wikipedia.org/wiki/Mandelbrot_set).
+"""
+web_demo    = true

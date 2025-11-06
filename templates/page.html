@@ -1,0 +1,21 @@
+{% import "macros.html" as macros %}
+
+{% extends "base.html" %}
+
+{% block head %}
+  {% if page.extra.css %}
+    {% for css in page.extra.css %}
+      <link rel="stylesheet" href="/styles/{{ css }}">
+    {% endfor %}
+  {% endif %}
+
+  <link rel="stylesheet" href="/styles/page.css">
+{% endblock %}
+
+{% block content %}
+  {{ macros::post_header(page=page) }}
+
+  <article class="content__body">
+    {{ page.content | safe }}
+  </article>
+{% endblock %}

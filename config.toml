@@ -1,0 +1,27 @@
+# The URL the site will be built for
+base_url = "https://ziap.github.io"
+
+title = "Zap's website"
+author = "Zap"
+description = "Bui Huy Giap's personal website and blog"
+output_dir = ".dist"
+
+compile_sass = false
+build_search_index = false
+
+generate_feeds = true
+feed_filenames = ["rss.xml"]
+
+minify_html = true
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+highlight_theme = "OneHalfDark"
+smart_punctuation = true
+
+[extra]
+# Put all your custom variables here
+reading_speed = 250
+font_scale = 1.189207115002721 # 2^0.25

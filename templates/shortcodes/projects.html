@@ -1,0 +1,26 @@
+{% import "macros.html" as macros %}
+
+<div class="projects">
+  {% set works = load_data(path="projects.toml") %}
+  {% for work in works.projects %}
+  <div class="project">
+    <div class="project__info">
+      <img class="project__img" src="/images/projects/{{ work.id }}.png" alt="Preview of the {{ work.name }} project">
+      <h3 class="project__title">{{ work.name }}</h3>
+      {{ work.description | markdown | safe }}
+    </div>
+
+    <div class="project__links">
+      <a href="//github.com/ziap/{{ work.id }}" class="project__btn">
+        Code {{ macros::icon(name="github") }}
+      </a>
+
+      {% if work.web_demo %}
+      <a href="//ziap.github.io/{{ work.id }}" class="project__btn">
+        Demo {{ macros::icon(name="play") }}
+      </a>
+      {% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</div>

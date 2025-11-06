@@ -1,0 +1,36 @@
+#posts {
+  max-width: var(--body-width);
+  margin: 0 auto;
+  padding: 5rem 1rem;
+}
+
+.posts__title {
+  font-size: 1.602rem;
+  margin: 0 0 2rem 0;
+}
+
+.posts__list {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.posts__item__title {
+  margin: 0;
+}
+
+.posts__link {
+  font-weight: 700;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  margin-top: 2rem;
+  gap: 1ch;
+  transition: padding 300ms;
+
+  &:hover {
+    padding-left: 0.5rem; 
+  }
+}
