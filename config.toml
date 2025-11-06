@@ -1,8 +1,8 @@
 # The URL the site will be built for
 base_url = "https://ishandutta2007.github.io"
 
-title = "Zap's website"
-author = "Zap"
+title = "Ishan's website"
+author = "Ishan"
 description = "Bui Huy Giap's personal website and blog"
 output_dir = ".dist"
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-      <title>Zap&#x27;s website</title>
+      <title>Ishan&#x27;s website</title>
       <link>https://ishandutta2007.github.io</link>
       <description>Bui Huy Giap&#x27;s personal website and blog</description>
       <generator>Zola</generator>
@@ -11,7 +11,7 @@
       <item>
           <title>Fast BPE tokenizer - Overview and arena allocated decoding</title>
           <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
-          <author>Zap</author>
+          <author>Ishan</author>
           <link>https://ishandutta2007.github.io/blog/bpe-1/</link>
           <guid>https://ishandutta2007.github.io/blog/bpe-1/</guid>
           <description xml:base="https://ishandutta2007.github.io/blog/bpe-1/">&lt;p&gt;This is the first entry of a series of articles about designing an efficient
@@ -25,7 +25,7 @@ efficient decoder implementation.&lt;&#x2F;p&gt;
       <item>
           <title>Struct of Arrays (SoA) in TypeScript with metaprogramming</title>
           <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-          <author>Zap</author>
+          <author>Ishan</author>
           <link>https://ishandutta2007.github.io/blog/parallel-array/</link>
           <guid>https://ishandutta2007.github.io/blog/parallel-array/</guid>
           <description xml:base="https://ishandutta2007.github.io/blog/parallel-array/">&lt;p&gt;Struct of Arrays (SoA) is the bread and butter and textbook example of
@@ -42,7 +42,7 @@ for trying out TypeScript’s type-level metaprogramming.&lt;&#x2F;p&gt;
       <item>
           <title>Implementing a 64-bit Pseudo-random number generator</title>
           <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-          <author>Zap</author>
+          <author>Ishan</author>
           <link>https://ishandutta2007.github.io/blog/prng/</link>
           <guid>https://ishandutta2007.github.io/blog/prng/</guid>
           <description xml:base="https://ishandutta2007.github.io/blog/prng/">&lt;p&gt;Let’s face it, determinism is boring. I’ve been using Pseudo-random number
@@ -54,7 +54,7 @@ and multithreaded generation.&lt;&#x2F;p&gt;
       <item>
           <title>Writing a 15-puzzle solver</title>
           <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-          <author>Zap</author>
+          <author>Ishan</author>
           <link>https://ishandutta2007.github.io/blog/sliding-puzzle/</link>
           <guid>https://ishandutta2007.github.io/blog/sliding-puzzle/</guid>
           <description xml:base="https://ishandutta2007.github.io/blog/sliding-puzzle/">&lt;p&gt;In computer science, the problems that captivate me the most are the ones that
@@ -72,7 +72,7 @@ random instances pretty quickly.&lt;&#x2F;p&gt;
       <item>
           <title>Setting up a reproducible cross-compiling environment in NixOS</title>
           <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-          <author>Zap</author>
+          <author>Ishan</author>
           <link>https://ishandutta2007.github.io/blog/nixos-cross-compilation/</link>
           <guid>https://ishandutta2007.github.io/blog/nixos-cross-compilation/</guid>
           <description xml:base="https://ishandutta2007.github.io/blog/nixos-cross-compilation/">&lt;p&gt;NixOS makes it very hard to run dynamically linked application, to the point
@@ -91,7 +91,7 @@ article documents my process of setting that up for Rust, Zig, C, and C++.&lt;&#
       <item>
           <title>What I learned in 2024</title>
           <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-          <author>Zap</author>
+          <author>Ishan</author>
           <link>https://ishandutta2007.github.io/blog/2024-wrap-up/</link>
           <guid>https://ishandutta2007.github.io/blog/2024-wrap-up/</guid>
           <description xml:base="https://ishandutta2007.github.io/blog/2024-wrap-up/">&lt;p&gt;Usually, people write this kind of post somewhere at the end of the year. But I
@@ -103,7 +103,7 @@ quite an interesting year for me.&lt;&#x2F;p&gt;
       <item>
           <title>My desktop customization journey</title>
           <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-          <author>Zap</author>
+          <author>Ishan</author>
           <link>https://ishandutta2007.github.io/blog/customization/</link>
           <guid>https://ishandutta2007.github.io/blog/customization/</guid>
           <description xml:base="https://ishandutta2007.github.io/blog/customization/">&lt;p&gt;I’m a massive tinkerer, I love breaking things to see why it broke and how to
@@ -117,7 +117,7 @@ my workflow, to be more in tune with technology.&lt;&#x2F;p&gt;
       <item>
           <title>String matching with compile time hash tables</title>
           <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-          <author>Zap</author>
+          <author>Ishan</author>
           <link>https://ishandutta2007.github.io/blog/string-matching/</link>
           <guid>https://ishandutta2007.github.io/blog/string-matching/</guid>
           <description xml:base="https://ishandutta2007.github.io/blog/string-matching/">&lt;p&gt;I use switch statements a lot in C and even C++. The syntax sucks, but the
@@ -132,7 +132,7 @@ solution for it.&lt;&#x2F;p&gt;
       <item>
           <title>Approximating sin(2πx)</title>
           <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-          <author>Zap</author>
+          <author>Ishan</author>
           <link>https://ishandutta2007.github.io/blog/sin-approx/</link>
           <guid>https://ishandutta2007.github.io/blog/sin-approx/</guid>
           <description xml:base="https://ishandutta2007.github.io/blog/sin-approx/">&lt;p&gt;I use trigonometric functions extremely often, ever since I started doing
@@ -145,7 +145,7 @@ languages. This is not the case if you’re programming in embedded systems or
       <item>
           <title>Introduction to freestanding WebAssembly</title>
           <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-          <author>Zap</author>
+          <author>Ishan</author>
           <link>https://ishandutta2007.github.io/blog/wasm/</link>
           <guid>https://ishandutta2007.github.io/blog/wasm/</guid>
           <description xml:base="https://ishandutta2007.github.io/blog/wasm/">&lt;p&gt;I’ve been using WebAssembly (WASM) for quite a while, and the learning
@@ -159,7 +159,7 @@ programming and web development.&lt;&#x2F;p&gt;
       <item>
           <title>I switched to Fish as my interactive shell</title>
           <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-          <author>Zap</author>
+          <author>Ishan</author>
           <link>https://ishandutta2007.github.io/blog/fish-shell/</link>
           <guid>https://ishandutta2007.github.io/blog/fish-shell/</guid>
           <description xml:base="https://ishandutta2007.github.io/blog/fish-shell/">&lt;p&gt;ZSH has been my shell of choice since I started my command-line-centric
@@ -173,7 +173,7 @@ this is why.&lt;&#x2F;p&gt;
       <item>
           <title>My personal strategies for arena allocation</title>
           <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-          <author>Zap</author>
+          <author>Ishan</author>
           <link>https://ishandutta2007.github.io/blog/arena/</link>
           <guid>https://ishandutta2007.github.io/blog/arena/</guid>
           <description xml:base="https://ishandutta2007.github.io/blog/arena/">&lt;p&gt;A drawback that people often mention when programming in C is the lack of RAII.
@@ -188,7 +188,7 @@ this is where the “arena” allocator comes in.&lt;&#x2F;p&gt;
       <item>
           <title>A game I made as a course project</title>
           <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-          <author>Zap</author>
+          <author>Ishan</author>
           <link>https://ishandutta2007.github.io/blog/programming-techniques-project/</link>
           <guid>https://ishandutta2007.github.io/blog/programming-techniques-project/</guid>
           <description xml:base="https://ishandutta2007.github.io/blog/programming-techniques-project/">&lt;p&gt;I recently programmed a large chunk of the game from scratch for a university
@@ -200,7 +200,7 @@ what I learned, and how I applied my knowledge from and outside the course.&lt;&
       <item>
           <title>Easy, efficient, and practical queue implementation</title>
           <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-          <author>Zap</author>
+          <author>Ishan</author>
           <link>https://ishandutta2007.github.io/blog/queue/</link>
           <guid>https://ishandutta2007.github.io/blog/queue/</guid>
           <description xml:base="https://ishandutta2007.github.io/blog/queue/">&lt;p&gt;From breadth-first search to task scheduling, queues are extremely useful in
@@ -215,7 +215,7 @@ JavaScript doesn’t have an efficient queue implementation.&lt;&#x2F;p&gt;
       <item>
           <title>A faster, more flexible alternative to run-time polymorphism in C++ feat. Rust</title>
           <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-          <author>Zap</author>
+          <author>Ishan</author>
           <link>https://ishandutta2007.github.io/blog/polymorphism/</link>
           <guid>https://ishandutta2007.github.io/blog/polymorphism/</guid>
           <description xml:base="https://ishandutta2007.github.io/blog/polymorphism/">&lt;p&gt;When I first heard about run-time polymorphism in C++ using virtual methods, my
@@ -230,7 +230,7 @@ polymorphism is, and why I still think that I don’t need it.&lt;&#x2F;p&gt;
       <item>
           <title>Rewriting my website and starting a blog</title>
           <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-          <author>Zap</author>
+          <author>Ishan</author>
           <link>https://ishandutta2007.github.io/blog/new-website/</link>
           <guid>https://ishandutta2007.github.io/blog/new-website/</guid>
           <description xml:base="https://ishandutta2007.github.io/blog/new-website/">&lt;p&gt;I already have a website hosted on GitHub pages. It was built around 2 years
