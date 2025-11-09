@@ -25,3 +25,8 @@ smart_punctuation = true
 # Put all your custom variables here
 reading_speed = 250
 font_scale = 1.189207115002721 # 2^0.25
+
+github_url = "https://github.com/ishandutta2007"
+twitter_url = "https://twitter.com/ishandutta2007"
+linkedin_url = "https://www.linkedin.com/in/ishandutta2007/"
+

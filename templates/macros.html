@@ -37,6 +37,18 @@
           {{ self::icon(name="clock") }}
           {{ self::reading_time(word_count=page.word_count) }}
         </div>
+
+        <div class="post-header__social">
+          <a href="{{ config.extra.github_url }}" target="_blank" aria-label="Github">
+            {{ self::icon(name="github") }}
+          </a>
+          <a href="{{ config.extra.twitter_url }}" target="_blank" aria-label="Twitter">
+            {{ self::icon(name="twitter") }}
+          </a>
+          <a href="{{ config.extra.linkedin_url }}" target="_blank" aria-label="LinkedIn">
+            {{ self::icon(name="linkedin") }}
+          </a>
+        </div>
       </div>
     {% endif %}
   </header>

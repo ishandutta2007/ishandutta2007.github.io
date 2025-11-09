@@ -181,3 +181,21 @@
 .post-header__data > svg {
   fill: var(--secondary-color);
 }
+
+.post-header__social {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.post-header__social a {
+  display: inline-block;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.post-header__social a svg {
+  width: 100%;
+  height: 100%;
+  fill: currentColor;
+}
