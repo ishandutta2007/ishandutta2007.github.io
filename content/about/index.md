@@ -5,7 +5,7 @@ title = "About me"
 css = ["about.css"]
 +++
 
-I’m Ishan, a student and software developer based in Ho Chi Minh City, Vietnam.
+I’m Ishan, an ex-FAANG engineer.
 At school, I research machine learning algorithms and applications. During my
 free time, I usually work on side projects or learn new techniques. My goal is
 to create helpful tools and applications with intuitive and presentable
