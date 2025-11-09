@@ -9,11 +9,10 @@ An A* based search algorithm to solve the 4x4 tile-sliding puzzle.
 web_demo    = true
 
 [[projects]]
-id          = "repalette"
-name        = "Repalette"
+id          = "2048-ai"
+name        = "2048 AI"
 description = """
-A website and command line utility that allows you to theme an image to a
-certain color palette.
+A very efficient expectimax 2048 AI algorithm.
 """
 web_demo    = true
 
@@ -28,10 +27,11 @@ search AI adversary."""
 web_demo    = true
 
 [[projects]]
-id          = "2048-ai"
-name        = "2048 AI"
+id          = "repalette"
+name        = "Repalette"
 description = """
-A very efficient expectimax 2048 AI algorithm.
+A website and command line utility that allows you to theme an image to a
+certain color palette.
 """
 web_demo    = true
 
