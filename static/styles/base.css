@@ -4,12 +4,12 @@
 
 :root {
   --body-width: 1120px;
-  --accent-color: #1aa8f4;
-  --secondary-color: #033451;
-  --text-color: #363a3e;
-  --bg-color1: #a3d2f4;
-  --bg-color2: #e8eef4;
-  --accent-hover-color: #0784c3;
+  --accent-color: #007acc;
+  --secondary-color: #2c3e50;
+  --text-color: #34495e;
+  --bg-color1: #f8f9fa;
+  --bg-color2: #e9ecef;
+  --accent-hover-color: #005f9e;
 }
 
 html {
@@ -36,7 +36,7 @@ pre, code {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Merriweather Sans", Seravek, "Gill Sans Nova", Ubuntu, Calibri, "DejaVu Sans", source-sans-pro, sans-serif; 
+  font-family: "Merriweather", serif; 
   font-weight: 700;
 }
 

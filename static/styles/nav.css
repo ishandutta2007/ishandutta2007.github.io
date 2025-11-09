@@ -50,8 +50,11 @@
   border-radius: 6px;
   text-decoration: none;
   font-weight: 400;
+}
 
-  &:hover {
-    background: var(--bg-color2);
-  }
+.nav__link:hover {
+  color: var(--accent-color);
+  text-decoration: none; /* Remove default underline */
+  border-bottom: 2px solid var(--accent-color); /* Add a subtle bottom border */
+  padding-bottom: 0.3rem; /* Adjust padding to make space for the border */
 }

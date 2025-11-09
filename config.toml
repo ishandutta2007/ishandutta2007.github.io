@@ -3,7 +3,7 @@ base_url = "https://ishandutta2007.github.io"
 
 title = "Ishan's website"
 author = "Ishan"
-description = "Bui Huy Giap's personal website and blog"
+description = "Ishan's personal website and blog"
 output_dir = ".dist"
 
 compile_sass = false
