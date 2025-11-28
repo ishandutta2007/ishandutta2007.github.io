@@ -5,16 +5,11 @@ title = "About me"
 css = ["about.css"]
 +++
 
-I’m Ishan, an ex-FAANG engineer.
-At school, I research machine learning algorithms and applications. During my
-free time, I usually work on side projects or learn new techniques. My goal is
-to create helpful tools and applications with intuitive and presentable
-interfaces.
+I'm Ishan Dutta, an Entrepreneur, Digital Marketer, and Programmer. I specialize in SaaS Development and am passionate about creating helpful tools and applications with intuitive and presentable interfaces.
 
-I'm glad you've come across my website. This is where I organize and share my
-thoughts and experiences. I'll try to write about my notes or opinions about
-certain topics I recently encountered, especially those that I found
-interesting or had the most trouble articulating.
+I'm glad you've come across my website. This is where I organize and share my thoughts and experiences. 
+I'll try to write about my notes or opinions about certain topics I recently encountered, 
+especially those that I found interesting or had the most trouble articulating.
 
 <div class="about__info">
 
@@ -25,6 +20,10 @@ interesting or had the most trouble articulating.
 - My setup and programs are available on [my dotfiles](//github.com/ishandutta2007/dotfiles).
 
 </div>
+
+## Experience
+
+I have experience working with big techs as well as startups.
 
 ## Tech stack
 
