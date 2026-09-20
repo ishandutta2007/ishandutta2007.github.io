@@ -30,3 +30,7 @@ github_url = "https://github.com/ishandutta2007"
 twitter_url = "https://twitter.com/ishandutta2007"
 linkedin_url = "https://www.linkedin.com/in/ishandutta2007/"
 
+# Google Analytics (GA4) Measurement ID
+google_analytics = "G-Z32BEBYQQC"
+
+

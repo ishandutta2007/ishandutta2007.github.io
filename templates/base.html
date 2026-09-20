@@ -39,6 +39,17 @@
     <link rel="stylesheet" href="/styles/nav.css">
     <link rel="stylesheet" href="/styles/footer.css">
     <link rel="alternate" href="/rss.xml" type="application/rss+xml" title="RSS">
+    {% if config.extra.google_analytics %}
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ config.extra.google_analytics }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '{{ config.extra.google_analytics }}');
+      </script>
+    {% endif %}
     {% block head %}{% endblock %}
   </head>
   <body>
